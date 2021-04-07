@@ -1,31 +1,42 @@
 from django.core.management.base import BaseCommand
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
+import pandas as pd
 import json
 from scraping.models import Job
+
+
+
+
 class Command(BaseCommand):
     help = "collect jobs"
     # define logic of command
     def handle(self, *args, **options):
         # collect html
-        html = urlopen('https://jobs.lever.co/opencare')
+        urls = 'https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-monetaire/Marche-monetaire-interbancaire/'
+        dfs = pd.read_html(urls)
+        #html = urlopen('https://jobs.lever.co/opencare')
+        html = urlopen(urls)
         # convert to soup
         soup = BeautifulSoup(html, 'html.parser')
         # grab all postings
-        postings = soup.find_all("div", class_="posting")
+        postings = soup.find_all("div", class_="block-table")
         for p in postings:
-            url = p.find('a', class_='posting-btn-submit')['href']
-            title = p.find('h5').text
-            location = p.find('span', class_='sort-by-location').text
+            #url = p.find('a', class_='posting-btn-submit')['href']
+            url = p.find('td').text
+            title = p.find('th').text
+            #location = p.find('span', class_='sort-by-location').text
             # check if url in db
             try:
                 # save in db
                 Job.objects.create(
                     url=url,
                     title=title,
-                    location=location
+                    #location=location
                 )
                 print('%s added' % (title,))
             except:
                 print('%s already exists' % (title,))
         self.stdout.write( 'job complete' )
+
+

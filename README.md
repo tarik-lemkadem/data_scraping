@@ -1,4 +1,4 @@
-# scrapnig_data
+# scraping_data
 run the following commands 
 </br>
 python manage.py makemigrations</br>

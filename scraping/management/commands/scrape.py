@@ -10,10 +10,11 @@ from scraping.models import Job
 
 class Command(BaseCommand):
     help = "collect jobs"
-    # define logic of command
+    # define  command
     def handle(self, *args, **options):
         # collect html
-        urls = 'https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-monetaire/Marche-monetaire-interbancaire/'
+        urls = 'https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-monetaire/Marche-monetaire-interbancaire?limit=0&block=ae14ce1a4ee29af53d5645f51bf0e97d&offset=30#address-d3239ec6d067cd9381f137545720a6c9-ae14ce1a4ee29af53d5645f51bf0e97d'
+        #'https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-monetaire/Marche-monetaire-interbancaire/'
         dfs = pd.read_html(urls)
 
         #page = urllib2.urlopen(urls).read()
@@ -27,12 +28,28 @@ class Command(BaseCommand):
         #table = soup.find_all("div", class_="block-table")
         columns=[ 'Date','Taux Moyen Pondéré','Volume JJ','Encours']
         data = list()
-        for tr in soup.find_all('tr')[2:]:
-            tds = tr.find_all('td')
-            print (tds[0].text,tds[1].text,tds[2].text,tds[3].text)
-            data.append([tds[0].text,tds[1].text,tds[2].text,tds[3].text])
-      
         header =columns
+        for tr in soup.find_all('tr')[1:]:
+            tds = tr.find_all('td')
+            #print (tds[0].text,tds[1].text,tds[2].text,tds[3].text)
+            
+            data.append([tds[0].text,tds[1].text,tds[2].text,tds[3].text])
+            
+            try:
+            # save in db
+                #Job.objects.update_or_create(
+            
+                Job.objects.create(
+                    date =  tds[0].text,
+                    taux = tds[1].text,
+                    volume = tds[2].text,
+                    encours = tds[3].text
+                    )
+                
+                print('data added' )
+            except:
+                print('data already exists' )
+        
         #header = soup.find_all("th").text
         #header = soup.find("thead").text#[4]
         #data = soup.find_all("td").text
@@ -69,16 +86,7 @@ class Command(BaseCommand):
         '''
         df = pd.DataFrame(data,columns=columns)
         df.to_csv("./table.csv")
-        try:
-            # save in db
-            Job.objects.create(
-                data=data,
-                header=header,
-                #location=location
-            )
-            print('%s added' % (header,))
-        except:
-            print('%s already exists' % (header,))
+        
         self.stdout.write( 'job complete' )
 
 

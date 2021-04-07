@@ -20,23 +20,51 @@ class Command(BaseCommand):
         # convert to soup
         soup = BeautifulSoup(html, 'html.parser')
         # grab all postings
-        postings = soup.find_all("div", class_="block-table")
-        for p in postings:
+        #postings = soup.find_all("div", class_="block-table")
+        columns=[ 'Date','Taux Moyen Pondéré','Volume JJ','Encours']
+        
+        #header = soup.find_all("th")#.text
+        header = soup.find("thead").text
+        #data = soup.find_all("td")#.text
+        data = soup.find("tbody").text
+        data = str(data)
+        data.replace("\n"," ")
+        header = str(header)
+        header.replace("\n"," ")
+        #data.replace("<tbody>"," ")
+        with open(f"./table.txt", 'w') as f:
+            f.write(str(header))
+            f.write(str(data))
+        '''
+        for p in header:
+            data = p.find('th')#.text
+        for p in data:
             #url = p.find('a', class_='posting-btn-submit')['href']
-            url = p.find('td').text
-            title = p.find('th').text
+            #url = p.find('td').text
+            title = p.find('td')#.text
             #location = p.find('span', class_='sort-by-location').text
             # check if url in db
             try:
                 # save in db
                 Job.objects.create(
-                    url=url,
+                    data=data,
                     title=title,
                     #location=location
                 )
                 print('%s added' % (title,))
             except:
                 print('%s already exists' % (title,))
+        '''
+        try:
+            # save in db
+            Job.objects.create(
+                data=data,
+                header=header,
+                #location=location
+            )
+            print('%s added' % (header,))
+        except:
+            print('%s already exists' % (header,))
         self.stdout.write( 'job complete' )
 
 

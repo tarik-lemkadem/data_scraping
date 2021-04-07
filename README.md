@@ -1,10 +1,10 @@
 # scrapnig_data
 run the following commands 
-
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-
+<\br>
+python manage.py makemigrations<\br>
+python manage.py migrate<\br>
+python manage.py runserver<\br>
+<\br>
 
 
 python manage.py scrape

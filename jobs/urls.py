@@ -19,5 +19,6 @@ from scraping import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',views.home),
+    path('', admin.site.urls),
+    path('home/',views.home),
 ]

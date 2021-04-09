@@ -23,12 +23,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-#SECRET_KEY = '!n+ci@=t^t_x+kl9+aqykp&0tuy!i+4n0@5s27t-422knh6i(j'
+SECRET_KEY = '!n+ci@=t^t_x+kl9+aqykp&0tuy!i+4n0@5s27t-422knh6i(j'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False #True
 
-SECRET_KEY = os.environ.get('SECRET_KEY')
+#SECRET_KEY = os.environ.get('SECRET_KEY')
 EMAIL_HOST_USER = os.environ.get('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 
@@ -67,7 +67,7 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['html'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -146,6 +146,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #location where django collect all static files
+
+
 STATIC_ROOT = os.path.join(BASE_DIR,'static')
 # location where you will store your static files
 STATICFILES_DIRS = [os.path.join(BASE_DIR,'jobs/static')
@@ -154,3 +156,6 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR,'jobs/static')
 
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 MEDIA_URL = '/media/'
+
+import django_heroku
+django_heroku.settings(locals())

@@ -1,0 +1,836 @@
+,0
+0,"                    42 271  ...  +0,5%, ÉCHÉANCES REPORTÉES SUR L’ENSEMBLE DES MARCHÉS 750 MDH Pour sa part, le résultat des opérations de marché recule de 0,9% pour atteindre
+0                      NaN  ...  Les emplois clientèle du Crédit du Maroc enreg...                                                                                             
+1                      NaN  ...  43 856 millions de dirhams, par rapport à fin ...                                                                                             
+2                    +3,8%  ...  sanitaire a affecté les crédits aux particulie...                                                                                             
+3                      NaN  ...  plus faible sur le deuxième trimestre 2020. Le...                                                                                             
+4                      NaN  ...  été orientés vers l’accompagnement des clients...                                                                                             
+5                      NaN  ...  à travers la mise en place des moratoires de c...                                                                                             
+6                Juin 2019  ...  a concerné plus de 13 000 clients particuliers...                                                                                             
+7   En millions de dirhams  ...  d’échéances reportées et un taux d’accord de p...                                                                                             
+8                      NaN  ...  Les encours de crédits habitat progressent de ...                                                                                             
+9          CRÉDITS HABITAT  ...                                                NaN                                                                                             
+10                     NaN  ...  affichent une part de marché à 6,63%. Les enco...                                                                                             
+11                     NaN  ...  Le résultat brut d’exploitation se situe à 500...                                                                                             
+12                     NaN  ...  diminuent de -3,5% ce qui impacte leur part de...                                                                                             
+13                  14 089  ...  de base sur une année glissante pour s’établir...                                                                                             
+14                     NaN  ...  Les crédits aux entreprises voient leurs encou...                                                                                             
+15                   +1,6%  ...  à juin 2019, à 20 373 millions de dirhams. Cet...                                                                                             
+16                     NaN  ...  des crédits de trésorerie de 14,5% et des créd...                                                                                             
+17                     NaN  ...  l’équipement affichent, quant à eux, une quasi...                                                                                             
+18                     NaN  ...  niveau des investissements des entreprises en ...                                                                                             
+19                     NaN  ...  Il est à noter que le Crédit du Maroc a accord...                                                                                             
+20               Juin 2019  ...                                                NaN                                                                                             
+21                     NaN  ...  près de 620 millions de dirhams de lignes Dama...                                                                                             
+22  En millions de dirhams  ...  S’agissant des créances en souffrance, elles i...                                                                                             
+23                     NaN  ...  crise sanitaire et sont en hausse de 14,2%, pr...                                                                                             
+24        RESSOURCES À VUE  ...  aux particuliers. UN COÛT DU RISQUE IMPACTÉ PA...                                                                                             
+25                     NaN  ...                   205,2%, TAUX DE COUVERTURE 94,6%                                                                                             
+26                     NaN  ...                                                NaN                                                                                             
+27                  27 151  ...  UNE BONNE DYNAMIQUE SUR LA COLLECTE – RESSOURC...                                                                                             
+28                     NaN  ...  RESSOURCES HORS BILAN +19,5% millions de dirha...                                                                                             
+29                  +10,2%  ...  Les ressources à la clientèle s’apprécient de ...                                                                                             
+30                     NaN  ...  44 010 millions de dirhams. Cette performance ...                                                                                             
+31                     NaN  ...  les ressources à vue, qui évoluent de 10,2%, à...                                                                                             
+32                     NaN  ...  dépôts à terme en baisse de 13,1%, la collecte...                                                                                             
+33                     NaN  ...  une progression de 6,5%. Le Crédit du Maroc co...                                                                                             
+34               Juin 2019  ...  Pour leur part, les ressources hors bilan augm...                                                                                             
+
+[35 rows x 5 columns]"
+1,"   +0,5%, ÉCHÉANCES REPORTÉES SUR L’ENSEMBLE DES MARCHÉS 750 MDH Pour sa part, le résultat des opérations de marché recule de 0,9% pour atteindre  ...                Unnamed: 1
+0   Les emplois clientèle du Crédit du Maroc enreg...                                                                                              ...                       NaN
+1   43 856 millions de dirhams, par rapport à fin ...                                                                                              ...       Juin 2019 Juin 2020
+2   sanitaire a affecté les crédits aux particulie...                                                                                              ...    En millions de dirhams
+3   plus faible sur le deuxième trimestre 2020. Le...                                                                                              ...                       NaN
+4   été orientés vers l’accompagnement des clients...                                                                                              ...      RATIO DE SOLVABILITÉ
+5   à travers la mise en place des moratoires de c...                                                                                              ...                       NaN
+6   a concerné plus de 13 000 clients particuliers...                                                                                              ...              14,90%14,83%
+7   d’échéances reportées et un taux d’accord de p...                                                                                              ...                       NaN
+8   Les encours de crédits habitat progressent de ...                                                                                              ...                   min 12%
+9   affichent une part de marché à 6,63%. Les enco...                                                                                              ...                       NaN
+10  diminuent de -3,5% ce qui impacte leur part de...                                                                                              ...                       NaN
+11  de base sur une année glissante pour s’établir...                                                                                              ...       Juin 2019 Juin 2020
+12  Les crédits aux entreprises voient leurs encou...                                                                                              ...                       NaN
+13  à juin 2019, à 20 373 millions de dirhams. Cet...                                                                                              ...    En millions de dirhams
+14  des crédits de trésorerie de 14,5% et des créd...                                                                                              ...                       NaN
+15  l’équipement affichent, quant à eux, une quasi...                                                                                              ...                       NaN
+16  niveau des investissements des entreprises en ...                                                                                              ...                       NaN
+17  Il est à noter que le Crédit du Maroc a accord...                                                                                              ...                       NaN
+18  près de 620 millions de dirhams de lignes Dama...                                                                                              ...                       NaN
+19                                                NaN                                                                                              ...                       NaN
+20  semestre 2020 un montant total de 165 millions...                                                                                              ...                       NaN
+21  S’agissant des créances en souffrance, elles i...                                                                                              ...                       NaN
+22                                                NaN                                                                                              ...                       NaN
+23  l’essentiel le projet du nouveau siège « Les A...                                                                                              ...                       NaN
+24  à crise sanitaire et sont en hausse de 14,2%, ...                                                                                              ...          du Maroc ressort
+25  2 108,1 millions de dirhams, en progression au...                                                                                              ...                       NaN
+26                   205,2%, TAUX DE COUVERTURE 94,6%                                                                                              ...                       NaN
+27  UNE BONNE DYNAMIQUE SUR LA COLLECTE – RESSOURC...                                                                                              ...                       NaN
+28  RESSOURCES HORS BILAN +19,5% millions de dirha...                                                                                              ...                       NaN
+29                                                NaN                                                                                              ...                       NaN
+30  Les ressources à la clientèle s’apprécient de ...                                                                                              ...                       NaN
+31                                                NaN                                                                                              ...                       NaN
+32  44 010 millions de dirhams. Cette performance ...                                                                                              ...                       NaN
+33                                                NaN                                                                                              ...                       NaN
+34  les ressources à vue, qui évoluent de 10,2%, à...                                                                                              ...                       NaN
+35                                                NaN                                                                                              ...                       NaN
+36  dépôts à terme en baisse de 13,1%, la collecte...                                                                                              ...                       NaN
+37                                                NaN                                                                                              ...  s’est pleinement inscrit
+38  une progression de 6,5%. Le Crédit du Maroc co...                                                                                              ...                       NaN
+39                                                NaN                                                                                              ...                       NaN
+40  Pour leur part, les ressources hors bilan augm...                                                                                              ...                       NaN
+41                                                NaN                                                                                              ...                       NaN
+42  hausse des encours OPCVM (24,9%) et ceux de l’...                                                                                              ...                       NaN
+43                                                NaN                                                                                              ...         de 85 millions de
+44  UNE ACTIVITÉ BANCASSURANCE RALENTIE - PRIMES B...                                                                                              ...                       NaN
+45                   NON VIE -1,5% DON COVID 77,3 MDH                                                                                              ...                       NaN
+46  Les primes collectées au premier semestre en a...                                                                                              ...                       NaN
+47  de 1,5% par rapport à la même période de 2019 ...                                                                                              ...                       NaN
+48  crise sanitaire. Les principales branches port...                                                                                              ...  maintenant les activités
+49  5,9% et l’assistance 2,8%. du coût du risque s...                                                                                              ...                       NaN
+50                                                NaN                                                                                              ...                       NaN
+51  UN PRODUIT NET BANCAIRE RÉSILIENT - PNB CONSOL...                                                                                              ...                       NaN
+52  À fin juin 2020, le produit net bancaire du Cr...                                                                                              ...     d’activité, à travers
+53  par rapport à juin 2019 pour s’établir à 1 198...                                                                                              ...     des agences bancaires
+54  signaler que le produit net bancaire du deuxiè...                                                                                              ...       la mise en place du
+
+[55 rows x 3 columns]"
+2,"   des mesures préventives et des gestes barrières au quotidien.  ... 2 004 729  1 545 760
+0   Le Crédit du Maroc a apporté son soutien aux c...             ...            1 219 938
+1   faire face à cette crise inédite en adoptant l...             ...              325 823
+2                                                 NaN             ...                    -
+3   Ainsi, 290 000 clients ont été contactés dans ...             ...            3 729 703
+4   reports d’échéances de crédit, plus de 500 cli...             ...                  NaN
+..                                                ...             ...                  ...
+74  épargne, assurances, gestion d’actifs, immobil...             ...                27,63
+75  d’investissement. Mouna Benrhanem - mouna.benr...             ...                27,63
+76  sociale d’entreprise dynamique et innovante. E...             ...                27,63
+77  tout le Groupe et met chaque collaborateur en ...             ...                    -
+78  Pour plus d’information : www.credit-agricole....             ...                  NaN
+
+[79 rows x 6 columns]"
+3,"   Sur la période post-confinement, le Crédit du Maroc a adapté son dispositif de travail pour une reprise totale de ses activités, à  ...  Unnamed: 7
+0                                                NaN                                                                                   ...  31/12/2019
+
+[1 rows x 9 columns]"
+4,"Empty DataFrame
+Columns: [TOTAL, 57 573 476, 59 159 457, TOTAL.1, 57 573 476.1, 59 159 457.1]
+Index: []"
+5,"Empty DataFrame
+Columns: [et leur mobilisation au service des clients de la banque et des citoyens marocains en ces circonstances difficiles., COMPTE DE RÉSULTAT, NOTES, 30/06/2020, 30/06/2019, FLUX DE TRESORERIE, 30/06/2020.1, 31/12/2019]
+Index: []"
+6,"   et la facilitation des opérations à distance. BILAN CONSOLIDÉ IFRS AU 30 JUIN 2020  ...             Unnamed: 3
+0                                                 NaN                                  ...    (En milliers de DH)
+1   dispositif de travail pour une reprise totale ...                                  ...                    NaN
+2                              ACTIF  CONSOLIDÉ NOTES                                  ...  30/06/2020 31/12/2019
+3   , leur équipement en outils de travail à dista...                                  ...                    NaN
+4                                 des chèques postaux                                  ...                   9  9
+..                                                ...                                  ...                    ...
+83                       résultat net  Part du groupe                                  ...     1 612 522 -176 497
+84  Contact Presse - Communication financière :  R...                                  ...   2 673 288  3 617 836
+85  Mouna Benrhanem - mouna.benrhanem@ca-cdm.ma Ré...                                  ...   1 509 932  2 005 314
+86  Site web : wwww.creditdumaroc.ma – Centre de R...                                  ...              1 163 357
+87  https://www.creditdumaroc.ma/institutionnel/pu...                                  ...    -944 548  2 042 888
+
+[88 rows x 5 columns]"
+7,"  Unnamed: 0        Unnamed: 1  ... Unnamed: 12                                        Unnamed: 13
+0        NaN          Réserves  ...         NaN                                                NaN
+1    Capital  liées au capital  ...       Total                                          Préambule
+2        NaN               NaN  ...         NaN  Le Groupe Crédit du Maroc est consolidé en normes
+
+[3 rows x 16 columns]"
+8,"         Capitaux propres clôture au 31 Décembre 2018  ... IAS/ IFRS depuis 2004, en tant que filiale, dans les
+0                              Opérations sur capital  ...                    comptes du Crédit Agricole S.A.  
+1                    Paiements fondés sur des actions  ...  En 2008 le Crédit du Maroc a procédé à une con...  
+2                      Opérations sur actions propres  ...  des paramètres et des options de consolidation...  
+3                                          Dividendes  ...  les comptes consolidés en normes IAS/IFRS publiés  
+4                                              Autres  ...  au 31 décembre 2008 en application des disposi...  
+5                  Changements de méthodes comptables  ...     réglementaires de Bank Al Maghrib (BAM) et les  
+6                              Résultat de l'exercice  ...    comptes adressés au Crédit Agricole SA pour les  
+7      Immobilisations corporelles et incorporelles :  ...                       besoins de sa consolidation.  
+8                           Réevaluations et cessions  ...  Le Crédit du Maroc a ainsi procédé à l’alignem...  
+9   Instruments financiers : variations de juste v...  ...                                                NaN  
+10                             transferts en résultat  ...  paramètres et options retenus pour le traiteme...  
+11  Ecarts actuariels sur les régimes à prestation...  ...  comptes adressés au groupe Crédit Agricole SA ...  
+12  Ecarts de conversion : variations et transfert...  ...  ceux adoptés au moment de l’application du réf...  
+13                Gains ou pertes latents ou différés  ...  IFRS, conformément aux dispositions réglementa...  
+14                                             Autres  ...                                            de BAM.  
+15                            Variations de périmètre  ...                         Périmètre de consolidation  
+16       Capitaux propres clôture au 31 Décembre 2019  ...                                                NaN  
+17                             Opérations sur capital  ...  Les états financiers consolidés incluent les c...  
+18                   Paiements fondés sur des actions  ...  de Crédit du Maroc et ceux de toutes les socié...  
+19                     Opérations sur actions propres  ...  lesquelles Crédit du Maroc dispose d’un pouvoi...  
+20                                         Dividendes  ...                                          contrôle.  
+21                                             Autres  ...     Par exception, les entités ayant un impact non  
+22                 Changements de méthodes comptables  ...  significatif sur les comptes consolidés de l’e...  
+23                             Résultat de l'exercice  ...  sont pas incluses dans le périmètre de consoli...  
+24     Immobilisations corporelles et incorporelles :  ...  Le caractère significatif de cet impact peut n...  
+25                          Réevaluations et cessions  ...  être apprécié au travers de divers critères te...  
+26  Instruments financiers : variations de juste v...  ...                                                NaN  
+27                             transferts en résultat  ...  l’importance du résultat ou des capitaux propr...  
+28  Ecarts actuariels sur les régimes à prestation...  ...  la société à consolider par rapport au résulta...  
+29  Ecarts de conversion : variations et transfert...  ...          capitaux propres de l’ensemble consolidé.  
+30                Gains ou pertes latents ou différés  ...                            Les notions de contrôle  
+31                                             Autres  ...        Conformément aux normes internationales, la  
+32                            Variations de périmètre  ...  définition de contrôle, selon IFRS 10 comporte...  
+33           Capitaux propres clôture au 30 Juin 2020  ...                                éléments suivants :  
+
+[34 rows x 11 columns]"
+9,"                                           Unnamed: 0  ...     et
+0                                        Résultat net  ...    NaN
+1              Éléments recyclables en résultat net :  ...  de la
+2                                Écarts de conversion  ...    NaN
+3   Réévaluation des actifs financiers à la juste ...  ...    NaN
+4   Réévaluation des instruments dérivés de couver...  ...    NaN
+5   Quote-part des gains et pertes comptabilisés d...  ...    NaN
+6   Autres éléments comptabilisés par capitaux pro...  ...    NaN
+7                                         Impôts liés  ...    NaN
+8          Éléments non recyclables en résultat net :  ...    NaN
+9                    Réévaluation des immobilisations  ...    NaN
+10  Réévaluation (ou écarts actuariels) au titre d...  ...    NaN
+11  Réévaluation du risque de crédit propre des pa...  ...    NaN
+12  Réévaluation des instruments de capitaux propr...  ...    NaN
+13  Quote-part des gains et pertes comptabilisés d...  ...    NaN
+14  Autres éléments comptabilisés par capitaux pro...  ...    NaN
+15                                        Impôts liés  ...    NaN
+16  Total des gains et pertes comptabilisés direct...  ...    NaN
+17  Résultat net et gains et pertes comptabilisés ...  ...    NaN
+18  Dont part du Groupe (ou des propriétaires de l...  ...    NaN
+19  Dont part des intérêts minoritaires (ou partic...  ...    NaN
+
+[20 rows x 10 columns]"
+10,"  Gains ou pertes latents ou différés  - -.1 -.2  ... Capital social.1   Unnamed: 0  Unnamed: 1         Méthode de
+0                              Autres  -   -   -  ...           (KUSD)  de contrôle  d’intérêts  consolidation (*)
+
+[1 rows x 16 columns]"
+11,"                                         Résultat net  ...                                    équipes risque.
+0              Éléments recyclables en résultat net :  ...  Pour les entreprises, des chocs ont été appliq...
+1                                Écarts de conversion  ...  secteurs identifiés comme fortement et moyenne...
+2   Réévaluation des actifs financiers à la juste ...  ...  impactés afin d’anticiper, conformément à l’ap...
+3   Réévaluation des instruments dérivés de couver...  ...  « forward looking » de la norme IFRS 9, la dég...
+4   Quote-part des gains et pertes comptabilisés d...  ...  risque de crédit de certaines contreparties en...
+5   Autres éléments comptabilisés par capitaux pro...  ...  conséquences économiques de l’épidémie du Covi...
+6                                         Impôts liés  ...                                                NaN
+7          Éléments non recyclables en résultat net :  ...  Pour les particuliers l’approche adoptée consi...
+8                    Réévaluation des immobilisations  ...  identifier les zones de risques liée au contex...
+9   Réévaluation (ou écarts actuariels) au titre d...  ...  appliquer également des chocs sur les paramètr...
+10  Réévaluation du risque de crédit propre des pa...  ...  calcul des provisions en adéquation avec les n...
+11  Réévaluation des instruments de capitaux propr...  ...                                                NaN
+12  Quote-part des gains et pertes comptabilisés d...  ...  L’estimation de l’impact tient compte des élém...
+13  Autres éléments comptabilisés par capitaux pro...  ...  d’information disponibles à fin juin 2020. Ell...
+14                                        Impôts liés  ...  actualisée en fonction de l’évolution de l’env...
+15  Total des gains et pertes comptabilisés direct...  ...  économique et des informations additionnelles ...
+16  Résultat net et gains et pertes comptabilisés ...  ...            disponibles pour les prochains arrêtés.
+17  Dont part du Groupe (ou des propriétaires de l...  ...                                                NaN
+18  Dont part des intérêts minoritaires (ou partic...  ...                                                NaN
+
+[19 rows x 19 columns]"
+12,"  Unnamed: 0  ...                                         Unnamed: 9
+0        NaN  ...                                                NaN
+1    Capital  ...  soit l’activité et qu’elles aient ou non la pe...
+
+[2 rows x 12 columns]"
+13,"  Unnamed: 0 30/06/2020 Unnamed: 1 Unnamed: 2 30/06/2019 Unnamed: 3         Prêts subordonnés       -      -.1
+0        NaN        NaN        NaN        NaN        NaN        NaN  Autres prêts et créances  17 442  159 350
+1   Produits    Charges        Net   Produits    Charges        Net                       NaN     NaN      NaN"
+14,"Empty DataFrame
+Columns: [Produits nets des commissions, 220 435, 11 954, 208 481, 240 140, 16 679, 223 461]
+Index: []"
+15,"                                 CONSOLIDE 30/06/2020  ...    Unnamed: 4
+0   DépréciationsDépréciations sur actifs sains (B...  ...           NaN
+1   Bucket 1 : Pertes évaluées au montant des pert...  ...      Bucket 3
+2                    pour les 12 mois à venir -47 637  ...             -
+3   Instruments de dettes comptabilisés à la juste...  ...          -  -
+4   Instruments de dettes comptabilisés au coût am...  ...             -
+5                      Engagements par signature  668  ...     3 454 458
+6   Bucket 2 : Pertes évaluées au montant des pert...  ...           NaN
+7                       pour la durée de vie -108 884  ...  -  3 454 458
+8   Instruments de dettes comptabilisés à la juste...  ...           NaN
+9                              propres recyclables  -  ...             -
+10  Instruments de dettes comptabilisés au coût am...  ...           NaN
+11                   Engagements par signature  7 837  ...       211 796
+12   Dépréciations sur actifs dépréciés (Bucket 3)  -  ...           NaN
+13             - Bucket 3 : Actifs dépréciés -174 900  ...           NaN
+14  Instruments de dettes comptabilisés à la juste...  ...      Bucket 3
+15                             propres recyclables  -  ...             -
+16  Instruments de dettes comptabilisés au coût am...  ...           NaN
+17                                                NaN  ...             -
+18                   Engagements par signature -3 726  ...           NaN
+19                              Autres actifs -13 898  ...          -  -
+20                         Risques et charges -13 899  ...     3 282 895
+21  Dotations nettes de reprises des dépréciations...  ...             -
+22  Plus ou moins-values de cessions réalisées sur...  ...     3 282 895
+23  comptabilisés en capitaux propres recyclables ...  ...           NaN
+24  Gains ou pertes réalisés sur instruments de de...  ...             -
+25                           coût amorti dépréciés  -  ...     3 282 895
+26  Pertes sur prêts et créances irrécouvrables -8...  ...       208 070
+27         Récupérations sur prêts et créances  4 828  ...           NaN
+28  comptabilisés au coût amorti ASSIMILÉS AU COÛT...  ...           NaN
+29            Pertes sur engagements par signature  -  ...           NaN
+30                                   Autres pertes  -  ...           NaN
+31                                 Autres produits  -  ...           NaN
+32                  Coût du risque de crédit -437 882  ...           NaN
+
+[33 rows x 9 columns]"
+16,"                                 Unnamed: 0 Unnamed: 1 Unnamed: 2  ... Unnamed: 6 Dépréciations Unnamed: 7
+0  Sur les actifs financiers au coût amorti  1 082 497  1 102 976  ...        NaN           NaN        NaN
+1                                       NaN        NaN        NaN  ...   Bucket 1      Bucket 2   Bucket 3
+
+[2 rows x 10 columns]"
+17,"   3 454 458 Opérations avec la clientèle  -   -       Actifs financiers  ... 151 761 444 239 Unnamed: 0
+0                                        NaN NaN  Engagements Hors bilan  ...  11 876  38 451    211 796
+
+[1 rows x 9 columns]"
+18,"  Intérêts courus et échus des instruments de couverture      -    -.1  ... Unnamed: 4     Unnamed: 5 Unnamed: 6
+0                                                NaN        NaN    NaN  ...        NaN  Dépréciations        NaN
+1              Autres intérêts et produits assimilés      5 364  4 332  ...   Bucket 1       Bucket 2   Bucket 3
+
+[2 rows x 10 columns]"
+19,"            Unnamed: 0 Unnamed: 1 Unnamed: 2       Actifs financiers  ... 3 783 868 104 188 328 276 3 282 895
+0  Dettes subordonnées          -          -                     NaN  ...       NaN     NaN     NaN       NaN
+1                  NaN        NaN        NaN  Engagements Hors bilan  ...   239 053  12 544  46 289   208 070
+
+[2 rows x 10 columns]"
+20,"   31/12/201930/06/2020 31/12/2019  ...       Unnamed: 1
+0                              NaN  ...  Pertes latentes
+
+[1 rows x 4 columns]"
+21,"Empty DataFrame
+Columns: [Valeur au bilan, 14 948, 20 433, Total, 3 454 994, 87 041, -, 3 729 703, 55 499, -.1]
+Index: []"
+22,"                                           Unnamed: 0 Unnamed: 1  ...  Unnamed: 16 Unnamed: 17
+0                                                 NaN        NaN  ...       Pertes         NaN
+1                                                 NaN        NaN  ...     latentes         NaN
+2                                                 NaN        NaN  ...          NaN           -
+3                                                 NaN        NaN  ...          NaN           -
+4                                                 NaN        NaN  ...          NaN           -
+5            PRODUITS ET CHARGES DE COMMISSIONS (2.3)        NaN  ...          NaN           -
+6                                                 NaN        NaN  ...          NaN           -
+7                                                 NaN        NaN  ...          NaN           -
+8                                                 NaN        NaN  ...          NaN         NaN
+9                                                 NaN        NaN  ...          NaN         NaN
+10                                                NaN   Produits  ...          NaN           -
+11                                                NaN        NaN  ...          NaN           -
+12   Sur opérations avec les établissements de crédit          -  ...          NaN         NaN
+13                            Sur opérations internes          -  ...          NaN           -
+14                   Sur opérations avec la clientèle     31 761  ...          NaN         NaN
+15                        - Sur opérations sur titres         51  ...          NaN         NaN
+16                                                NaN        NaN  ...       Pertes         NaN
+17                           Sur opérations de change      2 006  ...     latentes         NaN
+18                                                NaN        NaN  ...          NaN         NaN
+19  Sur opérations sur instruments dérivés et autr...          -  ...          NaN        -  -
+20  Sur moyens de paiement et autres prestations d...    171 834  ...          NaN           -
+21    Gestion d'OPCVM, fiducie et activités analogues     14 783  ...          NaN           -
+22                      Produits nets des commissions    220 435  ...          NaN           -
+23                                                NaN        NaN  ...          NaN           -
+24                                                NaN        NaN  ...          NaN         NaN
+25                                                NaN        NaN  ...            -         NaN
+26                                                NaN        NaN  ...          NaN         NaN
+27                                                NaN        NaN  ...          NaN           -
+28                                                NaN        NaN  ...          NaN           -
+29                                                NaN        NaN  ...          NaN         NaN
+30                                                NaN        NaN  ...          NaN         NaN
+31                                                NaN        NaN  ...          NaN         NaN
+32                                                NaN        NaN  ...          NaN         NaN
+33                                                NaN        NaN  ...          NaN         NaN
+34                                                NaN        NaN  ...   31/12/2019         NaN
+35                                                NaN        NaN  ...      271 736         NaN
+36                                                NaN        NaN  ...       54 087         NaN
+37                                                NaN        NaN  ...      325 823         NaN
+38                                                NaN        NaN  ...          NaN         NaN
+39                                                NaN        NaN  ...          NaN         NaN
+40                                                NaN        NaN  ...   31/12/2019         NaN
+41                                                NaN        NaN  ...          NaN         NaN
+42                                                NaN        NaN  ...    1 219 938         NaN
+43                                                NaN        NaN  ...      325 823         NaN
+44                                                NaN        NaN  ...      281 120         NaN
+45                                                NaN        NaN  ...       44 703         NaN
+46                                                NaN        NaN  ...          NaN           -
+47                                                NaN        NaN  ...          NaN           -
+48                                                NaN        NaN  ...    1 545 760         NaN
+49                                                NaN        NaN  ...          NaN           -
+
+[50 rows x 20 columns]"
+23,"               Intruments de capitaux propres  - -.1  ... Actifs soumis à une ECL Actifs dépréciés (Bucket 3) Total
+0  Actions et autres titres à revenu variable  -   -  ...  à maturité ( Bucket 2)                         NaN   NaN
+
+[1 rows x 11 columns]"
+24,"                                          30/06/2020                                         31/12/2019
+0  Terrains et bâtiments occupés Valeur comptable...  Terrains et bâtiments occupés Valeur comptable...
+1      par le propriétaire (immo (de toutes les immo      par le propriétaire (immo (de toutes les immo
+2                       d'exploitation) corporelles)                       d'exploitation) corporelles)"
+25,"  Risques légaux et Obligations au titre des avantages  ... Valeur comptable                                 Unnamed: 0
+0           fiscaux             postérieurs à l'emploi  ...           totale  élimination des transactions intragroupe.
+
+[1 rows x 7 columns]"
+26,"                                           Unnamed: 0  30/06/2020  ...           Unnamed: 11        Unnamed: 12
+0                      Intruments de capitaux propres           -  ...                 Total                NaN
+1          Actions et autres titres à revenu variable           -  ...                   NaN                NaN
+2                                                 NaN         NaN  ...  Correction de Valeur       Valeur nette
+3                                    Titres de dettes   1 322 505  ...       pour pertes (b)  comptable (a)+(b)
+4                Effets publics et valeurs assimilées   1 095 066  ...            -3 704 462         44 199 048
+5          Obligations et autres titres à revenu fixe     227 439  ...                   NaN                NaN
+6                                                 NaN         NaN  ...              -202 809                  -
+7                                               OPCVM           -  ...              -118 526                  -
+8                                   Prêts et créances           -  ...                32 578                  -
+9           Créances sur les établissements de crédit           -  ...              -137 469                  -
+10                          Créances sur la clientèle           -  ...                   NaN                NaN
+11                                                NaN         NaN  ...                20 608                  -
+12                     Titres reçus en pension livrée           -  ...            -3 907 271         43 996 238
+13                          Valeurs reçues en pension           -  ...                   NaN                NaN
+14                                Instruments dérivés       4 857  ...              -114 174                  -
+15                                    Valeur au bilan   1 327 363  ...              -192 592                  -
+16                                                NaN         NaN  ...                   NaN                NaN
+17                                                NaN         NaN  ...               158 610                  -
+18  ACTIFS AU TITRE DE DROITS D’UTILISATION (PRENE...         NaN  ...                74 777                  -
+19                                                NaN         NaN  ...                   NaN                NaN
+20                                                NaN  30/06/2020  ...                     -                  -
+21                        Immobilisations corporelles   1 343 219  ...                     -                  -
+22                                                NaN         NaN  ...                   NaN                NaN
+23  dont : Droits d'utilisation des contrats de lo...     118 274  ...                   NaN                NaN
+24                                                NaN         NaN  ...                     -                  -
+25        PASSIFS AU TITRE DE LA DETTE LOCATIVE (3.6)         NaN  ...                     -                  -
+26                                                NaN         NaN  ...              -154 968                  -
+27                                                NaN  30/06/2020  ...            -4 021 445         43 856 103
+28        Comptes de régularisation et autres passifs   1 194 298  ...                     -                  -
+29                            dont : Dettes locatives     121 077  ...                     -                  -
+30                                                NaN         NaN  ...                   NaN                NaN
+31                                                NaN         NaN  ...            -4 021 445         43 856 103
+32  IMMOBILISATIONS CORPORELLES ET INCORPORELLES (...         NaN  ...                   NaN                NaN
+33                                                NaN         NaN  ...                     -                  -
+34                                                NaN         NaN  ...                   NaN                NaN
+35                                                NaN         NaN  ...                   NaN                NaN
+
+[36 rows x 17 columns]"
+27,"   Unnamed: 0  Unnamed: 1                    Unnamed: 2  ...        Unnamed: 8            Unnamed: 9        Unnamed: 10
+0         NaN         NaN                           NaN  ...               NaN                 Total                NaN
+1         NaN  31/12/2019  Augmentations (acquisitions)  ...               NaN                   NaN                NaN
+2         NaN         NaN                           NaN  ...  Valeur comptable  Correction de Valeur       Valeur nette
+3  Immobilier         NaN                           NaN  ...         brute (a)       pour pertes (b)  comptable (a)+(b)
+
+[4 rows x 13 columns]"
+28,"Empty DataFrame
+Columns: [dont : Charges relatives aux contrats de location court terme et, -640, -17 840, Total, 38 634 928, -122 748, 5 083 588, -444 239, 4 159 031, -3 454 458, 47 877 548, -4 021 445, 43 856 103]
+Index: []"
+29,"           Dotations  6 828 9 840  3 726  ...    Unnamed: 3 Unnamed: 4             Unnamed: 5 Unnamed: 6
+0                NaN    NaN   NaN    NaN  ...  Eliminations      Total  Garanties financières  5 034 504
+1  Montants utilisés  5 016     -    NaN  ...           NaN        NaN              Données :  5 034 504
+
+[2 rows x 13 columns]"
+30,"                                          Unnamed: 0 30/06/2020  ...                                 Unnamed: 6 Unnamed: 7
+0  Passifs financiers détenus à des fins de trans...     10 283  ...                   Etablissements de crédit  2 067 723
+1  Passifs financiers à la juste valeur par résul...          -  ...  Institutions non établissements de crédit          -
+
+[2 rows x 10 columns]"
+31,"         Unnamed: 0  ... • Régie par un protocole d’accord au niveau du GPBM, l’indemnité de départ volontaire
+0  Durée résiduelle  ...                                                NaN                                   
+1               NaN  ...  permet aux salariés, et après accord du Direct...                                   
+
+[2 rows x 7 columns]"
+32,"Empty DataFrame
+Columns: [- avoir une ancienneté minimum de 21 ans de serviceTOTAL  2 157 824, 1 879 247, 278 577, 1 726 259]
+Index: []"
+33,"Empty DataFrame
+Columns: [Montants à payer aux parties liées et montants à en recevoir, Unnamed: 0, Société-mère, Filiales, Principaux dirigeants de l'entité ou de sa société-mère, Unnamed: 1, Entités contrôlées par la même société mère, Unnamed: 2, Autres parties liées, Total]
+Index: []"
+34,"  Charges et produits générés par des transactions  ... sous le contrôle du Conseil de Surveillance dans les limites du
+0                              entre parties liées  ...  cadre fixé par la loi 17-95 relative aux socié...             
+
+[1 rows x 8 columns]"
+35,"Empty DataFrame
+Columns: [Actionnaires, Nombre d’actions, Unnamed: 0, % du capital, Unnamed: 1, % des droits  de vote, Unnamed: 2, Dividendes (en dirhams), 2019, 2018, 2017, Le fonctionnement du Conseil de Surveillance est régi par son règlement intérieur. Il en est de même pour les Comités]
+Index: []"
+36,"   Montants à payer aux parties liées et montants à  ...                                         Unnamed: 8
+0                                       en recevoir  ...                                                NaN
+1                         Actifs : prêts et avances  ...                                                NaN
+2                   Instruments de capitaux propres  ...                                                NaN
+3                                   Autres créances  ...                                                NaN
+4                                  Total des actifs  ...                                                NaN
+5                      Passifs : dépôts et emprunts  ...                                                NaN
+6                         Autres passifs financiers  ...  EXPOSITION AUX RISQUES ET STRATÉGIE DE COUVERTURE
+7                                   Titres de dette  ...                                                NaN
+8                               Passifs subordonnés  ...                                                NaN
+9                  Paiements fondés sur des actions  ...                                                NaN
+10                                   Autres passifs  ...                                     LA GOUVERNANCE
+11                                Total des passifs  ...  Depuis le 24 septembre 1999, le Crédit du Maro...
+12                   Garanties émises par le groupe  ...  une structure de gouvernance duale reposant su...
+13                   Garanties reçues par le groupe  ...                                                NaN
+14             Dépréciations des créances douteuses  ...                                                NaN
+15                                              NaN  ...  et un Conseil de Surveillance, dissociant ains...
+16                                              NaN  ...  gestion et de contrôle. Le Directoire dirige e...
+
+[17 rows x 10 columns]"
+37,"  de départ en retraite, de la mortalité, de la rotation du personnel ainsi que des taux  ... Le Conseil de Surveillance nomme les membres Le Conseil
+0                                   d’actualisation.                                      ...  de Surveillance nomme les membres du Directoir...     
+1  Les modifications d’hypothèses actuarielles, o...                                      ...  il fixe les principes et les critères de rémun...     
+2  réalité, donnent lieu à des écarts actuariels ...                                      ...  répartition et d’attribution des éléments fixe...     
+3  et qui sont comptabilisés en capitaux propres ...                                      ...  exceptionnels composant leur rémunération tota...     
+
+[4 rows x 3 columns]"
+38,"                 Actionnaires  ... Le fonctionnement du Conseil de Surveillance est régi par son règlement intérieur. Il en est de même pour les Comités
+0  A - ACTIONNAIRES MAROCAINS  ...  spécialisés du Conseil de Surveillance. Le règ...                                                                   
+1              WAFA ASSURANCE  ...  intérieur du Conseil de Surveillance a fait l’...                                                                   
+2                      AUTRES  ...                                    à jour en 2018.                                                                   
+3  B - ACTIONNAIRES ÉTRANGERS  ...        1.2  Composition du Conseil de Surveillance                                                                   
+4        CRÉDIT AGRICOLE S.A.  ...  Le Conseil de Surveillance est composé de dix ...                                                                   
+5                       Total  ...                                                NaN                                                                   
+
+[6 rows x 15 columns]"
+39,"                                           Unnamed: 0  ... aux engagements sociaux postérieurs à l’emploi (prime de fin de carrière) en capitaux
+0                                    Durée résiduelle  ...                                                NaN                                   
+1   Les avantages au personnel entrant dans les ca...  ...  propres selon la méthode du SoRIE (Statement O...                                   
+2                                                 NaN  ...  terme (Prime de fidélité) et des indemnités de...                                   
+3                                      > 1 an ≤ 5 ans  ...                                                NaN                                   
+4                                                 NaN  ...                                                NaN                                   
+5                                             > 5 ans  ...  volontaire) continueront a être comptabilisés ...                                   
+6                                                 NaN  ...  L’impact des écarts actuariels sur engagements...                                   
+7                                               TOTAL  ...                                                NaN                                   
+8                                                 NaN  ...                                                NaN                                   
+9             NFORMATIONS RELATIVES AUX PARTIES LIÉES  ...                                        Brut ID Net                                   
+10                                                NaN  ...                          Impact Compte de Résultat                                   
+11   Montants à payer aux parties liées et montants à  ...  Dotation Provision Engagements Sociaux -243 90...                                   
+12                                                NaN  ...                            Impact Capitaux Propres                                   
+13                          Actifs : prêts et avances  ...                                                NaN                                   
+14                    Instruments de capitaux propres  ...  Gains et Pertes actuariels/avantages post empl...                                   
+15                                    Autres créances  ...                                                NaN                                   
+16                                   Total des actifs  ...                                                NaN                                   
+17                       Passifs : dépôts et emprunts  ...                                                NaN                                   
+18                          Autres passifs financiers  ...                                                NaN                                   
+19                                    Titres de dette  ...                                                NaN                                   
+20                                Passifs subordonnés  ...                                                NaN                                   
+21                   Paiements fondés sur des actions  ...                                                NaN                                   
+22                                     Autres passifs  ...                                                NaN                                   
+23                                  Total des passifs  ...                                                NaN                                   
+24                     Garanties émises par le groupe  ...                                                NaN                                   
+25                     Garanties reçues par le groupe  ...                                                NaN                                   
+26               Dépréciations des créances douteuses  ...                                                NaN                                   
+27                                                NaN  ...                                                NaN                                   
+28                                                NaN  ...                                                NaN                                   
+29   Charges et produits générés par des transactions  ...                                                NaN                                   
+30      CTotal des charges dont : entre parties liées  ...                                                NaN                                   
+31                                 Charges d'intérêts  ...                                                NaN                                   
+
+[32 rows x 15 columns]"
+40,"                                       l’actif loué.  ...                                Unnamed: 6
+0                                 Dans le bilan, les  ...                                       NaN
+1   comptabilisés comme des créances pour un montant  ...                                       NaN
+2  égal à l’investissement net dans le contrat de...  ...  COMPTABILISATION DES ENGAGEMENTS SOCIAUX
+
+[3 rows x 10 columns]"
+41,"   Honoraires et commissions      -     54  ... Unnamed: 4                           AGOA statuant sur les Unnamed: 5
+0             Autres charges  7 500  5 519  ...        NaN                                             NaN        NaN
+1  Total des produits dont :      -  2 951  ...    03/2019  comptes de l’exercice clos le 31 décembre 2021          R
+
+[2 rows x 15 columns]"
+42,"                                     ou l’acquisition              ou  ... Unnamed: 4           Unnamed: 5
+0     dépassant un plafond qu’il fixe au Directoire ;             NaN  ...        NaN                  NaN
+1   – nomme le Président du Conseil de Surveillanc...             NaN  ...        NaN  Date de  nomination
+2   échéant, le Vice-Président du Conseil de Surve...             NaN  ...        NaN                 2019
+3   que les membres du Directoire et fixe leur rém...             NaN  ...        NaN                 2020
+4   Conformément aux dispositions statutaires de l...             NaN  ...        NaN                 2019
+5   il peut également les révoquer. Il désigne le ...             NaN  ...        NaN                 2020
+6   du Le Comité de Nomination et de Rémunération ...  éventuellement  ...        NaN                 2020
+7                                  – veille à la mise              en  ...        NaN                 2020
+8   précisant les critères d’indépendance d’un mem...             NaN  ...        NaN      2014 à 20202016
+9   Conseil de Surveillance et à sa mise à jour ré...             NaN  ...        NaN                  NaN
+10                                                NaN             NaN  ...        NaN                 2020
+11  – procède à l’examen du dispositif de gouverna...             NaN  ...        NaN                  NaN
+12  comprend notamment une organisation claire ass...             NaN  ...        NaN             20202020
+13  un partage des responsabilités bien défini, tr...             NaN  ...        NaN                 2018
+14  et cohérent, des procédures efficaces de détec...             NaN  ...        NaN                 2019
+15  gestion, de suivi et de déclaration des risque...             NaN  ...        NaN                 2020
+16                                      la Banque est              ou  ...        NaN                  NaN
+17  périodiquement l’efficacité du dispositif de g...             NaN  ...        NaN                  NaN
+18  et s’assure que des mesures correctives pour r...             NaN  ...        NaN                  NaN
+19  aux éventuelles défaillances ont été prises et...             NaN  ...        NaN                  NaN
+20                       œuvre de manière effective ;             NaN  ...        NaN                  NaN
+21                          – exerce une surveillance             NaN  ...        NaN                  NaN
+22  Directoire des activités de la Banque en s’app...             NaN  ...        NaN                  NaN
+23  travaux des fonctions d’audit interne, de conf...             NaN  ...        NaN                  NaN
+24  contrôle permanent et de gestion et contrôle d...             NaN  ...        NaN                  NaN
+25                              – s’assure du respect             NaN  ...        NaN                  NaN
+26  en matière de contrôle interne et notamment pr...             NaN  ...        NaN                  NaN
+27  au moins une fois par an, à l’examen de l’acti...             NaN  ...        NaN                  NaN
+28                 catégories : – vérifie et contrôle             NaN  ...        NaN                  NaN
+29                          trimestriels, semestriels             NaN  ...        NaN                  NaN
+30                                       Directoire ;             NaN  ...        NaN                  NaN
+31  – présente à l’Assemblée Générale Ordinaire An...             NaN  ...        NaN                  NaN
+32                                  rapport contenant             ses  ...        NaN                  NaN
+33  Directoire ainsi que sur les comptes de l’exer...             NaN  ...        NaN                  NaN
+34                              – approuve et examine             NaN  ...        NaN                  NaN
+35                               politiques régissant             NaN  ...        NaN                  NaN
+36  réduction des risques auxquels la Banque est o...             NaN  ...        NaN                  NaN
+37                                    être exposée, y         compris  ...        NaN                  NaN
+38  l’environnement économique. En particulier, le...             NaN  ...        NaN                  NaN
+39  de Surveillance approuve les limites globales ...             NaN  ...        NaN                  NaN
+40                                    et met en place              un  ...        NaN                  NaN
+41  son information et, le cas échéant, sa saisine...             NaN  ...        NaN                  NaN
+42                                                NaN             NaN  ...        NaN                  NaN
+43                                      dépassement ;             NaN  ...        NaN                  NaN
+44                        – est informé régulièrement             NaN  ...        NaN                  NaN
+45  des risques visant au respect des dispositions...             NaN  ...        NaN                  NaN
+46                                  et réglementaires              en  ...        NaN                  NaN
+47                                    conformité, des          règles  ...        NaN                  NaN
+48                            pratiques de sécurité ;             NaN  ...        NaN                  NaN
+49                                 – approuve le plan              de  ...        NaN                  NaN
+50  le Directoire ainsi que les éléments nécessair...             NaN  ...        NaN                  NaN
+51                                   plan communiqués             NaN  ...        NaN                  NaN
+52  administratives et à la fonction de gestion et...             NaN  ...        NaN                  NaN
+53                                          risques ;             NaN  ...        NaN                  NaN
+54                               – prend connaissance             NaN  ...        NaN                  NaN
+55      Responsable de l’Audit Interne de la Banque ;             NaN  ...        NaN                  NaN
+56                                 – veille à la mise              en  ...        NaN                  NaN
+57  communication au sein de la Banque sur la stra...             NaN  ...        NaN                  NaN
+58  matière de risques et de niveau d’exposition ;...             NaN  ...        NaN                  NaN
+
+[59 rows x 16 columns]"
+43,"                     Fonctionnement du Comité d’Audit Unnamed: 0 Unnamed: 1  ...  Unnamed: 4 Unnamed: 5 Unnamed: 6
+0        Le Comité d’Audit se réunit, sur convocation         de        son  ...         NaN        NaN        NaN
+1                                                 NaN        NaN        NaN  ...         NaN        NaN        NaN
+2                                                 NaN        NaN        NaN  ...     mission        NaN         de
+3   Président, au moins une fois par trimestre, à ...        NaN        NaN  ...         NaN        NaN        NaN
+4   chaque arrêté des comptes trimestriel, et avan...        NaN        NaN  ...    suivi de        NaN         la
+5            présentation en Conseil de Surveillance.        NaN        NaN  ...         NaN        NaN        NaN
+6       1.4.3 Comité de Nomination et de Rémunération        NaN        NaN  ...         NaN        NaN        NaN
+7                                         Composition        NaN        NaN  ...         NaN        NaN        NaN
+8   Le Comité de Nomination et de Rémunération est...        NaN        NaN  ...         NaN        NaN        NaN
+9            de trois membres au moins, dont au moins         le      tiers  ...         NaN        NaN        NaN
+10  répondant aux critères d’indépendance, tous no...        NaN        NaN  ...         NaN        NaN        NaN
+11  le Conseil de Surveillance parmi les membres d...        NaN        NaN  ...         NaN        NaN        NaN
+12  de Surveillance de la Banque, sur proposition ...        NaN        NaN  ...         NaN        NaN        NaN
+13                     Nomination et de Rémunération.        NaN        NaN  ...         NaN        NaN        NaN
+14             Fonctionnement du Comité de Nomination         et         de  ...         NaN        NaN        NaN
+15                                       Rémunération        NaN        NaN  ...         NaN        NaN        NaN
+16  Le Comité de Nomination et de Rémunération se ...        NaN        NaN  ...         NaN        NaN        NaN
+17  convocation de son Président. Le Comité de Nom...        NaN        NaN  ...       suivi        des        NaN
+18  de Rémunération se réunit chaque fois qu’il es...        NaN        NaN  ...        dans        NaN        NaN
+19                       et au moins une fois par an.        NaN        NaN  ...         NaN        NaN        NaN
+20                                                NaN        NaN        NaN  ...         NaN        NaN        NaN
+21                                                NaN        NaN        NaN  ...         NaN        NaN        NaN
+22                                  2.  LE DIRECTOIRE        NaN        NaN  ...         NaN        NaN        NaN
+23                         1.1 Dispositions générales        NaN        NaN  ...         NaN        NaN        NaN
+24    Le Conseil de Surveillance désigne le Président        NaN         du  ...         NaN        NaN        NaN
+25  Directoire, ainsi que sur proposition de ce de...        NaN        les  ...         NaN        NaN        NaN
+26  autres membres du Directoire pour une durée de...        NaN        NaN  ...         NaN        NaN        NaN
+27  années. Les nominations sont soumises, en appl...        NaN        NaN  ...         NaN        NaN        NaN
+28  la Loi Bancaire, à Bank Al-Maghrib pour approb...        NaN        NaN  ...         NaN        NaN        NaN
+29  Le Directoire présente, une fois par trimestre...        NaN        NaN  ...  politiques        NaN        NaN
+30  au Conseil de Surveillance, un rapport qui ret...        NaN        les  ...         NaN        NaN        NaN
+31  principaux actes ou faits intervenus dans la g...        NaN        NaN  ...         NaN        NaN        NaN
+32                                            Banque.        NaN        NaN  ...         NaN        NaN        NaN
+33  Enfin, conformément aux dispositions de la Loi...        NaN        NaN  ...         NaN        NaN        NaN
+34  Directoire arrête, chaque année, les comptes d...        NaN        NaN  ...         NaN        NaN        NaN
+35  et établit un rapport de gestion qui est soumi...        NaN        NaN  ...         NaN        NaN        NaN
+36            Surveillance et à l’Assemblée générale.        NaN        NaN  ...         NaN        NaN        NaN
+37                     2.2  Composition du Directoire        NaN        NaN  ...         NaN        NaN        NaN
+38  Le Directoire est composé, depuis le 27 mars 2...        NaN        NaN  ...        base        des        NaN
+
+[39 rows x 10 columns]"
+44,"                               Prénom et nom Fonction  ...  simulations opérées par le système informatique pour les périodes futures et (ii) fourchettes de provisions (PER et
+0             Bernard MUSELET Président du Directoire  ...  IRR) à constituer ou des reprises à effectuer ...                                                                  
+1                                Membre du Directoire  ...                                                NaN                                                                  
+2                      Karim DIOURI en charge du Pôle  ...                                                NaN                                                                  
+3                                       Développement  ...                         2.4.3  Cercles managériaux                                                                  
+4                                Membre du Directoire  ...                                                NaN                                                                  
+5                 Stéphane CLÉRISSE en charge du Pôle  ...                                                NaN                                                                  
+6                                      Fonctionnement  ...  performances du Crédit du Maroc, le Directoire...                                                                  
+7                                                 NaN  ...  Coordination Mensuel, le Cercle 1 et le Cercle 2.                                                                  
+8                   2.3  Fonctionnement du Directoire  ...      Ces cercles managériaux ont pour but commun :                                                                  
+9   Le fonctionnement du Directoire est régi par l...  ...                                                NaN                                                                  
+10  a)  Rôle et pouvoirs du Directoire en applicat...  ...                                                NaN                                                                  
+11  Le Directoire est investi des pouvoirs les plu...  ...     – de créer un esprit de corps entre managers ;                                                                  
+12  décisions concourant à la réalisation de son o...  ...  – de s’informer de la stratégie, sa déclinaiso...                                                                  
+13  et ce, sous réserve des pouvoirs attribués par...  ...  du projet CAP 2020 et des grands projets ainsi...                                                                  
+14                                    d’Actionnaires.  ...                                                NaN                                                                  
+15  b)  Rôle et pouvoirs du Directoire en applicat...  ...  – de développer les compétences professionnell...                                                                  
+16  Le règlement intérieur du Directoire décrit le...  ...                                                NaN                                                                  
+17  purement interne et n’est opposable ni à la Ba...  ...  – de relayer les différentes décisions du Dire...                                                                  
+
+[18 rows x 12 columns]"
+45,"  suite à des mouvements adverses de cours, de prix ou  ... Les positions sont encadrées par des limites réglementaires
+0                                 de niveau de taux.    ...  et des limites internes (VaR, Stress, nominal ...         
+1  Risque de liquidité ou de taux : risque lié à ...    ...                           globale, Loss alert...).         
+2            de la banque et à l’évolution des taux,    ...  Risques liés aux défauts : une part importante...         
+
+[3 rows x 4 columns]"
+46,"                                     fonctionnels et  ...                                         Unnamed: 2
+0  globalisée de la qualité d’exécution de toutes...  ...  Risques de taux : Ils représentent les risques...
+1                                      de la banque.  ...  des pertes suite aux variations du niveau abso...
+2                                                NaN  ...  d’intérêt, d’un spread entre deux courbes de t...
+3                               Les risques couverts  ...  déformation de la courbe. Il existe plusieurs ...
+4                                        suivantes :  ...  pour ce risque : risque directionnel, risque d...
+5                                                NaN  ...                                                NaN
+6                           – Risque de contrepartie  ...                       risque de base ou de spread.
+7                                 défaillance totale  ...  Ce risque concerne le trading sur titres et la...
+8  laquelle des engagements de bilan ou hors bila...  ...  est encadré par un dispositif de limites quant...
+
+[9 rows x 18 columns]"
+47,"  devises autorisées, maturité max...) et des seuils de perte.  ...                                         Unnamed: 2
+0  Les sets de limites concernent les activités d...            ...  C’est le risque de voir les résultats de la ba...
+1  marchés des capitaux dont le rôle est d’assure...            ...  défavorablement par les mouvements de taux d’i...
+
+[2 rows x 4 columns]"
+48,"                     APPLICATION DES RECOMMANDATIONS  ... courtes et celle des positions longues pour la même devise.
+0                                  DU COMITÉ DE BÂLE  ...                                                NaN         
+1          L’accord de Bâle 2 repose sur 3 piliers :  ...                                                NaN         
+2  Pilier 1 : Calcul des exigences minimales en f...  ...  ATTESTATION DES COMMISSAIRES AUX COMPTES (COMP...         
+3  Il couvre trois types des risques : Risque de ...  ...                                                NaN         
+4  opérationnel et Risque de marché. Plusieurs mé...  ...                                                NaN         
+
+[5 rows x 13 columns]"
+49,"                        dispositions réglementaires.                    Unnamed: 0  ... Unnamed: 4    Unnamed: 5
+0  Pour le pilier 1, le Crédit du Maroc a opté po...  Fonds propres de catégorie 1  ...        NaN           NaN
+1  « standard » en ce qui concerne le risque de c...                           NaN  ...        NaN           NaN
+2                                                NaN           Total fonds propres  ...        NaN           NaN
+3   « Méthode de base » pour le risque opérationnel.                           NaN  ...        NaN       4,3 4,4
+4  La banque a engagé un large chantier pour lui ...              Risques pondérés  ...        NaN           NaN
+5  de produire dans les délais impartis par le Ré...    Ratio sur fonds propres de  ...        NaN           NaN
+6                                                NaN                          (T1)  ...        NaN           NaN
+7  ratio de solvabilité aux nouvelles normes. Pou...                           NaN  ...        NaN        Risque
+8                                                NaN          Ratio de solvabilité  ...        NaN  Opérationnel
+
+[9 rows x 9 columns]"
+50,"                                        PERSPECTIVES Unnamed: 0 Unnamed: 1  ...    juin-20 Unnamed: 8  Variation
+0                             Le Crédit du Maroc, en    étroite   relation  ...  Exigences        NaN  Exigences
+1  CA.SA, compte poursuivre la mise en œuvre de l...        NaN        NaN  ...   en fonds     Actifs   en fonds
+2  indicateurs bâlois avancés, qui entraîneront d...        NaN        NaN  ...    propres   pondérés    propres
+
+[3 rows x 13 columns]"
+51,"Empty DataFrame
+Columns: [Les processus impactés ont été identifiés et les chantiers, Total, 44 195 291, 3 535 623, 43 162 610, 3 453 009, -1 032 681, -82 614]
+Index: []"
+52,"  davantage à la réglementation en vigueur, notamment en  ... globale
+0  matière de taux d’intérêt (Modalités d’indexat...      ...     NaN
+1               révisables et des taux réglementés).      ...     NaN
+2                                Système de mesure :      ...     NaN
+3  Le pilotage des risques financiers est géré pa...      ...     NaN
+
+[4 rows x 16 columns]"
+53,"                                               MAROC  ... des trois derniers exercices en utilisant la méthode des
+0  Les risques pondérés sont calculés en approche...  ...                               indicateurs de base.      
+1  pour les risques de crédit, de contrepartie et...  ...  L’exigence en fonds propres est 15% x la moyen...      
+2  du marché et en méthode d’indicateurs de base ...  ...                      des trois derniers exercices.      
+3                             risques opérationnels.  ...                                                NaN      
+4                                                NaN  ...                                                NaN      
+5                                           Pilier I  ...                                                NaN      
+
+[6 rows x 6 columns]"
+54,"  Unnamed: 0     Risque de crédit  39 644 317  3 171 545  38 567 412  3 085 412  -1 076 666   -86 133
+0       Dont            Souverain      15 987      1 279      12 106        968      -3 881      -310
+1       Dont       Établissements   3 945 643    315 651   2 650 649    212 052  -1 294 993  -103 599
+2       Dont          Entreprises  23 747 963  1 899 837  23 637 134  1 890 971    -110 829    -8 866
+3       Dont  Clientèle de détail   9 023 573    721 886   9 005 452    720 436     -18 121    -1 450
+4        NaN     Risque de Marché     244 648     19 572     218 610     17 489     -26 038    -2 083
+5        NaN  Risque Opérationnel   4 306 326    344 506   4 376 350    350 108      70 024     5 602
+6        NaN                Total  44 195 291  3 535 623  43 162 610  3 453 009  -1 032 681   -82 614"
+55,"                              de crédit et assimilés          -        -.1 Montants au 30/06/2020  ...   E   A  N.1   T
+0  Engagements de financement donnés en faveur de...  3 825 266  4 392 926  Créances Provisions *  ... NaN NaN  NaN NaN
+
+[1 rows x 11 columns]"
+56,"Empty DataFrame
+Columns: [Autres titres à livrer, -, -.1, TOTAL, 3 911 419, 2 929 609, 3 520 162, 2 839 703, AU 30 JUIN 2020]
+Index: []"
+57,"                                               ACTIF 30/06/2020  ... 30/06/2020.2 30/06/2019.1
+0  Valeurs en caisse, Banques centrales, Trésor p...        NaN  ...    1 089 528    1 107 552
+1                                    chèques postaux  1 509 938  ...      214 451      246 761
+
+[2 rows x 9 columns]"
+58,"                                          Unnamed: 0 Unnamed: 1  Unnamed: 2  ... Unnamed: 7  Unnamed: 8 Unnamed: 9
+0   RÉSULTAT AVANT IMPÔTS SUR LES RÉSULTATS  119 031    366 022         NaN  ...        NaN         NaN        NaN
+1                   Impôts sur les résultats  82 126    143 849         NaN  ...        NaN       Total      Total
+2                 RÉSULTAT NET DE L'EXERCICE  36 905    222 173         NaN  ...        NaN  30/06/2020        NaN
+3  * Sur Instruction de BAM du 8 mai courant, le ...        NaN         NaN  ...        NaN         NaN        NaN
+
+[4 rows x 13 columns]"
+59,"  ÉTAT A2- ÉTAT DES DÉROGATIONS AU 30 JUIN 2020 Unnamed: 0      Unnamed: 1  ... Unnamed: 3  Unnamed: 4  Unnamed: 5
+0                                           NaN   CRÉANCES  Secteur public  ...      Autre       Total       Total
+1      Justifications Influence des dérogations        NaN             NaN  ...  clientèle  30/06/2020  31/12/2019
+
+[2 rows x 8 columns]"
+60,"Empty DataFrame
+Columns: [présentation, TOTAL, 2 721 439, 2 101 031, 18 112 498, 19 067 809, 42 002 777, 41 906 897]
+Index: []"
+61,"       Unnamed: 0        Unnamed: 1  ... Unnamed: 26              Unnamed: 27
+0  Etablissements  Emetteurs privés  ...         NaN  Montant N-1 en (contre-
+
+[1 rows x 32 columns]"
+62,"Empty DataFrame
+Columns: [TITRES, Etablissements de crédit et assimilés, Unnamed: 0, Unnamed: 1, Emetteurs publics, Unnamed: 2, Emetteurs privés financiers, non financiers, Unnamed: 3, Unnamed: 4, Total30/06/2020, Unnamed: 5, Total31/12/2019, Unnamed: 6, Nature des Titres Certificats de Dépots, Unnamed: 7, de jouissance 02/08/2018, Unnamed: 8, d’échéance 02/08/2021, Unnamed: 9, nale unitaire  100,00, Unnamed: 10, nominal 2,98%, Unnamed: 11, boursement INFINE, Unnamed: 12, Global  300 000,00, Unnamed: 13, de l’emprunt, de l'emprunt, et convertibilité (3), (ou contrevaleur en KDH), (contrevaleur KDH), Unnamed: 14, en (contreva- leur KDH), Unnamed: 15, (contrevaleur KDH).1, Unnamed: 16, en (contre- valeur KDH)]
+Index: []"
+63,"Empty DataFrame
+Columns: [TOTAL, 1 150 546, 3 573 090, 69 974, 67, 4 793 676, 4 949 745, (3) se référer au contrat de dettes subordonnées]
+Index: []"
+64,"            Unnamed: 0  Unnamed: 1          Unnamed: 2  ...  1 an < D ≤ 5 ans D > 5 ans TOTAL
+0  (En milliers de DH)  PROVISIONS  Encours 31/12/2019  ...               NaN       NaN   NaN
+
+[1 rows x 17 columns]"
+65,"  Unnamed: 0 Établissements de crédit et assimilés au Maroc  ... Unnamed: 17  Unnamed: 18
+0        NaN                                            NaN  ...           -    4 213 712
+1        NaN             Bank Al-Maghrib, Autres établisse-  ...         NaN          NaN
+2     DETTES         Trésor Public Banques  ments de crédit  ...  23 756 871   41 360 318
+3        NaN        et Service des au Maroc et assimilés au  ...     403 751    4 793 676
+4        NaN                          Chèques Postaux Maroc  ...           -            -
+
+[5 rows x 20 columns]"
+66,"Empty DataFrame
+Columns: [TOTAL, 2 189, 12 546, 44 369, 1 666 491, 1 725 595, 2 709 874, Provisions pour risques d'exécution, ÉTATS DE SYNTHÈSE ARREDA AU 30 JUIN 2020]
+Index: []"
+67,"   DÉPÔTS  Secteur public  Unnamed: 0  ... Créances sur les établissements de crédit et assimilés      -.2      -.3
+0     NaN             NaN         NaN  ...                          Créances sur la clientèle      418 545  283 023
+
+[1 rows x 20 columns]"
+68,"Empty DataFrame
+Columns: [TOTAL GÉNÉRAL, 3 968 870, 489 802, 235 334, 8 048, 4 231 387, Créances sur autres financements participatifs, -, -.1]
+Index: []"
+69,"Empty DataFrame
+Columns: [TOTAL, 398 197, 117 703, 8 780 125, 34 598 067, 43 894 093, 43 162 853, actualisée pour les prochains arrêtés en tenant compte de l’évolution de la situation sanitaire et économique., Biens acquis dans le cadre de financements participatifs, 74 512, 90 652]
+Index: []"
+70,"  Unnamed: 0                           Unnamed: 1  ...               -                                -.1
+0     Nature  Montant brut au début de l’exercice  ...  -  20  513 019  - 10  403 080 (En milliers de DH)
+
+[1 rows x 26 columns]"
+71,"Empty DataFrame
+Columns: [Total, 3 017 186, 166 533, 53 338, 3 130 381, 1 863 883, 66 317, -3 035, 1 927 165, -, 1 203 216, Résultat de l'exercice, -5 197, -10 297]
+Index: []"
+72,"                      TITRES Etablissements de crédit et  ... Unnamed: 15 Montant N-1 en (contre-
+0                        NaN                   assimilés  ...         NaN             valeur KDH)
+1               TITRES COTÉS                         NaN  ...         NaN                     NaN
+2             Bons du Trésor                         NaN  ...         NaN                     NaN
+3      et valeurs assimilées                         NaN  ...         NaN                     NaN
+4                Obligations                         NaN  ...         NaN                     NaN
+5   Autres titres de créance                         NaN  ...         NaN                     NaN
+6        Titres de propriété                         NaN  ...         NaN                     NaN
+7           TITRES NON COTÉS                   1 150 546  ...         NaN                     NaN
+8             Bons du Trésor                         NaN  ...         NaN                     NaN
+9      et valeurs assimilées                         NaN  ...         NaN                     NaN
+10               Obligations                      13 868  ...         NaN                     NaN
+11  Autres titres de créance                   1 136 677  ...         NaN                     NaN
+12       Titres de propriété                         NaN  ...         NaN                     NaN
+13                     TOTAL                   1 150 546  ...         NaN                     NaN
+
+[14 rows x 40 columns]"
+73,"          Unnamed: 0  ...                                        Unnamed: 18
+0                NaN  ...                             dont autres apparentés
+1  Nature des Titres  ...  Montant N en (contrevaleur Montant N-1 en (con...
+2                NaN  ...                                   KDH) valeur KDH)
+
+[3 rows x 20 columns]"
+74,"Empty DataFrame
+Columns: [TOTAL, 1 750 000,00, 1 750 000,00.1]
+Index: []"
+75,"Empty DataFrame
+Columns: [D ≤ 1 mois, 1 mois < D ≤ 3 mois, 3 mois < D ≤ 1 an, 1 an < D ≤ 5 ans, D > 5 ans, TOTAL]
+Index: []"
+76,"Empty DataFrame
+Columns: [TOTAL, 8 428 396, 4 147 195, 5 919 689, 7 711 804, 24 160 622, 50 367 706]
+Index: []"
+77,"Empty DataFrame
+Columns: [TOTAL, 1 482 438, 757 394, 2 370 187, 2 019 237, 1 250 000, 7 879 255]
+Index: []"
+78,"            Unnamed: 0          Unnamed: 1  Unnamed: 2 Unnamed: 3  ... 1 an < D ≤ 5 ans   D > 5 ans  Unnamed: 10       TOTAL
+0           PROVISIONS  Encours 31/12/2019         NaN  Dotations  ...              NaN         NaN          NaN         NaN
+1                  NaN                 NaN         NaN        NaN  ...          409 001           -          NaN   4 213 712
+2  PROVISIONS DÉDUITES                 NaN         NaN        NaN  ...              NaN         NaN          NaN         NaN
+3    DE L’ACTIF, SUR :           2 744 099         NaN    316 039  ...        4 316 047  23 756 871          NaN  41 360 318
+
+[4 rows x 17 columns]"

@@ -16,13 +16,14 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         #reads table from pdf file
         file = "files\CDM_RFS.pdf"
-        #file = "files\\foo.pdf"
-        tables = camelot.read_pdf(file, flavor='stream',pages='all')#, layout_kwargs={'detect_vertical': False})
+        #file = "files\CDM_RFS_ml.pdf"
+        tables = camelot.read_pdf(file,pages='all',process_background=True)#, flavor='stream', split_text=True, layout_kwargs={'detect_vertical': False})
         print("Total tables extracted:", tables.n)
-        print(tables[0].df)
+        #print(tables[0].df)
+        tables[0].parsing_report
         # or export all in a zip
-        tables.export("tables.csv", f="csv", compress=True)
-        #camelot.plot(tables[0], kind='grid').show()
+        tables.export("tables\\tables2.csv", f="csv", compress=True)
+        #camelot.plot(tables[6], kind='grid').show()
 
 '''
         df = read_pdf("files\CDM_RFS.pdf",pages="all") #address of pdf file

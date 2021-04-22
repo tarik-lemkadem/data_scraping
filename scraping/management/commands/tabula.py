@@ -8,15 +8,17 @@ from scraping.models import Job
 from tabula import read_pdf
 from tabulate import tabulate
   
-import camelot
+
 
 class Command(BaseCommand):
     help = "extract table"
     # define  command
     def handle(self, *args, **options):
         #reads table from pdf file
-        file = "files\CDM_RFS.pdf"
+        #file = "files\CDM_RFS.pdf"
         #file = "files\CDM_RFS_ml.pdf"
+        file = "files\\foo.pdf"
+        
         '''
         tables = camelot.read_pdf(file,pages='all',process_background=True)#, flavor='stream', split_text=True, layout_kwargs={'detect_vertical': False})
         print("Total tables extracted:", tables.n)
@@ -27,10 +29,10 @@ class Command(BaseCommand):
         #camelot.plot(tables[6], kind='grid').show()
         '''
 
-        df = read_pdf("files\CDM_RFS.pdf",pages="all") #address of pdf file
+        df = read_pdf(file,pages="all") #address of pdf file
         print(tabulate(df))
-        data = pd.DataFrame(df)
-        data.to_csv("tables/tabula.txt")
+        #data = pd.DataFrame(df)
+        #data.to_csv("tables/tabula.txt")
 
 
     '''

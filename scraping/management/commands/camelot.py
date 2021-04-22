@@ -15,25 +15,24 @@ class Command(BaseCommand):
     # define  command
     def handle(self, *args, **options):
         #reads table from pdf file
+        #file = "files\\foo.pdf"
         file = "files\CDM_RFS.pdf"
-        #file = "files\CDM_RFS_ml.pdf"
-        '''
-        tables = camelot.read_pdf(file,pages='all',process_background=True)#, flavor='stream', split_text=True, layout_kwargs={'detect_vertical': False})
+        table_areas = None
+        tables = camelot.read_pdf(file,pages='5', flavor='stream',row_tol=10,table_areas=table_areas, split_text=False, layout_kwargs={'detect_vertical': False})
         print("Total tables extracted:", tables.n)
-        #print(tables[0].df)
-        tables[0].parsing_report
+        if tables.n >0 :
+            print(tables[0].df)
+            tables[0].parsing_report
         # or export all in a zip
-        tables.export("tables\\tables2.csv", f="csv", compress=True)
-        #camelot.plot(tables[6], kind='grid').show()
+        #tables.export("tables\\tables2.csv", f="csv", compress=True)
+        for t in tables:
+            t.df.dropna(inplace=True)
+        
+        tables.export("tables\\tab.csv", f="csv", compress=False)
+        #camelot.plot(tables[0], kind='grid').show()
         '''
 
-        df = read_pdf("files\CDM_RFS.pdf",pages="all") #address of pdf file
-        print(tabulate(df))
-        data = pd.DataFrame(df)
-        data.to_csv("tables/tabula.txt")
-
-
-    '''
+        
         reader = PyPDF2.PdfFileReader('files\CDM_RFS.pdf')
 
         print(reader.documentInfo)

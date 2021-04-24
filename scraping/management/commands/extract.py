@@ -22,6 +22,8 @@ class Command(BaseCommand):
 
         num_of_pages = reader.numPages
         print('Number of pages: ' + str(num_of_pages))
+        #with open(f"./table.txt", 'w') as f:
+            
 '''
             try:
             # save in db

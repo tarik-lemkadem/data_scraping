@@ -1,0 +1,28 @@
+"RÉSULTAT NET ET GAINS ET PERTES COMPTABILISÉS DIRECTEMENT EN CAPITAUX PROPRES AU 30 JUIN 2020","","","CONTEXTE"
+"","","(En milliers de DH)",""
+"Résultat net et gains et pertes comptabilisés directement en capitaux propres","30/06/2020","31/12/2019","Le  premier  semestre  est  marqué  par 
+l’émergence  et"
+"Résultat net","23 821","512 181","l’expansion 
+de 
+l’épidémie  Covid-19.  En 
+conséquence"
+"Éléments recyclables en résultat net :","20 640","22 628","le  Maroc  a  édicté  des  mesures  d’atténuation  de 
+la"
+"Écarts de conversion","768","211","propagation. Ces mesures ont induit une baisse de l’activité"
+"Réévaluation des actifs financiers à la juste valeur par capitaux propres recyclables","31 543","35 582","économique qui a provoqué des difficultés financières pour"
+"Réévaluation des instruments dérivés de couverture  d’éléments recyclables","-","-","les entreprises de certains secteurs ainsi que des baisses"
+"Quote-part des gains et pertes comptabilisés directement en capitaux propres des entreprises mises en équivalence","-","-","de  revenus  pour  les  ménages  exposés.  Le  Maroc  a,  par"
+"Autres éléments comptabilisés par capitaux propres et recyclables","-","-","ailleurs,  mis  en  place  des  mesures  exceptionnelles  pour"
+"Impôts liés","11 671","13 166","accompagner les entreprises et les ménages et préserver"
+"Éléments non recyclables en résultat net :","793","118","les capacités de production et de travail dans la perspective"
+"Réévaluation des immobilisations","-","-","d’une reprise économique à court terme."
+"Réévaluation (ou écarts actuariels) au titre des régimes à prestations définies","1 259","187",""
+"Réévaluation du risque de crédit propre des passifs financiers ayant fait l‘objet d’une option de comptabilisation à la juste valeur par résultat","-","-","La  situation  consolidée  du  premier  semestre  2020  tient"
+"Réévaluation des instruments de capitaux propres comptabilisés à la juste valeur par capitaux propres","-","-","compte des impacts de la participation du Crédit du Maroc"
+"Quote-part des gains et pertes comptabilisés directement en capitaux propres sur entreprises mises en équivalence non recyclables","-","-","au  fonds  de  solidarité  Covid-19  dont  le  montant  s’élève"
+"Autres éléments comptabilisés par capitaux propres non recyclables","-","-","à  85  MDH,  ainsi  que  des  dépréciations  pour  risque  de"
+"Impôts liés","466","69","contrepartie sur les acteurs économiques exposés."
+"Total des gains et pertes comptabilisés directement en capitaux propres","21 434","22 745",""
+"Résultat net et gains et pertes comptabilisés directement en capitaux propres","45 255","534 926",""
+"Dont part du Groupe (ou des propriétaires de la société mère)","45 159","531 553",""
+"Dont part des intérêts minoritaires (ou participations ne donnant pas le contrôle)","96","3 374",""

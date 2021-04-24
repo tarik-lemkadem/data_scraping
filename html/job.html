@@ -1,0 +1,58 @@
+<!doctype html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+        <title>Contacts</title>
+
+        <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+
+    </head>
+
+    <body>
+
+
+
+        <div class="mw6 center pa3 sans-serif">
+
+            <h1 class="mb4">Data : </h1>
+
+            <header class="b mb2"> refresh : </header>
+            <form method="post">
+                {% csrf_token %}
+                <button type="submit" name="scrape">Run scraping </button>
+            </form>
+        {% for v in job %}
+
+            <div class="pa2 mb3 striped--near-white">
+
+                <div class="pl2">
+                    
+                    
+                    <p class="mb2">date: {{ v.date }}</p>
+
+                    <p class="mb2">taux: {{ v.taux }}</p>
+
+                    <p class="mb2">volume : {{ v.volume }}</p>
+
+                    <p class="mb2">encour: {{ v.encours }}</p>
+
+                </div>
+
+            </div>
+
+        {% endfor %}
+
+        </div>
+
+
+    </body>
+
+</html>

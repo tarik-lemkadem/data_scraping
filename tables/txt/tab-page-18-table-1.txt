@@ -1,0 +1,15 @@
+"publications financières et sur les risques.","","","","","",""
+"Dès la publication des textes par le Régulateur, le Crédit du","Évolution Ratio de solvabilité","","","","",""
+"Maroc a engagé un chantier de mise en conformité avec les","","","(en milliers de dirhams)","","",""
+"dispositions réglementaires.","","30/06/2020","31/12/2019","","",""
+"Pour le pilier 1, le Crédit du Maroc a opté pour la méthode","Fonds propres de catégorie 1","5 063 659","5 080 932","","",""
+"«  standard  »  en  ce  qui  concerne  le  risque  de  crédit,  la","Total fonds propres","6 402 477","6 510 808","","",""
+"« Méthode de base » pour le risque opérationnel.","","","","","","4,4
+4,3"
+"La banque a engagé un large chantier pour lui permettre","Risques pondérés","43 162 610","44 195 291","","0,2
+0,2",""
+"de  produire  dans  les  délais  impartis  par  le  Régulateur,  le","Ratio  sur 
+fonds  propres  de  base","11,73%","11,50%","","",""
+"ratio de solvabilité aux nouvelles normes. Pour cela, elle a","(T1)","","","Risque de","Risque de","Risque"
+"acquis, un calculateur « Fermat » qui assure la production","Ratio de solvabilité","14,83%","14,73%","Crédit","Marché","Opérationnel"
+"depuis  fin  2007,  et  qui  a  été  remplacé  par  l’outil  «  Risk","","","","","",""

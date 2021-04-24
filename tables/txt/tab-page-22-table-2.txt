@@ -1,0 +1,27 @@
+"ÉTAT B10 - DETTES ENVERS LES ÉTABLISSEMENTS DE CRÉDIT","","","","","","","","","ÉTAT B14 - PROVISIONS AU 30 JUIN 2020","","","","","","","ÉTAT B22 -VENTILATION DES EMPLOIS ET DES RESSOURCES SUIVANT LA DURÉE RÉSIDUELLE AU 30 JUIN 2020","","","","","(En milliers de DH)"
+"ET ASSIMILÉS AU 30 JUIN 2020","","","","","","","","","","","","","(En milliers de DH)","","","D ≤ 1 mois","1 mois < D ≤ 3 mois","3 mois < D ≤ 1 an","1 an < D ≤ 5 ans","D > 5 ans","TOTAL"
+"","","","","","","","(En milliers de DH)","PROVISIONS","Encours","Dotations","Reprises","Autres","","Encours","ACTIF","","","","","",""
+"","","Établissements de crédit et assimilés au Maroc","","","Établis-","","","","31/12/2019","","","variations","30/06/2020","","Créances sur les établissements de crédit et assimilés","2 621 955","733 342","449 414","409 001","-","4 213 712"
+"","Bank Al-Maghrib,","","","Autres établisse-","sements","Total","Total","PROVISIONS DÉDUITES 
+DE L’ACTIF, SUR :","2 744 099","316 039","224 718","","48","2 835 468","Créances sur la clientèle","4 965 292","3 111 039","5 211 069","4 316 047","23 756 871","41 360 318"
+"DETTES","Trésor Public 
+et Service des","","Banques  
+au Maroc","ments de crédit 
+et assimilés au","de crédit à","30/06/2020","31/12/2019","","","","","","","","Titres de créance","841 149","302 814","259 206","2 986 756","403 751","4 793 676"
+"","Chèques Postaux","","","Maroc","l’étranger","","","Créances sur les établissements 
+de crédit et assimilés","-","-","-","","-","-","Créances subordonnées","-","-","-","-","-","-"
+"Comptes ordinaires","","","","","","","","","","","","","","","Crédit-bail et assimilé","-","-","-","-","-","-"
+"créditeurs","","9","11 980","30 172","78 604","120 765","636 459","Créances sur la clientèle","2 734 094","312 922","224 546","","48","2 822 518","TOTAL","8 428 396","4 147 195","5 919 689","7 711 804","24 160 622","50 367 706"
+"Valeurs données  
+en pension","","-","-","-","-","-","-","Titres de placement","420","-","172","","-","248","PASSIF","","","","","",""
+"- Au jour le jour","","-","-","-","-","-","-","Titres de participation et emplois 
+assimilés","9 586","3 117","-","","-","12 703","Dettes envers les établissements de crédit et assimilés","972 250","-","2 180","326 105","-","1 300 535"
+"- À terme","","-","-","-","-","-","-","","","","","","","","Dettes envers la clientèle","510 188","757 394","1 368 007","393 132","-","3 028 721"
+"Emprunts de trésorerie","","-","-","-","1 263 535","1 263 535","1 637 878","Immobilisations en crédit-bail et","-","-","-","","-","-","Titres de créance émis","-","-","500 000","1 300 000","-","1 800 000"
+"- Au jour le jour","","-","-","-","291 585","291 585","55 000","en location","","","","","","","Emprunts subordonnés","-","-","500 000","-","1 250 000","1 750 000"
+"- À terme","","-","-","-","971 950","971 950","1 582 878","Autres actifs","-","-","-","","-","-","TOTAL","1 482 438","757 394","2 370 187","2 019 237","1 250 000","7 879 255"
+"Emprunts financiers","","2 180","-","-","324 352","326 532","357 408","PROVISIONS INSCRITES","","","","","","","","","","","","",""
+"Autres dettes","","-","266","13 347","-","13 613","76 276","AU PASSIF :","1 224 771","173 763","10 616","8 000","","1 395 918","","","","","","",""
+"Intérêts courus à payer","","-","300","850","-","1 150","1 853","","","","","","","","","","","","","",""
+"TOTAL","","2 189","12 546","44 369","1 666 491","1 725 595","2 709 874","Provisions pour risques d'exécution 
+d'engagements par signature","144 050","5 698","2 318","","-","147 429","ÉTATS DE SYNTHÈSE ARREDA AU 30 JUIN 2020","(En milliers de DH)","","","","",""

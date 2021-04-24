@@ -1,0 +1,21 @@
+"ET DE PLACEMENT ET DES TITRES D’INVESTISSEMENT","","","","","","","","","","DE DÉPÔT INSCRITS EN COMPTE AU 30 JUIN 2020","","","","","","","","","","","",""
+"PAR CATEGORIE D’EMETTEUR AU 30 JUIN 2020","","","","","","","","(En milliers de DH)","","","","","","","(En milliers de DH)","","","","","","Condition de remboursement","Montant de l’emprunt"
+"","","","","","","","","","Nature des Titres","Date","Date","Valeur nomi-","Taux","Mode de rem-","Montant","Monnaie","Montant en monnaie","Cours (1)","Taux","Durée (2)","anticipé, subordination","en monnaie nationale"
+"","Etablissements","","Emetteurs","Emetteurs privés","","","Total","Total","","de jouissance","d’échéance","nale unitaire","nominal","boursement","Global","de l’emprunt","de l'emprunt","","","","et convertibilité (3)","(ou contrevaleur en KDH)"
+"TITRES","de crédit et 
+assimilés","","publics","financiers","non","","30/06/2020","31/12/2019","Certificats de Dépots","02/08/2018","02/08/2021","100,00","2,98%","INFINE","300 000,00","","","","","","",""
+"","","","","","financiers","","","","","","","","","","","MAD","93 100,00","1","5,02%","10 ANS","INFINE","93 100,00"
+"TITRES COTÉS","","-","-","-","","-","-","-","Certificats de Dépots","28/09/2018","28/09/2021","100,00","3,02%","INFINE","500 000,00","MAD","108 800,00","1","5,02%","10 ANS","INFINE","108 800,00"
+"Bons du Trésor  
+et valeurs assimilées","","","","","","","-","-","","","","","","","","MAD","46 900,00","1","3,23%","10 ANS","INFINE","46 900,00"
+"Obligations","","","","","","","-","-","Certificats de Dépots","19/10/2018","19/10/2020","100,00","2,88%","INFINE","500 000,00","MAD","251 200,00","1","3,45%","10 ANS","INFINE","251 200,00"
+"Autres titres de créance","","","","","","","-","-","Certificats de Dépots","31/10/2019","01/11/2021","100,00","2,63%","INFINE","200 000,00","MAD","55 000,00","1","3,93%","10 ANS","INFINE","55 000,00"
+"Titres de propriété","","","","","","","-","-","","","","","","","","MAD","445 000,00","1","3,17%","10 ANS","INFINE","445 000,00"
+"TITRES NON COTÉS","","1 150 546","3 573 090","69 974","","67","4 793 676","4 949 745","Certificats de Dépots","31/10/2019","31/10/2022","100,00","2,74%","INFINE","300 000,00","MAD","197 500,00","1","4,05%","10 ANS","INFINE","197 500,00"
+"Bons du Trésor  
+et valeurs assimilées","","-","3 573 090","-","","-","3 573 090","3 239 589","TOTAL","","","","","","1 800 000,00","MAD","552 500,00","1","4,05%","10 ANS","INFINE","552 500,00"
+"Obligations","","13 868","-","-","","-","13 868","19 397","","","","","","","","TOTAL","1 750 000,00","","","","","1 750 000,00"
+"Autres titres de créance","","1 136 677","-","-","","-","1 136 677","1 620 719","","","","","","","","(1) cours BAM au 30/06/2020","","","","","",""
+"Titres de propriété","","-","-","69 974","","67","70 040","70 040","","","","","","","","(2) éventuellement indéterminée","","","","","",""
+"TOTAL","","1 150 546","3 573 090","69 974","","67","4 793 676","4 949 745","","","","","","","","(3) se référer au contrat de dettes subordonnées","","","","","",""
+"","","","","","","","","","","","","","","","","","ÉTAT B22 -VENTILATION DES EMPLOIS ET DES RESSOURCES SUIVANT LA DURÉE RÉSIDUELLE AU 30 JUIN 2020","","","","",""

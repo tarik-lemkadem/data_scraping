@@ -1,0 +1,164 @@
+"","EXTRAIT DES NOTES ET ANNEXES IFRS","",""
+"Risques  sensibles 
+:  Les  contreparties  présentants  des","En  termes  d’outils  informatiques,  la  banque  dispose  d’un","défaillance  des  processus 
+internes,  des  personnes,  des","2.4 GESTION ACTIF - PASSIF"
+"signes  de  fragilités  sont  suivies  dans  le  cadre  du  comité","système 
+front-to-back  Arpson  avec  des 
+fonctionnalités","systèmes ou d’événements extérieurs, risque juridique inclus.","La  démarche  de 
+la  gestion  Actif-Passif 
+(ALM)  est  une"
+"mensuel  d’anticipation  et  de  suivi  des  Risques  Sensibles","de  suivi  des  risques  et  de  calcul  des  résultats.  Le  Pôle","Dispositif  de  gestion  des  risques  opérationnels  mis  en","démarche  d’identification,  de  mesure,  de  contrôle  et  de"
+"sur la base de critères qualitatifs et quantitatifs.","Contrôle  des  Risques  de  Marché  et  Financier  a  accès  à","œuvre","couverture des risques financiers pouvant affecter le bilan"
+"","ces informations et dispose d’outils complémentaires pour","Le  dispositif  de  gestion  des  risques  opérationnels  mis","de la banque."
+"2.2 RISQUE DE MARCHÉ","mener à bien ses analyses.","en  place  par  la  banque  vise  à  identifier  l’ensemble  des","Il s’agit principalement des risques de liquidité, de taux et"
+"Les  activités  de  marché  sont  encadrées  par  des  limites","Principaux risques et dispositif de contrôle :","sources  de  risques  majeurs  en  vue  de  les  couvrir  (fraude","de change."
+"globales  et  opérationnelles  définies  dans  le  cadre  de  la","Les  risques  de  marché  ou  risques  de  variation  de  prix,","interne, 
+fraude  externe,  pratiques  en  matière  d’emploi","Gouvernance :"
+"stratégie risques de la banque.","représentent les pertes potentielles suite à des mouvements","et  sécurité  sur 
+le 
+lieu  de 
+travail,  clients  produits  et","Au Crédit du Maroc, la gestion Actif-Passif est assurée par"
+"Le 
+format 
+de 
+limites, 
+qu’elles 
+soient 
+globales 
+ou","adverses de cours, de prix ou de niveaux de taux.","pratiques  commerciales,  dommages  aux  actifs  corporels,","la fonction ALM qui rapporte à la Direction Finances Groupe"
+"opérationnelles,  sont  de  trois  natures  :  quantitative  (VaR,","Risques  de  taux  :  Ils  représentent  les  risques  d’encourir","dysfonctionnements de l’activité et des systèmes, exécution","et au comité ALM."
+"Stress, sensibilités détaillées), qualitatif (produits autorisés,","des  pertes  suite  aux  variations  du  niveau  absolu  du  taux","livraison et gestion des processus).","Risque de taux d’intérêt global"
+"devises autorisées, maturité max…) et des seuils de perte.","d’intérêt, d’un spread entre deux courbes de taux ou de la","1. Les principaux enjeux","C’est  le  risque  de  voir  les  résultats  de  la  banque  affectés"
+"Les sets de limites concernent les activités de la direction","déformation de la courbe. Il existe plusieurs composantes","- la maîtrise du  coût des risques opérationnels ;","défavorablement par les mouvements de taux d’intérêt. Ces"
+"marchés  des  capitaux  dont 
+le  rôle  est  d’assurer  des","pour  ce  risque  :  risque  directionnel,  risque  de  pente  et","- la prévention des  grands risques ;","mouvements  ont  une  influence  sur  les  rémunérations  et"
+"opérations d’intermédiation avec la clientèle (Activités FX,","risque de base ou de spread.","- l’optimisation de  la couverture des risques ;","les coûts générés par les produits et instruments financiers"
+"obligataires, prêts/emprunts, Repos) ainsi que les activités","Ce risque concerne le trading sur titres et la trésorerie. Il 
+est encadré par un dispositif de limites quantitatives (VaR,","- l’intégration  du 
+triple 
+impact 
+réglementaire  à  savoir","(actifs, passifs et instruments de hors bilan), dont dispose"
+"de marché de la trésorerie de la banque.","","le 
+pilotage 
+par 
+les 
+fonds 
+propres, 
+la 
+supervision","la  banque.  En  conséquence, 
+leurs  mouvements  ont  un"
+"","Stress, nominal et sensibilités détaillées).","réglementaire et la communication financière.","impact direct sur le résultat généré mais aussi sur la valeur"
+"Organisation de la filière","Risque  de  change  :  C’est  le  risque  d’encourir  des  pertes","","actuelle des différents revenus futurs."
+"Les activités de marchés sont organisées en trois domaines","suite  aux  variations  du  cours  des  devises  étrangères  par","2. Les composantes du dispositif","Il  convient  donc  d’appréhender  correctement  la  manière"
+"indépendants :","rapport à la monnaie de référence ou monnaie locale.","Le  dispositif  de  gestion  des  risques  opérationnels  mis  en","dont 
+les  mouvements  de 
+la  courbe  des 
+taux  peuvent"
+"Le Front Office :","Les positions sont encadrées par des limites réglementaires","œuvre s’articule autour de quatre composantes :","impacter les marges de la banque."
+"Le  Front  Office  est  littéralement  l’interface  de  la  banque","et des limites internes (VaR, Stress, nominal individuelle et","La Composante organisationnelle :","L
+’approche  en  taux  a  pour  objectif  de  mesurer 
+in  fine,"
+"avec  le  marché.  Il  centralise  et  traite  tous  les  besoins  de","globale, Loss alert…).","La  surveillance  des  risques  opérationnels  est  confiée  à","l’exposition  des  résultats  de  la  banque  aux  fluctuations"
+"la  banque  et  de  ses  clients  en  termes  de  couverture  et","Risques liés aux défauts : une part importante des risques","une  entité  relevant  des  Risques  et  contrôles  permanents,","des 
+taux  d’intérêt  du  marché.  Elle 
+s’intéresse  donc"
+"financement. 
+Il  engage 
+la  banque  dans 
+le  respect  des","pris par les établissements financiers sur les marchés se","structure  faîtière  du  dispositif  de  contrôle  interne  de  la","exclusivement  aux  encours  dont  les  taux  resteront  fixes"
+"limites internes de marché, des limites réglementaires et","trouve liée aux événements de défauts (défaillance d’une ou","banque.","sur une période donnée ; les encours corrélés aux taux du"
+"des lignes de crédit qui lui sont accordées.","plusieurs contreparties, risque de non-transfert…).","Le  système  d’audit 
+interne  vérifie  périodiquement  que","marché n’étant pas exposés à ce type de risque."
+"Il 
+est 
+rattaché 
+hiérarchiquement 
+à 
+la  Direction 
+de","Les opérations de marché peuvent générer :","le  dispositif  de  gestion  des  risques  opérationnels  est","Un  dispositif  d’encadrement  et  de  contrôle  a  été  mis  en"
+"l’Internationale 
+et 
+des  Activités 
+de  Marché 
+du 
+pôle","- des risques de règlement/livraison ;","mis  en  œuvre  avec  efficacité  au  niveau  de  l’ensemble  de","place  au  Crédit  du  Maroc.  Des  limites  en  volume  ont  été"
+"Développement.","- des risques de variation.","l’établissement.","fixées.  Elles  sont  basées  sur  le  calcul  de  gaps  de  taux,"
+"Le Middle Office :","En effet, si l’un des intervenants fait défaut alors que l’autre","Le  Directoire  assure  un  suivi  régulier  de  la  situation  des","définis  comme  étant  la  différence  entre  les  ressources  et"
+"Le  Middle  Office  assure  les  contrôles  et  le  respect  des","contrepartie a déjà rempli ses propres obligations, à savoir :","risques  via  le  Comité  de  Contrôle  Interne  présidé  par  le","les emplois par maturité exposés au risque de taux."
+"limites fixées par les Risques.","livrer  des  fonds,  alors  la  perte  porte  sur  la  totalité  du","Président du Directoire.","Le risque de liquidité"
+"Le Back-Office :","montant (nominal) de la transaction (à la livraison), c’est le","Le  Conseil  de  Surveillance,  via 
+le  Comité  d’Audit  et 
+le","Il représente pour la banque l’éventualité de ne pas pouvoir"
+"Le Back Office suit le traitement post –marché des opérations :","risque de livraison ou non concomitance des flux échangés.","Comité des Risques, est informé des risques importants et","faire face, à un instant donné, à ses engagements ou à ses"
+"confirmation, paiement, règlement – livraison et comptabilité.","Ce  risque  affecte 
+le  change 
+(comptant  et 
+terme), 
+les","s’assure de la prise en compte de ces risques.","échéances. Le risque de liquidité se traduit donc à travers"
+"Il est rattaché hiérarchiquement à la Direction des Services","swaps de change (swaps de trésorerie ou cambiste). Pour","La composante qualitative :","l’impossibilité de satisfaire ses engagements."
+"Bancaires à la Clientèle.","les  opérations  sur  tires  (ferme  ou  temporaire),  ce  risque","Elle permet d’évaluer et de prévenir les risques à travers la","Il apparaît lorsque des besoins inattendus sont subis par la"
+"","n’existe pas du fait que les transactions sont effectuées via","cartographie des risques opérationnels.","banque et qu’elle ne peut y faire face à partir de ses actifs"
+"Le PCRMF (Pôle Contrôle des Risques de Marché et Financier) :","un système DVP (Delevery Versus Payment).","La composante quantitative :","liquides."
+"En matière de suivi et de contrôle des activités de Marché,","Si par contre la défaillance intervient entre la négociation","Elle permet de mesurer et surveiller le coût du risque et les","Le risque de liquidité se situe à trois niveaux :"
+"le PCRMF, a en charge :","et  la  livraison,  alors  la  perte  potentielle  correspond  à  la","incidents à travers le suivi des pertes et la mise en place","Funding risk : risque qui se traduit par la nécessité d’obtenir"
+"- le  suivi  du  respect  des 
+limites,  que  celles-ci  soient","variation  du  cours  de  change  entre  le  cours  négocié  et  le","d’un dispositif d’alerte.","de nouvelles ressources lorsqu’une des ressources dont la"
+"quantitatives (niveaux de risque), qualitatives (instruments,","cours prévalant sur le marché au moment où il faut trouver","La composante d’allocation de fonds propres :","banque  disposait  par  le  passé  n’est  plus  disponible  (par"
+"devises  ou  maturités  autorisés)  ou  relatives  aux  niveaux","une  nouvelle  contrepartie  de  remplacement,  il  s’agit  du","Par  prudence, 
+l’établissement  a  retenu  une  allocation","exemple lors de retrait massif sur les dépôts à vue)."
+"de perte tolérée ;","coût de remplacement et c’est le risque de variation.","des  fonds  propres  basée  sur  la  méthode  «  indicateurs  de","Time  risk  :  risque  qui  apparaît  lorsque  la  banque  ne  peut"
+"- le  traitement  des  dépassements  (analyse  des  raisons,","Ces risques sont encadrés par des limites individuelles sur","base » avec l’objectif d’évoluer rapidement vers la méthode","obtenir des rentrées d’argent pourtant attendues (par exemple,"
+"mode et délai de régularisation…) ;","les contreparties y compris les correspondants de la salle","« standard ».","incapacité de remboursement d’un prêt par un client)."
+"- la surveillance des risques et des résultats en liaison avec","des marchés et accordées par la banque dans le cadre de","3. Sécurité des systèmes d’information","Call risk : risque relatif à l’obtention de nouvelles ressources"
+"l’évolution des marchés ;","l’étude de risque annuelle.","La sécurité des systèmes d’informations est assurée avec","(suite  par  exemple  à  des  emprunts  importants  sur  des"
+"- l’analyse et le contrôle des P&L de gestion ;","Le calcul des consommations de VaR (Value at Risk) du CDM","la mise en place d’une politique de sécurité et d’un dispositif","lignes de crédits)."
+"- la production et le contrôle de la qualité des indicateurs de","est  réalisé  via  l’outil  de  Consolidation  du  Groupe  (Global","de contrôle permanent. Des tests annuels d’intrusions et de","L
+’approche  en  liquidité  met  en  évidence  la  situation  de"
+"risques ;","View  Risk)  alimenté  en  données  de  risques  de  marché","vulnérabilité,  ainsi  que  des  évaluations  de  la  sécurité  des","transformation  de 
+la  banque.  Elle  permet  de  mesurer"
+"- le Back testing de la VaR (Value at Risk) ;","(vecteurs  de  sensibilités,  positions  de  change,  courbe  de","systèmes d’informations sont réalisés.","les  besoins  de  funding  à  court,  moyen  et  long  terme  ou"
+"- la production et l’analyse des stress scenarii ;","taux MAD) par les outils de CDM.","4. Plan de Continuation des Activités","l’importance des excédents de liquidité à replacer par type"
+"- la vérification des données de marché ;","Aussi, 
+les  stress  globaux  selon 
+les  méthodologies  du","Pour assurer la continuité des activités de la banque en cas","de maturité."
+"- la  vérification  que 
+le  Back  Office  s’est  assuré  de 
+la","Groupe sur ces activités sont calculés hebdomadairement","de sinistre, l’établissement  dispose d’un Plan de Continuité","Tous les produits de bilan sont traités en fonction de leur"
+"cohérence des stocks entre outil Front Office et données","via l’outil Groupe.","d’Activités (PCA), composé :","échéance finale, sans tenir compte de la nature du taux."
+"comptables ;","Enfin, les résultats quotidiens des activités de trading (sur","- d’un  Plan  de  Secours 
+informatique  pour  secourir 
+les","Afin de mieux appréhender la gestion de la liquidité courante"
+"- la production et analyse des états de suivi de l’exposition","bonds et sur le change) sont alimentés dans l’outil Groupe","services informatiques critiques ;","du Crédit du Maroc, un comité mensuel de coordination de"
+"aux risques.","(CADRE) et la VaR fait l’objet d’un back-testing.","- d’un  Plan  de  Repli  Utilisateurs  avec  aménagement  d’un","trésorerie a été mis en place. Par ailleurs, le comité ALM a"
+"Il  est  rattaché  hiérarchiquement  à  la  Direction  Contrôle","Mise en conformité par rapport à LBF / Volcker :","site de repli devant servir en cas de sinistre ;","défini des limites visant à encadrer le déficit de la trésorerie"
+"Central des Risques.","Dans le cadre de la mise en conformité avec les exigences","- d’un dispositif de gestion de crise ;","résiduelle.  Un  programme  d’émission  de  certificats  de"
+"Le suivi des risques doit être effectué aux différents niveaux","de  LBF/Volcker  (Loi  Bancaire  Françaises  /  Volcker  rules),","- d’un  dispositif  de  continuité  d’activité  spécifique  au","dépôt  a  également  été  lancé  depuis  2007  afin  de  mieux"
+"de l’établissement avec des séparations de pouvoir entre le","une  réorganisation  des  portefeuilles  et  centres  de  profits","scénario de pandémie grippale.","accompagner le plan de développement de la banque."
+"front office, le middle office, le back office, les risques et le","(découpage des activités par desk) a été mise en place en","Ce PCA est régulièrement testé et amélioré.","Conventions d’écoulement :"
+"contrôle financier, autrement dit entre ceux qui passent les","phase  avec  l’arborescence  risques.  Cette  réorganisation","","Les conventions ALM sont destinées à prendre en compte"
+"ordres et ceux qui les contrôlent.","assure  une  séparation  entre 
+le  banking  book 
+(ALM  &","5. Prestations de services essentielles externalisées","des 
+phénomènes 
+économiques 
+ou 
+comportementaux"
+"Ainsi, cette organisation permet :","activités  de  trésorerie)  et  les  activités  de  la  direction  des","Elles sont encadrées par un dispositif spécifique.","hautement 
+probables 
+permettant 
+d’affiner 
+l’analyse"
+"","marchés de capitaux (DMC) dont le rôle est d’assurer des","Les  Conventions  de  services  comprenant  des  indicateurs","du  risque.  Un  dossier  exhaustif  de  documentation  des"
+"- de s’assurer en permanence du respect des procédures,","opérations d’intermédiation avec la clientèle.","de qualité ont permis à l’établissement d’intégrer le suivi de","conventions a été élaboré et puis validé par le comité ALM."
+"des normes et des  limites mises en place ;","","ces activités dans le dispositif de contrôle interne.","Le Crédit du Maroc procède à des mises à jour régulières"
+"- d’analyser 
+les 
+causes  du  non-respect  éventuel  des","2.3 RISQUES OPÉRATIONNELS","","des conventions. Celles-ci sont nécessaires dans la mesure"
+"procédures et des limites ;","Le  Crédit  du  Maroc  a  adopté 
+la  définition 
+issue  des","","où elles garantissent une meilleure adéquation de l’analyse"
+"- d’informer  les  entités  et/ou  les  personnes  désignées  à","recommandations  de  Bâle  2  pour  le  risque  opérationnel.","","avec  l’évolution  du  marché  et  des  comportements  de  la"
+"cet  effet  de  l’ampleur  des  dépassements  et  des  actions","Il  s’agit  des  pertes  résultant  de 
+l’inadéquation  ou  de 
+la","","clientèle. Ces mises à jour visent également à se conformer"
+"correctrices qui sont proposées ou entreprises ;","","",""

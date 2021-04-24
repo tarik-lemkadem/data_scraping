@@ -1,0 +1,12 @@
+"","","EXTRAIT DES NOTES ET ANNEXES IFRS","","",""
+"5.3.  EXIGENCE  EN  FONDS  PROPRES  ET","Le  risque  spécifique  est  calculé  sur  la  position  globale","Détail Risque de marché","","","3. Risque opérationnel"
+"ACTIFS  PONDÉRÉS  DU  GROUPE  CRÉDIT  DU","en  appliquant  les  pondérations  listées  par  le  régulateur","","","(en milliers de dirhams)","Le risque opérationnel est calculé à l’aide des PNB annuels"
+"MAROC","suivant la nature de l’actif.","Exigences en fonds propres","31/12/2019","30/06/2020","des  trois  derniers  exercices  en  utilisant  la  méthode  des"
+"Les  risques  pondérés  sont  calculés  en  approche  standard","• Risque de change","Risque de taux","13 403","13 594","indicateurs de base."
+"pour  les  risques  de  crédit,  de  contrepartie  et  les  risques","L
+’exigence en Fonds propres au titre du risque de change","Risque spécifique de taux","2 600","569","L
+’exigence en fonds propres est 15% x la moyenne du PNB"
+"du  marché  et  en  méthode  d’indicateurs  de  base  pour  les","est  calculée  lorsque  la  position  nette  globale  dépasse  2%","Risque général de taux","10 802","13 026","des trois derniers exercices."
+"risques opérationnels.","des capitaux de base. La position nette globale correspond","Risque de change","6 169","3 894",""
+"Pilier I","à  la  position  la  plus  forte  entre  la  somme  des  positions","Total","19 572","17 489",""
+"","courtes et celle des positions longues pour la même devise.","","","",""

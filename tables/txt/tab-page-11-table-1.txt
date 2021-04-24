@@ -1,0 +1,47 @@
+"D’UTILISATION : VARIATION (PRENEUR) (3.6)","","","","","","","","","","","(En milliers de DH)",""
+"","(En milliers de DH)","","","Actifs sains","","","Actifs dépréciés (Bucket 3)","","","Total","",""
+"Augmentations 
+Diminutions  
+ 
+31/12/2019","30/06/2020","","","Actifs soumis à une ECL 12 mois  
+( Bucket 1)","Actifs soumis à une ECL 
+à maturité ( Bucket 2)","","","","","","",""
+"(acquisitions)
+(cessions)","","","Valeur comptable","Correction de Valeur","Valeur comptable","Correction de","Valeur comptable","Correction de","Valeur comptable","Correction de Valeur","Valeur nette",""
+"Immobilier","","","brute","pour pertes","brute","Valeur pour pertes","brute","Valeur pour pertes","brute (a)","pour pertes (b)","comptable (a)+(b)",""
+"Valeur brute
+ 135 996   
+ 10 660","-619   
+ 146 037","Au 31 décembre 2019","41 308 759","-93 291","2 810 882","-328 276","3 783 868","-3 282 895","47 903 510","-3 704 462","","44 199 048"
+"Amortissements et dépréciations
+-21 465   
+-11 663","619   
+-32 509","Transfert d'actifs en cours de vie d'un bucket à l'autre","-907 037","198","616 187","-46 686","290 850","-156 322","-","-202 809","","-"
+"Total Immobilier
+ 114 531   
+-1 003","-     
+ 113 528","Transfert de ECL 12 mois (Bucket 1) vers ECL Maturité (Bucket 2)","-1 310 912","4 591","1 310 912","-123 117","-","-","-","-118 526","","-"
+"","","Retour de ECL Maturité (Bucket 2) vers ECL 12 mois  (Bucket 1)","437 124","-4 866","-437 124","37 444","-","-","-","32 578","","-"
+"Mobilier","","Transfert vers ECL Maturité Dépréciés  (Bucket 3)","-82 495","737","-304 390","45 838","386 884","-184 044","-","-137 469","","-"
+"Valeur brute
+ 3 723   
+ 4 020","-1 269   
+ 6 474","Retour de ECL Maturité Dépréciés (Bucket 3) vers ECL 
+ Maturité (Bucket 2) / ECL 12 mois (Bucket 1)","49 246","-264","46 789","-6 851","-96 034","27 722","-","20 608","","-"
+"Amortissements et dépréciations
+-1 905   
+-1 092","1 269   
+-1 729","Total après transfert","40 401 723","-93 093","3 427 069","-374 962","4 074 718","-3 439 216","47 903 510","-3 907 271","","43 996 238"
+"Total Mobilier
+ 1 818   
+ 2 928","-     
+ 4 746","Variation des Valeurs comptables brutes et des corrections de","-1 766 794","-29 655","1 656 519","-69 277","84 314","-15 242","-25 962","-114 174","","-"
+"Total Droits d'utilisation
+ 116 349   
+ 1 925","-     
+ 118 274","valeur pour pertes","","","","","","","","","",""
+"","","Nouvelles production : achat, octroi, organisation...","9 880 041","-49 347","448 280","-143 245","","","10 328 320","-192 592","","-"
+"","","Décomptabilisation : cession, remboursement, arrivée à 
+échéance…","-8 659 165","10 418","-645 502","91 350","-181 091","56 842","-9 485 758","158 610","","-"
+"DÉTAIL DES CHARGES DE CONTRATS DE LOCATION  (3.6)","","Passage à perte","-","-","-","-","-74 777","74 777","-74 777","74 777","","-"
+"","(En milliers de DH)","Modification de flux sur restructurations pour cause de","-","-","-","-","-","-","-","-","","-"

@@ -18,7 +18,8 @@ from django.urls import path
 from scraping import views 
 
 urlpatterns = [
+    path("", views.job, name="job"),
     path('admin/', admin.site.urls),
-    #path('', admin.site.urls),
+    #path('', views.job),
     path('home/',views.home),
 ]

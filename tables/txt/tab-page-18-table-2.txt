@@ -1,0 +1,19 @@
+"Le  Crédit  du  Maroc,  en  étroite  relation  avec  le  Groupe","","","Actifs","Exigences","Actifs","Exigences","Actifs","Exigences"
+"CA.SA, compte poursuivre la mise en œuvre de l’usage des","","","pondérés","en fonds","pondérés","en fonds","pondérés","en fonds"
+"indicateurs  bâlois  avancés,  qui  entraîneront  de  profonds","","","","propres","","propres","","propres"
+"changements dans la conduite des activités.","","Risque de crédit","39 644 317","3 171 545","38 567 412","3 085 412","-1 076 666","-86 133"
+"Ces changements visent notamment à :","","","","","","","",""
+"- adapter  la  politique  d’allocation  des  fonds  propres  aux","Dont","Souverain","15 987","1 279","12 106","968","-3 881","-310"
+"activités ;","Dont","Établissements","3 945 643","315 651","2 650 649","212 052","-1 294 993","-103 599"
+"- mieux  prendre 
+en 
+compte 
+les 
+évolutions  dans 
+les","Dont","Entreprises","23 747 963","1 899 837","23 637 134","1 890 971","-110 829","-8 866"
+"processus  d’octroi  (consommation  des  Fonds  propres,","Dont","Clientèle de détail","9 023 573","721 886","9 005 452","720 436","-18 121","-1 450"
+"rentabilité, coût du risque, etc.) ;","","Risque de Marché","244 648","19 572","218 610","17 489","-26 038","-2 083"
+"- garantir la fiabilité des informations sur les risques, etc.","","Risque Opérationnel","4 306 326","344 506","4 376 350","350 108","70 024","5 602"
+"- Renforcer la capacité d’anticipation des risques.","","","","","","","",""
+"Les processus impactés ont été identifiés et les chantiers","","Total","44 195 291","3 535 623","43 162 610","3 453 009","-1 032 681","-82 614"
+"nécessaires  à  leur  adaptation  seront  engagés  selon  un","","","","","","","",""

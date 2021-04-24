@@ -1,0 +1,136 @@
+"INFORMATIONS RELATIVES AUX PARTIES LIÉES","","","","barème basé sur l’âge du collaborateur.","","Taux d'actualisation","","","2,11%","2,61%","","Brut","ID","Net"
+"","","","(En milliers de DH)","","","","","","","","Impact Compte de Résultat","","",""
+"Montants à payer aux parties liées et montants à 
+en recevoir","Société-mère","Filiales","Principaux dirigeants de 
+Entités contrôlées par 
+Autres parties liées
+Total
+l'entité ou de sa société-mère
+la même société mère","","","","","","","","Dotation Provision Engagements Sociaux","-243","90","-153"
+"Actifs : prêts et avances","201 160","1 485 377","-   
+ 2 313   
+ -   
+ 1 688 850","","","","","","","","Impact Capitaux Propres","","",""
+"Instruments de capitaux propres","-","-","-   
+ -   
+ -   
+ -","","","","","","","","Gains et Pertes actuariels/avantages post emploi","27 825","-10 295","17 529"
+"Autres créances","-","-","-   
+ -   
+ -   
+ -","","","","","","","","","","",""
+"Total des actifs","201 160","1 485 377","-   
+ 2 313   
+ -   
+ 1 688 850","","","","","","","","","","",""
+"Passifs : dépôts et emprunts","971 950","51 307","-   
+ -   
+ -   
+ 1 023 257","","","","","","","","","","",""
+"Autres passifs financiers","-","-","-   
+ -   
+ -   
+ -","","EXPOSITION AUX RISQUES ET STRATÉGIE DE COUVERTURE","","","","","","","","",""
+"Titres de dette","-","-","-   
+ -   
+ -   
+ -","","","","","","","","","","",""
+"Passifs subordonnés","-","-","-   
+ -   
+ -   
+ -","","","","","","","","","","",""
+"Paiements fondés sur des actions","-","4 006","-   
+ -   
+ -   
+ 4 006","LA GOUVERNANCE","","","Première","Dernier renou-","Echéance du","Membre","","","",""
+"Autres passifs","136 116","61 206","-   
+ -   
+ -   
+ 197 322","","Prénom et nom","Fonction","","","","","","","",""
+"Total des passifs","1 108 066","116 518","-   
+ -   
+ -   
+ 1 224 584","Depuis le 24 septembre 1999, le Crédit du Maroc a opté pour","","","élection","vellement","mandat en cours","d’un Comité","","","",""
+"Garanties émises par le groupe","207","907 915","-   
+ 2 443 942   
+ -   
+ 3 352 063","une structure de gouvernance duale reposant sur un Directoire","","","","","Assemblée générale ordi-","","","","",""
+"Garanties reçues par le groupe","144 451","-","-   
+ -   
+ -   
+ 144 451","et un Conseil de Surveillance, dissociant ainsi les pouvoirs de","Ismaïl Fassi-Fihri","Président du Conseil","11/1999","03/2019","naire annuelle statuant sur","","","","",""
+"Dépréciations des créances douteuses","-","-","-   
+ -   
+ -   
+ -","gestion  et  de  contrôle.  Le  Directoire  dirige  et  gère  la  Banque","","","","","les comptes de l’exercice","","","","",""
+"","","","","sous le contrôle du Conseil de Surveillance dans les limites du","","","","","clos le 31 décembre 2021","","","","",""
+"Charges et produits générés par des transactions","Société-mère","Filiales","Principaux dirigeants de 
+Entités contrôlées par 
+Autres parties liées
+Total","","","","","","Assemblée générale ordi-","","","","",""
+"entre parties liées","","","l'entité ou de sa société-mère
+la même société mère","cadre fixé par la loi 17-95 relative aux sociétés anonymes telle","François-Edouard","Vice-Président","10/2017","03/2019","naire annuelle statuant sur","C","","","",""
+"Total des charges dont :","8 052","29 271","-   
+ -   
+ -   
+ 37 323","que modifiée et complétée (la « Loi 17-95 »), la loi 103-12 relative","Drion (2)","du Conseil","","","les comptes de l’exercice","","","","",""
+"Charges d'intérêts","552","23 698","-   
+ -   
+ -   
+ 24 250","aux  établissements  de  crédits  et  organismes  assimilées  (la","","","","","clos le 31 décembre 2021","","","","",""
+"Honoraires et commissions","-","54","-   
+ -   
+ -   
+ 54","« Loi Bancaire ») et les statuts de la Banque. Cette organisation","","","","","AGOA statuant sur les","","","","",""
+"Autres charges","7 500","5 519","-   
+ -   
+ -   
+ 13 019","","Naziha Belkeziz (1)","Membre du Conseil","11/2015","03/2019","comptes de l’exercice clos le","R","","","",""
+"Total des produits dont :","-","2 951","-   
+ -   
+ -   
+ 2 951","répond au souhait d’équilibre des pouvoirs entre les fonctions","","","","","31 décembre 2021","","","","",""
+"Produits d'intérêts","-","-","-   
+ -   
+ -   
+ -","de direction et de contrôle.","","","","","AGOA statuant sur les","","","","",""
+"Honoraires et commissions","-","-","-   
+ -   
+ -   
+ -","1. LE CONSEIL DE SURVEILLANCE","Nada Biaz (1)","Membre du Conseil","03/2019","","comptes de l’exercice clos le","C","","","",""
+"Autres produits","-","54","-   
+ -   
+ -   
+ 54","","","","","","31 décembre 2021","","","","",""
+"Produits de dividendes","-","2 897","-   
+ -   
+ -   
+ 2 897","Le  Conseil  de  Surveillance  exerce  un  contrôle  permanent","","","","","AGOA statuant sur les","","","","",""
+"","","","","de la gestion de la Banque par le Directoire et s’appuie sur","Hervé Varillon","Membre du Conseil","Coopté le","","comptes de l’exercice clos le","R","","","",""
+"","","","","des Comités spécialisés détaillés ci-après.","","","30/04/2020","","31 décembre 2021","","","","",""
+"","","","DIVIDENDES","Le  Conseil  de  Surveillance  s’exprime  collégialement  à","","","","","AGOA statuant sur les","","","","",""
+"","","","Au titre de l’exercice 2019, le Conseil de Surveillance décide de proposer aux actionnaires","l’extérieur de la Banque par des communiqués de presse","Marc Didier","Membre du Conseil","03/2019","","comptes de l’exercice clos le","C","","","",""
+"","","","un dividende brut par action de 18,70 DH, payable soit en action, soit en numéraire, soit par","destinés à l’information du marché.","","","","","31 décembre 2021","","","","",""
+"","","","combinaison de ces deux moyens.","1.1  Dispositions générales","","","","","AGOA statuant sur les","","","","",""
+"","","","","","Habiba Laklalech (1)","Membre du Conseil","03/2019","","comptes de l’exercice clos le","A","","","",""
+"","","","2019
+2018
+2017","Le fonctionnement du Conseil de Surveillance est régi par","","","","","31 décembre 2021","","","","",""
+"","","","Dividendes (en dirhams)","son règlement intérieur. Il en est de même pour les Comités","","","","","AGOA statuant sur les","","","","",""
+"","","","Dividende par action
+18,70
+8,00
+7,00","spécialisés  du  Conseil  de  Surveillance.  Le 
+règlement","Olivier Nicolas","Membre du Conseil","02/2019","03/2019","comptes de l’exercice clos le","A","","","",""
+"","","","Résultat net par action (en dirhams)","intérieur du Conseil de Surveillance a fait l’objet d’une mise","","","","","31 décembre 2021","","","","",""
+"","","","Résultat net part du groupe par action
+46,76
+54,15
+33,58","à jour en 2018.","Gérard Ouvrier-","","","","AGOA statuant sur les","","","","",""
+"","","","","","Buffet (3)","Membre du Conseil","09/2011","03/2019","comptes de l’exercice clos le","A et R","","","",""
+"","","","","1.2  Composition du Conseil de Surveillance","","","","","31 décembre 2021","","","","",""
+"","","","","Le Conseil de Surveillance est composé de dix membres.","Crédit Agricole","","","","AGOA statuant sur les","","","","",""
+"","","","","(cf. tableau ci-contre).","S.A. représenté par","Membre du Conseil","12/2005","03/2019","comptes de l’exercice clos le","R","","","",""
+"","","","","1.3  Fonctionnement du Conseil de Surveillance","Monsieur Stanislas","","","","31 décembre 2021","","","","",""
+"","","","","Le fonctionnement du Conseil de Surveillance est régi par","Ribes","","","","","","","","",""
+"","","","","","(A) Comité d’Audit.","","","","","","","","",""

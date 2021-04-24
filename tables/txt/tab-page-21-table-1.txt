@@ -1,0 +1,232 @@
+"COMPTE DE PRODUITS ET CHARGES AU 30/06/2020","","(En milliers de DH)","ÉTAT DES SOLDES DE GESTION AU 30 JUIN 2020
+(En milliers de DH)","","TABLEAU DE FLUX DE TRÉSORERIE AU 30 JUIN 2020","","(En milliers de DH)"
+"LIBELLE","30/06/2020","30/06/2019","I- TABLEAU DE FORMATION DES RÉSULTATS
+30/06/2020
+30/06/2019","","","30/06/2020","31/12/2019"
+"PRODUITS D'EXPLOITATION BANCAIRE","1 426 464","1 463 661","+ Intérêts et produits assimilés
+ 1 089 528   
+ 1 107 552","Produits d'exploitation bancaire perçus","","1 364 133","2 834 928"
+"Intérêts, rémunérations et produits assimilés sur opérations avec les établissements","71 976","75 684","-  Intérêts et charges assimilées
+ 214 451   
+ 246 761","Récupérations sur créances amorties","","4 828","37 516"
+"Intérêts, rémunérations et produits assimilés sur opérations avec la clientèle","965 953","973 806","MARGE D'INTÉRÊT
+ 875 077   
+ 860 791","Produits d'exploitation non bancaire perçus","","6 118","26 716"
+"Intérêts et produits assimilés sur titres de créance","57 340","58 876","+ Produits sur financements participatifs
+ 5 742   
+ 814","Charges d'exploitation bancaire versées","","-243 469","-574 761"
+"Produits sur titres de propriété et certificats de Sukuk","62 159","62 035","- Charges sur financements participatifs
+ -     
+ -","Charges d'exploitation non bancaire versées","","-112 568","-132 322"
+"Produits sur titres de Moudaraba et moucharaka","-","-","Marge sur financements participatifs
+ 5 742   
+ 814","Charges générales d'exploitation versées","","-524 528","-1 135 282"
+"Produits sur immobilisations en crédit-bail et en location","-","-","+ Produits sur immobilisations en crédit-bail et en location
+ -     
+ -","Impôts sur les résultats versés","","-82 126","-263 875"
+"Produits sur immobilisations données en Ijara","-","-","- Charges sur immobilisations en crédit-bail et en location
+ -     
+ -","I - Flux de trésorerie nets provenant du compte de produits et charges","","412 389","792 920"
+"Commissions sur prestations de service","164 292","186 569","Résultat des opérations de crédit-bail et de location
+ -     
+ -","Variation de :","","",""
+"Autres produits bancaires","104 744","106 691","+ Produits sur immobilisations données en Ijara
+ -     
+ -","Créances sur les établissements de crédit et assimilés","","157 150","-600 717"
+"Transfert de charges sur dépôts d'investissement reçus","-","-","- Charges sur immobilisations données en Ijara
+ -     
+ -","Créances sur la clientèle","","-259 163","-2 875 555"
+"","","","Résultat des opérations d'Ijara 
+ -     
+ -","Titres de transaction et de placement","","156 241","1 257 694"
+"CHARGES D'EXPLOITATION BANCAIRE","277 417","319 472","+ Commissions perçues
+ 166 298   
+ 189 510","Autres actifs","","-141 051","-55 476"
+"Intérêts et charges assimilées sur opérations avec les établissements","10 172","16 458","- Commissions servies
+ 11 824   
+ 16 566","Immobilisations données en crédit-bail et en location","","-","-"
+"Intérêts et charges assimilées sur opérations avec la clientèle","141 902","154 598","Marge sur commissions 
+ 154 474   
+ 172 944","Dettes envers les établissements de crédit et assimilés","","-984 280","570 217"
+"Intérêts et charges assimilées sur titres de créance émis","62 377","75 706","+ Résultat des opérations sur titres de transaction
+ 30 615   
+ 25 079","Dépôts de la clientèle","","731 240","1 791 196"
+"Charges sur titres de Moudaraba et Moucharaka","-","-","+ Résultat des opérations sur titres de placement
+ 172   
+ 415","Titres de créance émis","","-228 580","-862 504"
+"Charges sur immobilisations en crédit-bail et en location","-","-","+ Résultat des opérations de change
+ 65 125   
+ 67 854","Autres passifs","","-60 924","283 305"
+"Charges sur immobilisations données en Ijara","-","-","+ Résultat des opérations sur produits dérivés
+ -     
+ -","II - Solde des variations des actifs et passifs d'exploitation","","-629 367","-491 840"
+"Autres charges bancaires","62 966","72 711","Résultat des opérations de marché
+ 95 911   
+ 93 348","III - FLUX DE TRÉSORERIE NETS PROVENANT DES ACTIVITÉS","","-216 977","301 081"
+"Transfert de produits sur dépôts d'investissement reçus","-","-","+ Divers autres produits bancaires
+ 62 399   
+ 62 494","D’EXPLOITATION ( I + II )","","",""
+"PRODUIT NET BANCAIRE","1 149 047","1 144 189","- Diverses autres charges bancaires
+ 44 555   
+ 46 201","Produit des cessions d'immobilisations financières","","-","-"
+"Produits d'exploitation non bancaire","5 549","16 478","± Part des titulaires de comptes de dépôts d'investissement
+ -     
+ -","Produit des cessions d'immobilisations incorporelles et corporelles","","-","8 838"
+"Charges d'exploitation non bancaire","-","8 352","PRODUIT NET BANCAIRE 
+ 1 149 047   
+ 1 144 189","Acquisition d'immobilisations financières","","-","150 000"
+"CHARGES GÉNÉRALES D'EXPLOITATION","598 847","601 914","+ Résultat des opérations sur immobilisations financières
+-3 117   
+-2 193","Acquisition d'immobilisations incorporelles et corporelles
+Intérêts perçus","","-116 234   
+ -","-112 713   
+ -"
+"Charges de personnel","356 991","346 457","+ Autres produits d'exploitation non bancaire
+ 5 549   
+ 16 478","","","",""
+"","","","","Dividendes perçus","","62 159","62 344"
+"Impôts et taxes","15 094","13 992","- Autres charges d'exploitation non bancaire
+ -     
+ 8 352","IV - FLUX DE TRÉSORERIE NETS PROVENANT DES ACTIVITÉS","","-54 075","108 469"
+"Charges externes","159 034","177 572","- Charges générales d'exploitation
+ 598 847   
+ 601 914","D’INVESTISSEMENT","","",""
+"Autres charges  générales d'exploitation","1 408","1 632","RÉSULTAT BRUT D'EXPLOITATION 
+ 552 632   
+ 548 207","Subventions, fonds publics et fonds spéciaux de garantie reçus","","-","-"
+"Dotations aux amortissements et aux provisions des immobilisations","66 319","62 260","+ Dotations nettes des reprises aux provisions pour créances et 
+-161 835   
+-85 875","Emission de dettes subordonnées","","-","-"
+"incorporelles et corporelles","","","engagements par signature en souffrance","Emission d'actions","","-","-"
+"DOTATIONS AUX PROVISIONS ET PERTES","564 710","436 010","+ Autres dotations nettes de reprises aux provisions
+-159 768   
+-71 904","Remboursement des capitaux propres et assimilés","","-","-"
+"SUR CRÉANCES IRRÉCOUVRABLES","","","RÉSULTAT COURANT 
+ 231 029   
+ 390 428","Intérêts versés","","-20 837","-68 641"
+"Dotations aux provisions pour créances et engagements par signature en souffrance","318 620","250 924","RÉSULTAT NON COURANT
+-111 998   
+-24 406","Dividendes versés","","-203 479","-87 050"
+"Pertes sur créances irrécouvrables","74 908","88 580","- Impôts sur les résultats
+ 82 126   
+ 143 849","V - FLUX DE TRÉSORERIE NETS PROVENANT DES ACTIVITÉS DE","","-224 316","-155 691"
+"Autres dotations aux provisions","171 182","96 507","RÉSULTAT NET DE L'EXERCICE 
+ 36 905   
+ 222 173","FINANCEMENT","","",""
+"REPRISES DE PROVISIONS ET RECUPERATIONS SUR CREANCES AMORTIES","239 990","276 038","","VI - VARIATION NETTE DE LA TRÉSORERIE ( III + IV + V )","","-495 368","253 859"
+"Reprises de provisions pour créances et engagements par signature en","","","II- CAPACITÉ D’AUTOFINANCEMENT
+30/06/2020
+30/06/2019","VII - TRÉSORERIE À L’OUVERTURE DE L’EXERCICE","","2 005 297","1 751 438"
+"souffrance","226 865","232 422","RÉSULTAT NET DE L'EXERCICE
+ 36 905   
+ 222 173","VIII - TRÉSORERIE À LA CLÔTURE DE L’EXERCICE","","1 509 930","2 005 297"
+"Récupérations sur créances amorties","4 828","21 207","+ Dotations aux amortissements et aux provisions des 
+ 66 319   
+ 62 260","","","",""
+"Autres reprises de provisions","8 297","22 409","immobilisations incorporelles et corporelles","","ÉTAT B1- CRÉANCES SUR LES ÉTABLISSEMENTS DE CRÉDIT","",""
+"RÉSULTAT COURANT","231 029","390 428","+ Dotations aux provisions pour dépréciation des immobilisations 
+ 3 117   
+ 2 193","ET ASSIMILÉS AU 30 JUIN 2020","","",""
+"Produits non courants","569","162","financières","","","","(En milliers de DH)"
+"Charges non courantes*","112 568","24 569","+ Dotations aux provisions pour risques généraux
+ 144 315   
+ 78 750","","","",""
+"RÉSULTAT AVANT IMPÔTS SUR LES RÉSULTATS","119 031","366 022","+ Dotations aux provisions réglementées
+ -     
+ -","Bank 
+Autres éta-","","",""
+"Impôts sur les résultats","82 126","143 849","+ Dotations non courantes
+ -     
+ -","Al-Maghrib, 
+blissements 
+Trésor Public 
+Banques","Établis-
+sements","Total","Total"
+"RÉSULTAT NET DE L'EXERCICE","36 905","222 173","- Reprises de provisions  
+-
+ 20 274","CRÉANCES
+de crédit et 
+et Service 
+au Maroc","de crédit à","30/06/2020","31/12/2019"
+"","","","- Plus-values de cession sur immob. incorporelles et corporelles
+-
+ 11 443","assimilés au 
+des Chèques","l'étranger","",""
+"*  Sur Instruction de BAM du 8 mai courant, le don Covid est constaté comptablement parmi les charges non","","","+ Moins-values de cession sur immob. incorporelles et corporelles
+-
+ 8 352","Maroc
+Postaux","","",""
+"","courantes de l’exercice 2020 dans son intégralité, en cohérence avec les comptes consolidés IAS/IFRS et","","- Plus-values de cession sur immobilisations financières
+ -     
+-","Comptes ordinaires 
+ 660 730   
+ 12 625   
+ 147 274","297 944","1 118 573","2 882 299"
+"","le traitement prudentiel en solvabilité. Conformément au communiqué de l’administration fiscale de mars","","+ Moins-values de cession sur immobilisations financières
+-
+ -","débiteurs","","",""
+"courant, ce don revêt le caractère de charge comptable déductible du résultat fiscal.","","","- Reprises de subventions d'investissement reçues
+ -     
+ -","Valeurs reçues en pension 
+ -     
+ 2 209 406   
+ -","","-     
+ 2 209 406","756 921"
+"","","","+ CAPACITÉ D'AUTOFINANCEMENT
+ 250 656   
+ 342 011","- au jour le jour 
+ -     
+ 1 302 252   
+ -","","-     
+ 1 302 252","501 779"
+"","","","- Bénéfices distribués
+-
+ -","- à terme 
+ -     
+ 907 154   
+ -","","-     
+ 907 154","255 142"
+"","","","AUTOFINANCEMENT
+ 250 656   
+ 342 011","Prêts de trésorerie 
+ -     
+ 350 000   
+ 528 171","","-     
+ 878 171","893 287"
+"","","","","- au jour le jour 
+ -     
+ -     
+ -","","-     
+ -","370 000"
+"","","","","- à terme 
+ -     
+ 350 000   
+ 528 171","","-     
+ 878 171","523 287"
+"CHIFFRE D’AFFAIRES HORS TAXES AU 30 JUIN 2020","","","ÉTAT A1 - PRINCIPALES MÉTHODES D’ÉVALUATION APPLIQUEES AU","Prêts financiers 
+ -     
+ -     
+ 2 397 944","","-     
+ 2 397 944","2 538 704"
+"","","(En milliers de DH)","","Autres créances 
+ -     
+ 3 360   
+ 14 079","","-     
+ 17 439","159 336"
+"","","","30 JUIN 2020","Intérêts courus à recevoir 
+ -     
+ 6 080   
+ 21 051","","-     
+ 27 131","17 913"
+"premier semestre 2020
+deuxième semestre 2019","premier semestre 2019","","INDICATION DES METHODES D’ÉVALUATION APPLIQUÉES PAR L’ÉTABLISSEMENT","Créances en souffrance 
+ -     
+ -     
+ -","","3   
+ 3","14"
+"1 426 464 
+1 433 908","1 463 661","","Application des méthodes d’évaluation prévues par le plan comptable des établissements de","TOTAL
+ 660 730   
+ 2 581 471   
+ 3 108 519","297 947","6 648 667","7 248 474"
+"","","","crédit (P.C.E.C) entré en vigueur depuis le 01/01/2000.","","","",""

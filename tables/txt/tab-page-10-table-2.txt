@@ -1,0 +1,13 @@
+"ACTIFS AU TITRE DE DROITS D’UTILISATION (PRENEUR) (3.6)","","","DÉTAIL DES CHARGES DE CONTRATS DE LOCATION  (3.6)","","","Passage à perte","-","-","-","-","-74 777","74 777","-74 777","74 777","-"
+"","","(En milliers de DH)","","","(En milliers de DH)","Modification de flux sur restructurations pour cause de 
+difficultés financières","-","-","-","-","-","-","-","-","-"
+"","30/06/2020","31/12/2019","","30/06/2020","30/06/2019","Evolution des paramètres de risque de crédit des modéles sur","","","","","","","","",""
+"Immobilisations corporelles","1 343 219","1 320 549","Intérêts et charges assimilées","-221 484","-259 317","la période","-","-","-","-","-","-","-","-","-"
+"dont : Droits d'utilisation des contrats de location","118 274","116 349","dont : Charges d'intérêts sur dettes locatives","-2 242","-2 289","Changements dans le modèle / méthodologie","-","-","-","-","-","-","-","-","-"
+"PASSIFS AU TITRE DE LA DETTE LOCATIVE (3.6)","","","Charges générales d'exploitation","-623 468","-534 299","Variation de périmètre","-","-","-","-","-","-","-","-","-"
+"","","(En milliers de DH)","dont : Charges relatives aux contrats de location court terme et","","","Autres","-2 987 670","9 274","1 853 741","-17 382","340 181","-146 860","-793 748","-154 968","-"
+"","30/06/2020","31/12/2019","de faible valeur","-640","-17 840","Total","38 634 928","-122 748","5 083 588","-444 239","4 159 031","-3 454 458","47 877 548","-4 021 445","43 856 103"
+"Comptes de régularisation et autres passifs","1 194 298","1 467 942","Dotations aux amortissements des immobilisations corporelles","-74 823","-66 937","Variations de la Valeur comptable","-","-","-","-","-","-","-","-","-"
+"dont : Dettes locatives","121 077","118 337","dont : Dotations aux amortissements sur droits d'utilisation","-12 756","-11 201","attribuables à des modalités d'évaluation comptable spécifiques 
+(sans impact significatif sur le montant de correction de valeur","-","-","-","-","-","-","-","-","-"
+"","","","","","","pour perte) (1)","","","","","","","","",""

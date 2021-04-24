@@ -1,0 +1,25 @@
+"JUSTE VALEUR PAR CAPITAUX PROPRES (2.6)","","","","","30/06/2020","31/12/2019","Impôts
+-
+-20 534   
+ -"
+"","","","(En milliers de DH)","Opérations avec la clientèle","","","Gains et pertes comptabilisés directement en capitaux"
+"","30/06/2020","","30/06/2019","Créances commerciales","8 736 440","8 302 378","propres sur instruments de dettes comptabilisés à la juste 
+-
+ 34 964   
+ -"
+"Gains ou pertes nets sur instruments de dettes comptabilisés en","","","","Autres concours à la clientèle","32 115 822","32 389 360","valeur par capitaux propres recyclables (nets d'impôts)"
+"capitaux propres recyclables","","-","1 682","Valeurs reçues en pension","1 977 517","2 497 298","AUTRES ACTIFS FINANCIERS À LA JUSTE VALEUR PAR RÉSULTAT (3.5)"
+"Rémunération des instruments de capitaux propres comptabilisés","","","","Titres reçus en pension livrée","-","-","(En milliers de DH)"
+"en capitaux propres non recyclables (dividendes)","","-","-","Prêts subordonnés","-","-","30/06/2020
+31/12/2019"
+"Dont dividendes sur instruments décomptabilisés au cours de la","","-","-","Créances nées d’opérations d’assurance directe","-","-","Actions et autres titres à revenu variable
+295 171
+271 736"
+"période","","","","Créances nées d’opérations de réassurance","-","-","Titres de participation non consolidés
+53 868
+54 087"
+"Gains ou pertes nets sur instruments financiers à la juste valeur","","-","1 682","Avances en comptes courants d'associés","-","-","Total Instruments de capitaux propres à la juste valeur par résultat
+349 039
+325 823"
+"par capitaux propres","","","","Comptes ordinaires débiteurs","3 066 658","2 730 183",""
+"","","","","Valeur brute","45 896 437","45 919 219","AUTRES ACTIFS FINANCIERS À LA JUSTE VALEUR PAR RÉSULTAT (3.5)"

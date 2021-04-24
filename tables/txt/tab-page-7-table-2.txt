@@ -1,0 +1,125 @@
+"TABLEAU DE VARIATION DES CAPITAUX PROPRES AU 30 JUIN 2020","","","","","","","","","","(En milliers de DH)","PRINCIPES ET PÉRIMÈTRE DE CONSOLIDATION",""
+"","","Réserves","","Réserves","Gains et pertes 
+comptabilisés","Gains et pertes 
+comptabilisés","","Capitaux","","","",""
+"","Capital","liées au","Actions 
+propres","et résultats","directement en","directement en","","propres part","Intérêts 
+minoritaires","Total","Préambule","Crédit  du  Maroc  contrôle  une  entité  émettrice  si  et 
+soit  l’activité  et  qu’elles  aient  ou  non  la  personnalité"
+"","","capital","","consolidés","capitaux propres 
+recyclables","capitaux propres non 
+recyclables","","Groupe","","","Le  Groupe  Crédit  du  Maroc  est  consolidé  en  normes","seulement si ces trois éléments sont réunis.
+morale :"
+"Capitaux propres clôture au 31 Décembre 2018","1 088 121","2 619 265","-","1 389 434","30 700","","-","5 127 520","47 438","5 174 958","IAS/  IFRS  depuis  2004,  en  tant  que  filiale,  dans  les","L’IFRS 11 porte sur le classement d’un partenariat sur 
+• l’intégration  globale,  applicable  selon  les  conditions"
+"Opérations sur capital","-","-","-","-","-","","-","-","-","-","comptes du Crédit Agricole S.A.","lequel deux parties ou plus exercent un contrôle conjoint. 
+citées par la norme IFRS 10 ;
+Selon IFRS 11, il existe deux types de partenariat : les"
+"Paiements fondés sur des actions","-","-","-","-","-","","-","-","-","-","En 2008 le Crédit du Maroc a procédé à une convergence","• la mise en équivalence, pour les coentreprises ayant 
+entreprises communes et les coentreprises. Ces deux"
+"Opérations sur actions propres","-","-","-","-","-","","-","-","-","-","des  paramètres  et  des  options  de  consolidation  entre","des  droits  sur  l’actif  net,  tel  que  cité  par  la  norme 
+types  de  partenariats  se  distinguent  par  les  droits  et"
+"Dividendes","-","-","-","-87 050","-","","-","-87 050","-","-87 050","les  comptes  consolidés  en  normes  IAS/IFRS  publiés","IFRS 11 ;
+obligations des parties à l’entreprise."
+"Autres","-","","-","-","-","","-","-","-","-","au  31  décembre  2008  en  application  des  dispositions","• la quote-part des actifs, passifs, charges et produits, 
+• Entreprise  commune  :  les  coparticipants  ont  des"
+"Changements de méthodes comptables","-","-","-","-","-","","-","-","-","-","réglementaires  de  Bank  Al  Maghrib  (BAM)  et  les","pour les entreprises communes ayant des droits sur 
+droits  sur  les  actifs,  et  des  obligations  au  titre  des"
+"Résultat de l'exercice","-","-","-","508 808","-","","-","508 808","3 374","512 181","comptes  adressés  au  Crédit  Agricole  SA  pour  les","les actifs et des obligations au titre des passifs, selon"
+"Immobilisations corporelles et incorporelles :","","","","","","","","","","","besoins de sa consolidation.","passifs. Chaque coparticipant comptabilise ses actifs, 
+la norme IFRS 11."
+"Réevaluations et cessions","-","-","-","-","-","","-","-","-","-","Le Crédit du Maroc a ainsi procédé à l’alignement des","ses passifs, ses produits et ses charges y compris sa"
+"Instruments financiers : variations de juste valeur et 
+transferts en résultat","-","-","-","-","22 417","","-","22 417","-","22 417","paramètres  et  options  retenus  pour  le  traitement  des","quote-part de ces actifs, passifs, produits et charges, 
+Retraitements et éliminations
+relatifs à ses intérêts dans l’entreprise commune."
+"Ecarts actuariels sur les régimes à prestations définies","-","-","-","-","118","","-","118","-","118","comptes  adressés  au  groupe  Crédit  Agricole  SA  avec","Les  retraitements  nécessaires  à  l’harmonisation  des"
+"Ecarts de conversion : variations et transferts en résultat","-","-","-","-54 789","-","","-","-54 789","-","-54 789","ceux adoptés au moment de l’application du référentiel","méthodes  d’évaluation  des  sociétés  consolidées  sont 
+• Coentreprise  :  les  coentrepreneurs  ont  des  droits"
+"Gains ou pertes latents ou différés","-","-","-","-54 789","22 535","","-","-32 255","-","-32 255","IFRS,  conformément  aux  dispositions  réglementaires","effectués, sauf s’ils sont jugés non significatifs.
+sur  l’actif  net  de  celle-ci.  Cette  coentreprise  est"
+"Autres","-","-","-","-","-","","-","-","-","-","de BAM.","comptabilisée  selon  la  méthode  de  la  mise  en 
+L’effet sur le bilan et le compte de résultat consolidés"
+"Variations de périmètre","-","-","-","-","-","","-","-","-","-","Périmètre de consolidation","équivalence.
+des opérations internes au Groupe est éliminé."
+"Capitaux propres clôture au 31 Décembre 2019","1 088 121","2 619 265","-","1 756 403","53 235","","-","5 517 024","50 811","5 567 835","","Les plus ou moins-values provenant de cessions d’actifs 
+Les méthodes de consolidation"
+"Opérations sur capital","-","-","-","-","-","","-","-","-","-","Les  états  financiers  consolidés  incluent  les  comptes","entre  les  entreprises  consolidées  sont  éliminées  ; 
+Les  méthodes 
+de 
+consolidation 
+sont 
+fixées"
+"Paiements fondés sur des actions","-","-","-","-","-","","-","-","-","-","de Crédit du Maroc et ceux de toutes les sociétés sur","les  éventuelles  dépréciations  durables  mesurées  à 
+respectivement  par  les  normes  IFRS  10  et  11.  Elles"
+"Opérations sur actions propres","-","-","-","-","-","","-","-","-","-","lesquelles  Crédit  du  Maroc  dispose  d’un  pouvoir  de","l’occasion d’une cession interne, sont constatées.
+résultent  de  la  nature  de  contrôle  exercée  par  Crédit"
+"Dividendes","-","-","-","-203 479","-","","-","-203 479","-","-203 479","contrôle.","du  Maroc  sur  les  entités  consolidables,  quelle  qu’en"
+"Autres","-","","-","-","-","","-","-","-","-","Par  exception,  les  entités  ayant  un 
+impact  non",""
+"Changements de méthodes comptables","-","-","-","-","-","","-","-","-","-","significatif sur les comptes consolidés de l’ensemble ne",""
+"Résultat de l'exercice","-","-","-","23 725","-","","-","23 725","96","23 821","sont pas incluses dans le périmètre de consolidation.",""
+"Immobilisations corporelles et incorporelles : 
+Réevaluations et cessions","-","-","-","-","-","","-","-","-","-","Le caractère significatif de cet impact peut notamment","Regroupements d’entreprises – écarts d’acquisition (IFRS 3)"
+"Instruments financiers : variations de juste valeur et","","","","","","","","","","","être  apprécié  au  travers  de  divers  critères  tels  que","Le Groupe Crédit du Maroc n’a pas effectué de regroupement courant  2020."
+"transferts en résultat","-","-","-","-","19 872","","-","19 872","-","19 872","l’importance  du  résultat  ou  des  capitaux  propres  de",""
+"Ecarts actuariels sur les régimes à prestations définies","-","-","-","-","793","","-","793","-","793","la société à consolider par rapport au résultat ou aux","Périmètre de consolidation du Groupe Crédit du Maroc au 30 juin 2020"
+"Ecarts de conversion : variations et transferts en résultat","-","-","-","768","-","","-","768","-","768","capitaux propres de l’ensemble consolidé.",""
+"Gains ou pertes latents ou différés","-","-","-","768","20 665","","-","21 434","-","21 434","Les notions de contrôle","%
+Capital social 
+Capital social 
+Méthode de 
+Sociétés Consolidées"
+"Autres","-","-","-","-","-","","-","-","-","-","","(KDH)
+(KUSD)
+consolidation (*)
+de contrôle
+d’intérêts"
+"Variations de périmètre","-","-","-","-","-","","-","-","-","-","Conformément  aux  normes 
+internationales, 
+la 
+définition de contrôle, selon IFRS 10 comporte les trois","Crédit du Maroc
+1 088 121
+ 
+           100,00   
+           100,00   
+E.C"
+"Capitaux propres clôture au 30 Juin 2020","1 088 121","2 619 265","-","1 577 418","73 900","","-","5 358 704","50 907","5 409 611","éléments suivants :","Crédit du Maroc Capital
+      10 000
+ 
+           100,00   
+           100,00   
+I.G"
+"","","","","","","","","","","","","Crédit du Maroc Leasing & Factoring
+    124 000
+ 
+             66,66   
+             66,66   
+I.G"
+"","","","","","","","","","","","• Le pouvoir détenu sur l’entité émettrice ;","Crédit du Maroc Patrimoine
+        1 000
+ 
+           100,00   
+           100,00   
+I.G"
+"","","","","","","","","","","","• L’exposition ou le droit à des rendements variables, en 
+raison des liens avec l’entité émettrice ;","Crédit du Maroc Assurances
+           200
+ 
+           100,00   
+           100,00   
+I.G"
+"","","","","","","","","","","","• La capacité de Crédit du Maroc d’exercer son pouvoir","Crédit du Maroc Offshore
+ 
+     1 655   
+           100,00   
+           100,00   
+I.G"
+"","","","","","","","","","","","","S.I.F.I.M
+168 321
+ 
+           100,00   
+           100,00   
+I.G"
+"","","","","","","","","","","","sur  l’entité  émettrice  de  manière  à  influer  sur  le",""
+"","","","","","","","","","","","montant des rendements qu’il obtient.","* E.C : Établissement consolidant - IG : Intégration globale"

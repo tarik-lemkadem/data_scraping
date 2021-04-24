@@ -1,0 +1,256 @@
+"page 18","",""
+"EXTRAIT DES NOTES ET ANNEXES IFRS","","EXTRAIT DES NOTES ET ANNEXES IFRS"
+"davantage  à  la  réglementation  en  vigueur,  notamment  en 
+Les  fonds  propres  prudentiels  du  groupe  Crédit  du  Maroc","5.3.  EXIGENCE  EN  FONDS  PROPRES  ET","Le  risque  spécifique  est  calculé  sur  la  position  globale"
+"matière  de  taux  d’intérêt  (Modalités  d’indexation  des  taux 
+sont  composés  des  fonds  propres  de  catégorie  1  et  des","ACTIFS  PONDÉRÉS  DU  GROUPE  CRÉDIT  DU","en  appliquant  les  pondérations  listées  par  le  régulateur"
+"révisables et des taux réglementés).
+fonds propres de catégorie 2.","MAROC","suivant la nature de l’actif."
+"Système de mesure :
+Les fonds propres de catégorie 1 sont déterminés à partir","Les  risques  pondérés  sont  calculés  en  approche  standard","• Risque de change"
+"des fonds propres de base et des fonds propres additionnels 
+Le pilotage des risques financiers est géré par ATLAS, outil","pour  les  risques  de  crédit,  de  contrepartie  et  les  risques","L
+’exigence en Fonds propres au titre du risque de change"
+"en 
+tenant  compte  des 
+retraitements  prudentiels.  Ces 
+développé en collaboration avec le Groupe Crédit Agricole","du  marché  et  en  méthode  d’indicateurs  de  base  pour  les","est  calculée  lorsque  la  position  nette  globale  dépasse  2%"
+"retraitements  consistent  principalement  en  l’anticipation 
+S.A. Il est opérationnel depuis 2008.","risques opérationnels.","des capitaux de base. La position nette globale correspond"
+"des  dividendes  à  distribuer,  de  la  déduction  des  écarts","","à  la  position  la  plus  forte  entre  la  somme  des  positions"
+"d’acquisition  et  des  actifs 
+incorporels  ainsi  que  des 
+APPLICATION  DES  RECOMMANDATIONS","Pilier I","courtes et celle des positions longues pour la même devise."
+"participations  ne  figurant  pas  dans 
+le  périmètre  de 
+DU COMITÉ DE BÂLE","Méthode d’évaluation 
+Risque couvert",""
+"consolidation et détenues dans le capital des établissements","et de gestion",""
+"L
+’accord de Bâle 2 repose sur 3 piliers :
+de crédit et assimilés au Maroc et à l’étranger et des entités","Méthode 
+Risque de crédit",""
+"Pilier 1 : Calcul des exigences minimales en fonds propres. 
+exerçant  les  opérations  connexes  à  l’activité  bancaire  au","x
+ standard","ATTESTATION DES COMMISSAIRES AUX COMPTES (COMPTES CONSOLIDÉS)"
+"Il couvre trois types des risques : Risque de crédit, Risque 
+Maroc et à l’étranger ainsi que des filtres prudentiels.","Risque de marché
+Méthode standard
+x",""
+"opérationnel  et  Risque  de  marché.  Plusieurs  méthodes 
+Les 
+fonds 
+propres 
+de 
+catégorie 
+2 
+sont 
+composés","BIA (Basic Indicator 
+Risque opérationnel
+x",""
+"sont proposées aux banques selon les risques, notamment 
+essentiellement  de  dettes  subordonnées  dont  l’échéance","Approach)",""
+"«  standard  »  et  «  notation  interne  »,  pour  les  risques  de 
+initiale 
+est  d’au  moins 
+5 
+ans.  Une  décote  de 
+20%","",""
+"crédit,  «  indicateur  de  base  »,  «  standard  »  et  «  standard 
+annuellement  est  appliquée  aux  dettes  subordonnées  de","Évolution des risques pondérés du Crédit du Maroc",""
+"avancé », pour le risque opérationnel.
+maturité résiduelle inférieure à 5 ans.","En milliers de dirhams",""
+"Pilier 2  :  Dispositif  sur  les  processus  de  surveillance  des","39,6
+38,6",""
+"risques et l’adéquation des fonds propres internes.
+5.2- RATIO DE SOLVABILITÉ","",""
+"Pilier  3  :  Dispositif  sur  la  discipline  de  marché  imposant 
+Au 30 juin 2019, les ratios du  Groupe se présentant comme","",""
+"une transparence accrue en matière d’information sur les 
+suit :","",""
+"publications financières et sur les risques.","",""
+"Évolution Ratio de solvabilité
+Dès la publication des textes par le Régulateur, le Crédit du","",""
+"(en milliers de dirhams)
+Maroc a engagé un chantier de mise en conformité avec les","",""
+"dispositions réglementaires.
+30/06/2020
+31/12/2019","",""
+"Pour le pilier 1, le Crédit du Maroc a opté pour la méthode 
+Fonds propres de catégorie 1
+5 063 659
+5 080 932","",""
+"«  standard  »  en  ce  qui  concerne  le  risque  de  crédit,  la 
+Total fonds propres
+6 402 477
+6 510 808","",""
+"« Méthode de base » pour le risque opérationnel.","4,4
+4,3",""
+"Risques pondérés
+43 162 610
+44 195 291
+La banque a engagé un large chantier pour lui permettre","0,2
+0,2",""
+"Ratio  sur 
+fonds  propres  de  base 
+de  produire  dans  les  délais  impartis  par  le  Régulateur,  le 
+11,73%
+11,50%","",""
+"(T1)
+ratio de solvabilité aux nouvelles normes. Pour cela, elle a","Risque de
+Risque de
+Risque",""
+"Ratio de solvabilité
+14,83%
+14,73%
+acquis, un calculateur « Fermat » qui assure la production","Crédit
+Marché
+Opérationnel",""
+"depuis  fin  2007,  et  qui  a  été  remplacé  par  l’outil  «  Risk","",""
+"Authority » de Moody’s à partir de décembre 2017.","Juin 2020
+Déc. 2019",""
+"Parallèlement la banque a engagé les chantiers relatifs au","",""
+"pilier 2, pour l’application des textes réglementaires de la 
+Détail et variation des RWA","",""
+"Banque Centrale.","(en milliers de dirhams)",""
+"déc-19
+PERSPECTIVES","juin-20
+Variation",""
+"Le  Crédit  du  Maroc,  en  étroite  relation  avec  le  Groupe 
+Exigences 
+Actifs","Exigences 
+Exigences 
+Actifs
+Actifs",""
+"CA.SA, compte poursuivre la mise en œuvre de l’usage des 
+en fonds
+pondérés","en fonds
+en fonds
+pondérés
+pondérés",""
+"indicateurs  bâlois  avancés,  qui  entraîneront  de  profonds 
+propres","propres
+propres",""
+"changements dans la conduite des activités.
+Risque de crédit 
+39 644 317
+3 171 545","38 567 412
+3 085 412
+-1 076 666
+-86 133",""
+"Ces changements visent notamment à :","",""
+"Dont 
+Souverain
+15 987
+1 279
+- adapter  la  politique  d’allocation  des  fonds  propres  aux","12 106
+968
+-3 881
+-310",""
+"Dont
+Établissements
+3 945 643
+315 651
+activités ;","2 650 649
+212 052
+-1 294 993
+-103 599",""
+"Dont
+Entreprises
+23 747 963
+1 899 837
+- mieux  prendre 
+en 
+compte 
+les 
+évolutions  dans 
+les","23 637 134
+1 890 971
+-110 829
+-8 866",""
+"Dont
+Clientèle de détail
+9 023 573
+721 886
+processus  d’octroi  (consommation  des  Fonds  propres,","9 005 452
+720 436
+-18 121
+-1 450",""
+"rentabilité, coût du risque, etc.) ;
+Risque de Marché
+244 648
+19 572","218 610
+17 489
+-26 038
+-2 083",""
+"- garantir la fiabilité des informations sur les risques, etc.
+Risque Opérationnel
+4 306 326
+344 506","4 376 350
+350 108
+70 024
+5 602",""
+"- Renforcer la capacité d’anticipation des risques.","",""
+"Total
+44 195 291
+3 535 623
+Les processus impactés ont été identifiés et les chantiers","43 162 610
+3 453 009
+-1 032 681
+-82 614",""
+"nécessaires  à  leur  adaptation  seront  engagés  selon  un","",""
+"planning  établi  par  une  équipe  projet  et  validé  par 
+le","",""
+"Comité de pilotage des risques, présidé par le Président du","",""
+"1. Risque de crédit
+Directoire.","Le risque de marché est composé du :",""
+"Le  montant  du  risque  de  crédit  pondéré  est  calculé  en","• Risque de taux d’intérêt",""
+"multipliant  les  éléments  d’actifs  et  du  hors  bilan  par  les 
+GESTION  DU  CAPITAL  ET  ADÉQUATION","Le calcul du risque de taux d’intérêt concerne les produits",""
+"coefficients  de  pondération  prévus  par  la  réglementation. 
+DES FONDS PROPRES DU GROUPE","de taux faisant partie du portefeuille trading. Celui-ci est la",""
+"Le risque de crédit dépend essentiellement de la nature de 
+Le troisième pilier de l’accord de Bâle vise à promouvoir la","somme  du  risque  général  de  taux  et  risque  spécifique  de",""
+"l’engagement et de la contrepartie.
+discipline du marché à travers la publication d’un ensemble","taux.",""
+"Le risque pondéré est calculé à partir de l’exposition nette 
+de données venant compléter la communication financière.","Le  calcul  des  exigences  en 
+fonds  propres  au 
+titre  du",""
+"atténuée par les garanties ou les suretés et pondérée par le 
+L
+’objectif  de  cette  communication  est  de  permettre  aux","risque  de  taux  d’intérêt  général  se  fait  selon  la  méthode",""
+"taux de pondération. 
+acteurs du marché d’apprécier les éléments d’information","de  l’échéancier.  Le  risque  spécifique  est  calculé  à  partir",""
+"Les engagements hors bilan sont également pondérés par 
+essentiels  sur 
+les 
+fonds  propres, 
+les  expositions  aux","de la position nette, sa pondération dépend de la nature de",""
+"le facteur de conversion risque crédit.
+différents  types  de  risques,  le  pilotage  interne  des  fonds","l’émetteur du titre et de la maturité.",""
+"propres et, par conséquent, l’adéquation des fonds propres","• Risque sur titres de propriété",""
+"2. Risque de marché
+du groupe Crédit du Maroc à son profil de risque.","Le  calcul  du  risque  sur  les  titres  de  propriété  concerne  :",""
+"Les risques de marché sont définis comme les risques de","les  positions  sur  actions,  options  sur  actions,  futures  sur",""
+"pertes liés aux variations des prix de marché. Ils recouvrent :
+5.1. COMPOSITION DES FONDS PROPRES","actions, options sur index, autres dérivés avec comme sous-",""
+"• les 
+risques 
+relatifs  aux 
+instruments 
+inclus  dans 
+le 
+Le  groupe  est  tenu  de  respecter  sur  base  individuelle  et","jacent  une  action  ou  un  index.  Celui-ci  est  la  somme  du",""
+"portefeuille de négociation ;
+consolidée  un  ratio  sur  fonds  propres  de  base  au  moins","risque général sur titre de propriété et du risque spécifique",""
+"• le  risque  de  change  et  le  risque  sur  produits  de  base 
+égal à 8,0% (incluant un coussin de conservation de 2,5%),","sur titre de propriété.",""
+"encourus  pour  l’ensemble  des  éléments  du  bilan  et  du 
+un ratio sur fonds propres de catégorie 1 au moins égal à","L
+’exigence en fonds propres au titre du risque général sur",""
+"hors bilan autres que ceux inclus dans le portefeuille de 
+9,0% et un ratio sur total fonds propres de catégorie 1 et de","titres  de  propriétés  représente  8%  de 
+la  position  nette",""
+"négociation.
+catégorie 2 au moins égal à 12,0%.","globale.",""

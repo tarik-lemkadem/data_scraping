@@ -1,0 +1,198 @@
+"EXTRAIT DES NOTES ET ANNEXES IFRS","","","EXTRAIT DES NOTES ET ANNEXES IFRS"
+"ses risques. Elle est placée sous l’autorité de la Direction","Les filiales ont recours à un avis des lignes spécialisées du","Risques  sensibles 
+:  Les  contreparties  présentants  des","En  termes  d’outils  informatiques,  la  banque  dispose  d’un"
+"des  Risques  et  Contrôles  Permanents    Groupe  (DRCPG),","Crédit du Maroc qui conditionne l’octroi.","signes  de  fragilités  sont  suivies  dans  le  cadre  du  comité","système 
+front-to-back  Arpson  avec  des 
+fonctionnalités"
+"dont la mission générale est de « donner au Management","Les 
+demandes 
+de 
+crédit 
+formulées 
+par 
+les 
+lignes","mensuel  d’anticipation  et  de  suivi  des  Risques  Sensibles","de  suivi  des  risques  et  de  calcul  des  résultats.  Le  Pôle"
+"de  la  banque  l’assurance  que  toutes  ses  activités  sont","commerciales 
+sont 
+formalisées 
+et 
+documentées 
+en","sur la base de critères qualitatifs et quantitatifs.","Contrôle  des  Risques  de  Marché  et  Financier  a  accès  à"
+"exercées dans des conditions de sécurité acceptable ».","application  des  règles  du  régulateur  et  des  normes  de  la","","ces informations et dispose d’outils complémentaires pour"
+"Totalement 
+indépendante 
+des  métiers, 
+elle 
+rapporte","banque.","2.2 RISQUE DE MARCHÉ","mener à bien ses analyses."
+"directement  au  Président  du  Directoire  et  au  Conseil  de","Mise en place - Garanties","Les  activités  de  marché  sont  encadrées  par  des  limites","Principaux risques et dispositif de contrôle :"
+"surveillance, via le Comité des Risques.","La mise en place des crédits est opérée après vérification","globales  et  opérationnelles  définies  dans  le  cadre  de  la","Les  risques  de  marché  ou  risques  de  variation  de  prix,"
+"La  DRCPG  définit  les  contrôles  liés  aux  procédures  de","du respect des conditions d’octroi.","stratégie risques de la banque.","représentent les pertes potentielles suite à des mouvements"
+"second  niveau,  organise 
+les  contrôles  hiérarchiques  ou","La gestion des dossiers de garanties est centralisée.","Le 
+format 
+de 
+limites, 
+qu’elles 
+soient 
+globales 
+ou","adverses de cours, de prix ou de niveaux de taux."
+"fonctionnels  et 
+les  consolide  pour  obtenir  une 
+vision","Surveillance des risques et déclassement des créances","opérationnelles,  sont  de  trois  natures  :  quantitative  (VaR,","Risques  de  taux  :  Ils  représentent  les  risques  d’encourir"
+"globalisée de la qualité d’exécution de toutes les activités","Elle est à la charge d’une structure dédiée et indépendante,","Stress, sensibilités détaillées), qualitatif (produits autorisés,","des  pertes  suite  aux  variations  du  niveau  absolu  du  taux"
+"de la banque.","appuyée  par  des 
+correspondants  dans 
+les  différents","devises autorisées, maturité max…) et des seuils de perte.","d’intérêt, d’un spread entre deux courbes de taux ou de la"
+"Les  risques  couverts  sont  regroupés  dans 
+les 
+familles","marchés et dans les régions.","Les sets de limites concernent les activités de la direction","déformation de la courbe. Il existe plusieurs composantes"
+"suivantes :","Cette structure qui dispose d’un accès à tous les systèmes","marchés  des  capitaux  dont 
+le  rôle  est  d’assurer  des","pour  ce  risque  :  risque  directionnel,  risque  de  pente  et"
+"– Risque  de  contrepartie 
+: 
+il  correspond  au  risque  de","d’information de la banque a pour mission de surveiller la","opérations d’intermédiation avec la clientèle (Activités FX,","risque de base ou de spread."
+"défaillance  totale  ou  partielle  de 
+la  contrepartie  avec","qualité des engagements, d’appréhender dans une optique","obligataires, prêts/emprunts, Repos) ainsi que les activités","Ce risque concerne le trading sur titres et la trésorerie. Il"
+"laquelle des engagements de bilan ou hors bilan ont été","préventive les dégradations des risques (impayés, gel des","de marché de la trésorerie de la banque.","est encadré par un dispositif de limites quantitatives (VaR,"
+"contractés,","comptes, etc.) et d’en assurer un suivi.","","Stress, nominal et sensibilités détaillées)."
+"– Risques financiers :","Elle  organise  sur  la  base  d’indicateurs  internes  un  suivi","Organisation de la filière","Risque  de  change  :  C’est  le  risque  d’encourir  des  pertes"
+"1. Risque de marché : les risques de marché ou risques","rapproché  des  créances  sensibles  qui  est  opéré  par  un","Les activités de marchés sont organisées en trois domaines","suite  aux  variations  du  cours  des  devises  étrangères  par"
+"de variation de prix, représentant les pertes potentielles","Comité mensuel dédié.","indépendants :","rapport à la monnaie de référence ou monnaie locale."
+"suite à des mouvements adverses de cours, de prix ou","Elle identifie les créances qui relèvent du déclassement en","Le Front Office :","Les positions sont encadrées par des limites réglementaires"
+"de niveau de taux.","« souffrance », selon les critères édictés par le régulateur","Le  Front  Office  est  littéralement  l’interface  de  la  banque","et des limites internes (VaR, Stress, nominal individuelle et"
+"2. Risque de liquidité ou de taux : risque lié à la liquidité","en 
+la  matière  et 
+les  provisionne  en  conséquence.  Ces","avec  le  marché.  Il  centralise  et  traite  tous  les  besoins  de","globale, Loss alert…)."
+"de la banque et à l’évolution des taux,","décisions sont validées par un Comité dédié pour assurer","la  banque  et  de  ses  clients  en  termes  de  couverture  et","Risques liés aux défauts : une part importante des risques"
+"3. Risque  de  contrepartie  sur  opérations  de  marché  :","une  parfaite  couverture  des  risques  et  conformité  aux","financement. 
+Il  engage 
+la  banque  dans 
+le  respect  des","pris par les établissements financiers sur les marchés se"
+"risque de crédit lié aux opérations de marché.","normes réglementaires.","limites internes de marché, des limites réglementaires et","trouve liée aux événements de défauts (défaillance d’une ou"
+"– Risque  opérationnel 
+:  Risque 
+lié  à 
+l’exécution  des","Recouvrement","des lignes de crédit qui lui sont accordées.","plusieurs contreparties, risque de non-transfert…)."
+"opérations. 
+Il 
+comprend 
+les 
+risques 
+informatiques,","Pour  le  marché  Retail  et  PRO/TPE,  le  réseau  réalise  le","Il 
+est 
+rattaché 
+hiérarchiquement 
+à 
+la  Direction 
+de","Les opérations de marché peuvent générer :"
+"juridiques, fiscaux, réglementaires et commerciaux.","recouvrement du premier impayé sur les clients segmentés","l’Internationale 
+et 
+des  Activités 
+de  Marché 
+du 
+pôle","- des risques de règlement/livraison ;"
+"Le Contrôle Permanent qui couvre l’ensemble des risques","risque faible et sur les débits jusqu’à 30 jours de retards.","Développement.","- des risques de variation."
+"définis par les accords de Bâle 2, est organisé autour de la","Les  structures  centrales  de  recouvrement  prennent  en","Le Middle Office :","En effet, si l’un des intervenants fait défaut alors que l’autre"
+"Direction des Contrôles Permanents (DCP).","charge  le  recouvrement  dès  le  premier 
+impayé  sur  les","Le  Middle  Office  assure  les  contrôles  et  le  respect  des","contrepartie a déjà rempli ses propres obligations, à savoir :"
+"1.2.2. L’Audit et l’Inspection","clients segmentés risque moyen et élevé ainsi que le débit","limites fixées par les Risques.","livrer  des  fonds,  alors  la  perte  porte  sur  la  totalité  du"
+"La Direction de l’Audit et de l’Inspection assure la fonction","dès 30 jours de retard.","Le Back-Office :","montant (nominal) de la transaction (à la livraison), c’est le"
+"d’audit 
+interne  en  réalisant  des  missions  de  contrôle","Pour  le  marché  PME/PMI  et  Grandes  Entreprises,  il  est","Le Back Office suit le traitement post –marché des opérations :","risque de livraison ou non concomitance des flux échangés."
+"périodique  sur  pièce  et  sur  place  dans 
+les  différentes","assurée  par  les  chargés  d’affaires  avec,  selon  les  cas  et","confirmation, paiement, règlement – livraison et comptabilité.","Ce  risque  affecte 
+le  change 
+(comptant  et 
+terme), 
+les"
+"unités et directions constituant la Banque. Elle est chargée","sur décision de comité dédié ou à la demande de la ligne","Il est rattaché hiérarchiquement à la Direction des Services","swaps de change (swaps de trésorerie ou cambiste). Pour"
+"d’évaluer  la  maîtrise  globale  des  différents  risques  et  de","commerciale,  l’appui  d’une  structure  centrale  dédiée  au","Bancaires à la Clientèle.","les  opérations  sur  tires  (ferme  ou  temporaire),  ce  risque"
+"faire  des  propositions  d’actions  correctives.  Elle  exerce","Recouvrement et Restructuration de créances.","","n’existe pas du fait que les transactions sont effectuées via"
+"ses  travaux  en  toute  indépendance  et  rapporte  à  ce  titre","Si le dossier passe en “ Compromis ” il est pris en charge par","Le PCRMF (Pôle Contrôle des Risques de Marché et Financier) :","un système DVP (Delevery Versus Payment)."
+"directement au Comité d’Audit.","la Direction du Recouvrement qui poursuit le recouvrement","En matière de suivi et de contrôle des activités de Marché,","Si  par contre  la  défaillance  intervient  entre  la  négociation"
+"","et opère en parallèle les poursuites judiciaires.","le PCRMF, a en charge :","et  la  livraison,  alors  la  perte  potentielle  correspond  à  la"
+"EXPOSITION AUX RISQUES ET STRATÉGIE","Tout 
+le  processus  de  décision  et  de  surveillance  des","- le  suivi  du  respect  des 
+limites,  que  celles-ci  soient","variation  du  cours  de  change  entre  le  cours  négocié  et  le"
+"DE COUVERTURE","risques est traçable et auditable.","quantitatives (niveaux de risque), qualitatives (instruments,","cours prévalant sur le marché au moment où il faut trouver"
+"","Notation interne","devises  ou  maturités  autorisés)  ou  relatives  aux  niveaux","une  nouvelle  contrepartie  de  remplacement,  il  s’agit  du"
+"2.1 RISQUE DE CRÉDIT","Le  Crédit  du  Maroc  dispose  d’un  système  de  notation.","de perte tolérée ;","coût de remplacement et c’est le risque de variation."
+"Politique générale","Il 
+couvre 
+toutes 
+les 
+créances 
+entreprises 
+(PME/PMI,","- le  traitement  des  dépassements  (analyse  des  raisons,","Ces risques sont encadrés par des limites individuelles sur"
+"La politique de crédit du Crédit du Maroc s’inscrit dans le","Grandes  entreprises  et  entreprises  des  secteurs  de 
+la","mode et délai de régularisation…) ;","les contreparties y compris les correspondants de la salle"
+"cadre de principes généraux et dans le respect des normes","promotion  immobilière  et  de  l’hôtellerie),  sauf  les  banques","- la surveillance des risques et des résultats en liaison avec","des marchés et accordées par la banque dans le cadre de"
+"édictées par le régulateur et par le groupe d’appartenance","et  les  institutions  financières  qui  disposent  d’une  notation","l’évolution des marchés ;","l’étude de risque annuelle."
+"Crédit Agricole SA.","spécifique en relation avec le groupe d’appartenance et qui","- l’analyse et le contrôle des P&L de gestion ;","Le calcul des consommations de VaR (Value at Risk) du CDM"
+"Elle 
+couvre 
+les 
+aspects 
+relatifs 
+à 
+la 
+déontologie,","font l’objet de notation par la maison mère Crédit Agricole SA.","- la production et le contrôle de la qualité des indicateurs de","est  réalisé  via  l’outil  de  Consolidation  du  Groupe  (Global"
+"l’indépendance, 
+la 
+responsabilité, 
+la 
+collégialité 
+des","Le  système  de  notation  du  Crédit  du  Maroc  est  conforme","risques ;","View  Risk)  alimenté  en  données  de  risques  de  marché"
+"décisions, la maîtrise et le suivi des risques, la rémunération","aux préconisations de Bâle 2. Il est uniforme sur l’ensemble","- le Back testing de la VaR (Value at Risk) ;","(vecteurs  de  sensibilités,  positions  de  change,  courbe  de"
+"des opérations, etc.","du périmètre du groupe Crédit Agricole.","- la production et l’analyse des stress scenarii ;","taux MAD) par les outils de CDM."
+"Elle est revue chaque année, dans le cadre de la stratégie","Le  système 
+repose  sur  une  appréciation  quantitative","- la vérification des données de marché ;","Aussi, 
+les  stress  globaux  selon 
+les  méthodologies  du"
+"risques qui examine toutes les activités de la banque et les","et  qualitative.  Il  fait  intervenir  les  différents  acteurs  du","- la  vérification  que 
+le  Back  Office  s’est  assuré  de 
+la","Groupe sur ces activités sont calculés hebdomadairement"
+"risques qu’elles induisent et fixe des limites opérationnelles","processus de décision : les chargés d’affaires, les risques","cohérence des stocks entre outil Front Office et données","via l’outil Groupe."
+"en termes de segment de clientèle, de secteurs d’activité,","et les décisionnaires.","comptables ;","Enfin, les résultats quotidiens des activités de trading (sur"
+"de concentration, etc.","Le  système  de  notation  du  Crédit  du  Maroc  est  backtesté","- la production et analyse des états de suivi de l’exposition","bonds et sur le change) sont alimentés dans l’outil Groupe"
+"Cette stratégie est présentée par le Directoire au Conseil de","annuellement.","aux risques.","(CADRE) et la VaR fait l’objet d’un back-testing."
+"surveillance qui la valide.","Pour 
+la  Banque 
+de  Réseau, 
+tous 
+les 
+crédits 
+à 
+la","Il  est  rattaché  hiérarchiquement  à  la  Direction  Contrôle","Mise en conformité par rapport à LBF / Volcker :"
+"Dispositif de décision et de gestion des risques","consommation sont soumis à un score d’octroi soit propre","Central des Risques.","Dans le cadre de la mise en conformité avec les exigences"
+"Etude et décision","au Crédit du Maroc, ou soit celui du partenaire Wafasalaf et","Le suivi des risques doit être effectué aux différents niveaux","de  LBF/Volcker  (Loi  Bancaire  Françaises  /  Volcker  rules),"
+"Le  processus  de  décision  découle  des  pouvoirs  détenus","ce, en fonction de critères bien définis.","de l’établissement avec des séparations de pouvoir entre le","une  réorganisation  des  portefeuilles  et  centres  de  profits"
+"par  le  Président  du  Directoire  et  des  subdélégations  qu’il","Grille de notation Corporate :","front office, le middle office, le back office, les risques et le","(découpage des activités par desk) a été mise en place en"
+"a  distribué  aux  acteurs,  selon  un  mode  intuitu-personae,","Elle  comporte  13  échelons  de  A  à  E,  avec  des  échelons","contrôle financier, autrement dit entre ceux qui passent les","phase  avec  l’arborescence  risques.  Cette  réorganisation"
+"décliné  en 
+fonction  des  marchés.  Au-delà  des 
+limites","intermédiaires, pour les contreparties saines et 2 échelons","ordres et ceux qui les contrôlent.","assure  une  séparation  entre 
+le  banking  book 
+(ALM  &"
+"subdéléguées, les décisions sont prises par le Comité des","F et Z, pour les contreparties en défaut, dont le dernier pour","Ainsi, cette organisation permet :","activités  de  trésorerie)  et  les  activités  de  la  direction  des"
+"crédits dont les décisions sont collégiales.","les contreparties en recouvrement juridique.","","marchés de capitaux (DMC) dont le rôle est d’assurer des"
+"","Ces  échelons  sont  compatibles  avec 
+les  échelles  de","- de s’assurer en permanence du respect des procédures,","opérations d’intermédiation avec la clientèle."
+"Le  processus  de  décision  est  géré  par  un  applicatif","","des normes et des  limites mises en place ;",""
+"informatique 
+centralisé 
+et 
+intégré 
+qui 
+détermine 
+en","notation des principales sociétés de rating internationales :","- d’analyser 
+les 
+causes  du  non-respect  éventuel  des",""
+"fonction de normes et de critères paramétrés, les niveaux","Standard&Poor et Moody’s.","procédures et des limites ;","2.3 RISQUES OPÉRATIONNELS"
+"de  délégation  requis.  Les  décisions  en  faveur  des  clients","Délégation :","- d’informer  les  entités  et/ou  les  personnes  désignées  à","Le  Crédit  du  Maroc  a  adopté 
+la  définition 
+issue  des"
+"professionnels et entreprises nécessitent un double regard","La  notation  est  un  élément  essentiel  du  processus  de","cet  effet  de  l’ampleur  des  dépassements  et  des  actions","recommandations  de  Bâle  2  pour  le  risque  opérationnel."
+"de la ligne commerciale et des risques.","décision. Elle conditionne le niveau de délégation.","correctrices qui sont proposées ou entreprises ;","Il  s’agit  des  pertes  résultant  de 
+l’inadéquation  ou  de 
+la"

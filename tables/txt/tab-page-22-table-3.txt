@@ -1,0 +1,37 @@
+"","","","","","","(En milliers de DH)","Provisions pour risques généraux(*)
+ 681 921   
+ 144 315   
+ -     
+ -     
+ 826 236","Valeurs en caisse, Banques centrales, Trésor public, Service des","19 942","29 394"
+"","","","Secteur privé","","","","Provisions pour pensions de 
+ 86 344   
+ 8 338   
+ -     
+ -     
+ 94 682","chèques postaux","",""
+"DÉPÔTS","Secteur","Entreprises","Entreprises","Autre","Total","Total","retraite et obligations similaires","Créances sur les établissements de crédit et assimilés","-","-"
+"","public","financières","non financières","clientèle","30/06/2020","31/12/2019","Provisions pour autres risques et 
+ 312 456   
+ 15 412   
+ 8 297   
+ 8 000   
+ 327 572","Créances sur la clientèle","418 545","283 023"
+"Comptes à vue créditeurs","398 197","115 818","7 786 476","21 587 458","29 887 949","29 238 617","charges","Créances sur Mourabaha","418 545","283 023"
+"Comptes d'épargne","-","-","-","9 723 063","9 723 063","9 788 183","Provisions réglementées
+ -     
+ -     
+ -     
+ -     
+ -","Créances sur Salam","-","-"
+"Dépots à terme","-","-","349 464","2 646 401","2 995 865","3 102 197","TOTAL GÉNÉRAL
+ 3 968 870   
+ 489 802   
+ 235 334   
+ 8 048   
+ 4 231 387","Créances sur autres financements participatifs","-","-"
+"Autres comptes créditeurs","-","1 885","644 185","541 248","1 187 319","949 179","(*)  La PRG tient compte des impacts prévisionnels de la crise sanitaire. L’estimation de cet impact a été faite notamment sur","Autres créances sur la clientèle","-","-"
+"Intérêts courus à payer","-","-","-","99 897","99 897","84 677","la base d’une analyse sectorielle ainsi que d’une analyse comportementale de la clientèle retail et elle tient compte des","Titres de transaction et de placement","-","-"
+"","","","","","","","éléments d’information disponibles à la date d’établissement des comptes. L’approche retenue pour l’estimation sera","dont certificat de Sukuk","-","-"
+"TOTAL","398 197","117 703","8 780 125","34 598 067","43 894 093","43 162 853","actualisée pour les prochains arrêtés en tenant compte de l’évolution de la situation sanitaire et économique.","Biens acquis dans le cadre de financements participatifs","74 512","90 652"
+"","","","","","","","","Immobilisations données en Ijara","-","-"

@@ -1,0 +1,177 @@
+"","","","","ASSIMILÉS AU COÛT AMORTI (3.2)","","","PAR CAPITAUX PROPRES RECYCLABLES (3.3)"
+"","","","","","","(En milliers de DH)","(En milliers de DH)"
+"","","","","","30/06/2020","31/12/2019","Valeur au 
+ Gains 
+ Pertes 
+30/06/2020"
+"","","","","Etablissements de crédit","-","","bilan 
+latents 
+latentes"
+"","","","","Comptes et prêts","2 288 542","4 158 531","Effets publics et valeurs assimilées
+ 2 541 873   
+ 84 333   
+-"
+"","","","","dont comptes ordinaires débiteurs non douteux (1)","2 288 542","3 788 508","Obligations et autres titres à revenu fixe
+ 913 121   
+ 2 709   
+-"
+"","","","","dont comptes et prêts au jour le jour non douteux (1)","-","370 023","Total des titres de dettes
+ 3 454 994   
+ 87 041   
+ -"
+"PRODUITS ET CHARGES DE COMMISSIONS (2.3)","","","","Valeurs reçues en pension","2 209 656","756 952","Prêts et créances sur les établissements de crédit
+ -     
+ -     
+-"
+"","","","(En milliers de DH)","Titres reçus en pension livrée","-","-","Prêts et créances sur la clientèle
+ -     
+ -     
+-"
+"","","","","Prêts subordonnés","-","-","Total des prêts et créances
+ -     
+ -     
+ -"
+"","","30/06/2020
+30/06/2019","","Autres prêts et créances","17 442","159 350","Total Instruments de dettes comptabilisés  à la juste 
+ 3 454 994   
+ 87 041   
+ -"
+"","Produits","Charges  
+  Net  
+  Produits  
+  Charges  
+  Net","","Valeur brute","4 515 640","5 074 833","valeur par capitaux propres recyclables"
+"Sur opérations avec les établissements de crédit","-","-     
+ -     
+ -     
+ -","-","Dépréciations","-9 349","-5 935","Impôts
+-
+-32 205   
+-
+Gains et pertes comptabilisés directement en capitaux"
+"Sur opérations internes","-","-     
+ -     
+ -     
+ -","-","Valeur nette des prêts et créances auprès des établissements","","","propres sur instruments de dettes comptabilisés à la juste 
+-
+ 54 836   
+ -"
+"Sur opérations avec la clientèle","31 761","-     
+ 31 761   
+ 33 303   
+ -","33 303","de crédit","4 506 291","5 068 897","valeur par capitaux propres recyclables (nets d'impôts)"
+"Sur opérations sur titres","51","-     
+ 51   
+ 1   
+ -","1","Opérations internes au Crédit du Maroc","-","","Valeur au 
+ Gains 
+ Pertes"
+"Sur opérations de change","2 006","1 031   
+ 975   
+ 2 941   
+ 3 098","-157","Comptes ordinaires","-","-","31/12/2019
+bilan 
+latents 
+latentes"
+"Sur opérations sur instruments dérivés et autres opérations de hors bilan","-","-     
+ -     
+ -     
+ -","-","Comptes et avances à terme","-","-","Effets publics et valeurs assimilées
+ 2 769 051   
+ 55 399   
+ -"
+"Sur moyens de paiement et autres prestations de services bancaires et financiers","171 834","10 530   
+ 161 304   
+ 190 691   
+ 12 723","177 968","Prêts subordonnés","-","-","Obligations et autres titres à revenu fixe
+ 960 652   
+ 99   
+ -"
+"","","","","Total prêts et créances internes au Crédit du Maroc","-","-","Total des titres de dettes
+ 3 729 703   
+ 55 499   
+ -"
+"Gestion d'OPCVM, fiducie et activités analogues","14 783","393   
+ 14 391   
+ 13 204   
+ 857","12 347","Valeur au bilan","4 506 291","5 068 897","Prêts et créances sur les établissements de crédit
+ -     
+ -     
+ -"
+"Produits nets des commissions","220 435","11 954   
+ 208 481   
+ 240 140   
+ 16 679","223 461","","","","Prêts et créances sur la clientèle
+ -     
+ -     
+ -"
+"","","","","","PRÊTS ET CRÉANCES SUR LA CLIENTÈLE AU COÛT AMORTI (3.2)","","Total des prêts et créances
+ -     
+ -     
+ -"
+"","","GAINS OU PERTES NETS SUR INSTRUMENTS FINANCIERS À LA","","","","(En milliers de DH)","Total Instruments de dettes comptabilisés  à la juste 
+ 3 729 703   
+ 55 499   
+ -     
+valeur par capitaux propres recyclables"
+"","","","","","30/06/2020","31/12/2019","Impôts
+-
+-20 534   
+ -"
+"","","JUSTE VALEUR PAR CAPITAUX PROPRES (2.6)","(En milliers de DH)","Opérations avec la clientèle","","","Gains et pertes comptabilisés directement en capitaux"
+"","","30/06/2020","30/06/2019","Créances commerciales","8 736 440","8 302 378","propres sur instruments de dettes comptabilisés à la juste 
+-
+ 34 964   
+ -"
+"","","Gains ou pertes nets sur instruments de dettes comptabilisés en","","Autres concours à la clientèle","32 115 822","32 389 360","valeur par capitaux propres recyclables (nets d'impôts)"
+"","","-     
+capitaux propres recyclables","1 682","Valeurs reçues en pension","1 977 517","2 497 298","AUTRES ACTIFS FINANCIERS À LA JUSTE VALEUR PAR RÉSULTAT (3.5)"
+"","","Rémunération des instruments de capitaux propres comptabilisés","","Titres reçus en pension livrée","-","-","(En milliers de DH)"
+"","","-     
+en capitaux propres non recyclables (dividendes)","-","Prêts subordonnés","-","-","30/06/2020
+31/12/2019"
+"","","Dont dividendes sur instruments décomptabilisés au cours de la 
+ -","-","Créances nées d’opérations d’assurance directe","-","-","Actions et autres titres à revenu variable
+295 171
+271 736"
+"","","période","","Créances nées d’opérations de réassurance","-","-","Titres de participation non consolidés
+53 868
+54 087"
+"","","Gains ou pertes nets sur instruments financiers à la juste valeur 
+ -","1 682","Avances en comptes courants d'associés","-","-","Total Instruments de capitaux propres à la juste valeur par résultat
+349 039
+325 823"
+"","","par capitaux propres","","Comptes ordinaires débiteurs","3 066 658","2 730 183",""
+"","","","","Valeur brute","45 896 437","45 919 219","AUTRES ACTIFS FINANCIERS À LA JUSTE VALEUR PAR RÉSULTAT (3.5)"
+"","","","","Dépréciations","-3 665 644","-3 377 025","(En milliers de DH)"
+"","","ACTIFS FINANCIERS AU COÛT AMORTI (3.2)","","Valeur nette des prêts et créances auprès de la clientèle","42 230 793","42 542 194","30/06/2020
+31/12/2019"
+"","","","(En milliers de DH)","Opérations de location-financement","-","","Actifs financiers détenus à des fins de transaction
+ 1 327 363   
+ 1 219 938"
+"","","30/06/2020","31/12/2019","Location-financement immobilier","710 938","669 223","Autres actifs financiers à la juste valeur par résultat
+ 349 039   
+ 325 823"
+"","","Prêts et créances sur les établissements de crédit
+ 4 506 291","5 068 897","Location-financement mobilier, location simple et opérations 
+assimilées","881 580","1 062 048","Instruments de capitaux propres
+ 304 336   
+ 281 120"
+"","","Prêts et créances sur la clientèle 
+ 43 856 103","44 199 048","Valeur brute","1 592 518","1 731 271","Instruments de dettes ne remplissant pas les critères SPPI
+ 44 703   
+ 44 703"
+"","","Titres de dettes
+ 14 948","20 433","Dépréciations","32 792","-74 418","Actifs représentatifs de contrats en unités de compte
+ -     
+ -"
+"","","Valeur au bilan
+ 48 377 343","49 288 378","Valeur nette des opérations de location-financement","1 625 310","1 656 854","Actifs financiers à la juste valeur par résultat sur option
+ -     
+ -"
+"","","","","Valeur au bilan","43 856 103","44 199 048","Valeur au bilan
+ 1 676 401   
+ 1 545 760"
+"","","","","","","","Dont Titres prêtés
+ -     
+ -"

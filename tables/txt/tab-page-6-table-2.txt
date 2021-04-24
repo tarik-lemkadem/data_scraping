@@ -1,0 +1,68 @@
+"","","","","","","","","","","(En milliers de DH)",""
+"","","Réserves","","Réserves","Gains et pertes 
+comptabilisés","Gains et pertes 
+comptabilisés","","Capitaux","","",""
+"","Capital","liées au","Actions 
+propres","et résultats","directement en","directement en","","propres part","Intérêts 
+minoritaires","Total","Préambule"
+"","","capital","","consolidés","capitaux propres 
+recyclables","capitaux propres non 
+recyclables","","Groupe","","","Le  Groupe  Crédit  du  Maroc  est  consolidé  en  normes"
+"Capitaux propres clôture au 31 Décembre 2018","1 088 121","2 619 265","-","1 389 434","30 700","","-","5 127 520","47 438","5 174 958","IAS/  IFRS  depuis  2004,  en  tant  que  filiale,  dans  les"
+"Opérations sur capital","-","-","-","-","-","","-","-","-","-","comptes du Crédit Agricole S.A."
+"Paiements fondés sur des actions","-","-","-","-","-","","-","-","-","-","En 2008 le Crédit du Maroc a procédé à une convergence"
+"Opérations sur actions propres","-","-","-","-","-","","-","-","-","-","des  paramètres  et  des  options  de  consolidation  entre"
+"Dividendes","-","-","-","-87 050","-","","-","-87 050","-","-87 050","les  comptes  consolidés  en  normes  IAS/IFRS  publiés"
+"Autres","-","","-","-","-","","-","-","-","-","au  31  décembre  2008  en  application  des  dispositions"
+"Changements de méthodes comptables","-","-","-","-","-","","-","-","-","-","réglementaires  de  Bank  Al  Maghrib 
+(BAM)  et 
+les"
+"Résultat de l'exercice","-","-","-","508 808","-","","-","508 808","3 374","512 181","comptes  adressés  au  Crédit  Agricole  SA  pour 
+les"
+"Immobilisations corporelles et incorporelles :","-","-","-","-","-","","-","-","-","-","besoins de sa consolidation."
+"Réevaluations et cessions","","","","","","","","","","","Le Crédit du Maroc a ainsi procédé à l’alignement des"
+"Instruments financiers : variations de juste valeur et 
+transferts en résultat","-","-","-","-","22 417","","-","22 417","-","22 417","paramètres  et  options  retenus  pour  le  traitement  des"
+"Ecarts actuariels sur les régimes à prestations définies","-","-","-","-","118","","-","118","-","118","comptes  adressés  au  groupe  Crédit  Agricole  SA  avec"
+"Ecarts de conversion : variations et transferts en résultat","-","-","-","-54 789","-","","-","-54 789","-","-54 789","ceux adoptés au moment de l’application du référentiel"
+"Gains ou pertes latents ou différés","-","-","-","-54 789","22 535","","-","-32 255","-","-32 255","IFRS,  conformément  aux  dispositions  réglementaires"
+"Autres","-","-","-","-","-","","-","-","-","-","de BAM."
+"Variations de périmètre","-","-","-","-","-","","-","-","-","-","Périmètre de consolidation"
+"Capitaux propres clôture au 31 Décembre 2019","1 088 121","2 619 265","-","1 756 403","53 235","","-","5 517 024","50 811","5 567 835",""
+"Opérations sur capital","-","-","-","-","-","","-","-","-","-","Les  états  financiers  consolidés  incluent  les  comptes"
+"Paiements fondés sur des actions","-","-","-","-","-","","-","-","-","-","de Crédit du Maroc et ceux de toutes les sociétés sur"
+"Opérations sur actions propres","-","-","-","-","-","","-","-","-","-","lesquelles  Crédit  du  Maroc  dispose  d’un  pouvoir  de"
+"Dividendes","-","-","-","-203 479","-","","-","-203 479","-","-203 479","contrôle."
+"Autres","-","","-","-","-","","-","-","-","-","Par 
+exception, 
+les 
+entités 
+ayant 
+un 
+impact 
+non"
+"Changements de méthodes comptables","-","-","-","-","-","","-","-","-","-","significatif sur les comptes consolidés de l’ensemble ne"
+"Résultat de l'exercice","-","-","-","23 725","-","","-","23 725","96","23 821","sont pas incluses dans le périmètre de consolidation."
+"Immobilisations corporelles et incorporelles : 
+Réevaluations et cessions","-","-","-","-","-","","-","-","-","-","Le caractère significatif de cet impact peut notamment"
+"Instruments financiers : variations de juste valeur et","","","","","","","","","","","être  apprécié  au  travers  de  divers  critères  tels  que"
+"transferts en résultat","-","-","-","-","19 872","","-","19 872","-","19 872","l’importance  du  résultat  ou  des  capitaux  propres  de"
+"Ecarts actuariels sur les régimes à prestations définies","-","-","-","-","793","","-","793","-","793","la société à consolider par rapport au résultat ou aux"
+"Ecarts de conversion : variations et transferts en résultat","-","-","-","768","-","","-","768","-","768","capitaux propres de l’ensemble consolidé."
+"Gains ou pertes latents ou différés","-","-","-","768","20 665","","-","21 434","-","21 434","Les notions de contrôle"
+"Autres","-","-","-","-","-","","-","-","-","-","Conformément 
+aux 
+normes 
+internationales, 
+la"
+"Variations de périmètre","-","-","-","-","-","","-","-","-","-","définition de contrôle, selon IFRS 10 comporte les trois"
+"Capitaux propres clôture au 30 Juin 2020","1 088 121","2 619 265","-","1 577 418","73 900","","-","5 358 704","50 907","5 409 611","éléments suivants :"
+"","","","","","","","","","","","• Le pouvoir détenu sur l’entité émettrice ;"
+"","","","","","","","","","","","• L’exposition ou le droit à des rendements variables, en"
+"","","","","","","","","","","","raison des liens avec l’entité émettrice ;"
+"","","","","","","","","","","","• La capacité de Crédit du Maroc d’exercer son pouvoir"
+"","","","","","","","","","","","sur 
+l’entité  émettrice  de  manière  à 
+influer  sur 
+le"
+"","","","","","","","","","","","montant des rendements qu’il obtient."

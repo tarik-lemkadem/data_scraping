@@ -1,0 +1,14 @@
+"DÉTAIL DES CHARGES DE CONTRATS DE LOCATION  (3.6)","","","Passage à perte","-","-","-","-","-74 777","74 777","-74 777","74 777","-"
+"","","(En milliers de DH)","Modification de flux sur restructurations pour cause de 
+difficultés financières","-","-","-","-","-","-","-","-","-"
+"","30/06/2020","30/06/2019","Evolution des paramètres de risque de crédit des modéles sur","-","-","-","-","-","-","-","-","-"
+"Intérêts et charges assimilées","-221 484","-259 317","la période","","","","","","","","",""
+"dont : Charges d'intérêts sur dettes locatives","-2 242","-2 289","Changements dans le modèle / méthodologie","-","-","-","-","-","-","-","-","-"
+"","","","Variation de périmètre","-","-","-","-","-","-","-","-","-"
+"Charges générales d'exploitation","-623 468","-534 299","Autres","-2 987 670","9 274","1 853 741","-17 382","340 181","-146 860","-793 748","-154 968","-"
+"dont : Charges relatives aux contrats de location court terme et 
+de faible valeur","-640","-17 840","Total","38 634 928","-122 748","5 083 588","-444 239","4 159 031","-3 454 458","47 877 548","-4 021 445","43 856 103"
+"Dotations aux amortissements des immobilisations corporelles","-74 823","-66 937","Variations de la Valeur comptable","-","-","-","-","-","-","-","-","-"
+"dont : Dotations aux amortissements sur droits d'utilisation","-12 756","-11 201","attribuables à des modalités d'évaluation comptable spécifiques 
+(sans impact significatif sur le montant de correction de valeur","-","-","-","-","-","-","-","-","-"
+"","","","pour perte) (1)","","","","","","","","",""

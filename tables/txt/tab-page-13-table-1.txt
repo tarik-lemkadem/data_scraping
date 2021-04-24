@@ -1,0 +1,44 @@
+"EXTRAIT DES NOTES ET ANNEXES IFRS","","EXTRAIT DES NOTES ET ANNEXES IFRS","","","",""
+"INFORMATIONS SUR LES CONTRATS DE LOCATION FINANCEMENT","","Couverture Médicale","• Le montant de l’engagement dépend :","","",""
+"","La  valeur  actualisée  des  paiements  minimaux  au  titre","La  CMIM,  système  de  couverture  médicale,  est  considérée  comme  un  régime  multi-","- de l’évolution du salaire,","","",""
+"","de la location s’élève à la totalité de la juste valeur de","employeurs à prestations définies. En l’absence d’informations suffisantes pour déterminer","- de l’âge au moment du départ (barème),","","",""
+"","l’actif loué.","la part d’obligation qui revient au Crédit du Maroc, elle est traitée comptablement comme","- de la proportion des collaborateurs intéressés par le départ volontaire,","","",""
+"","Dans 
+le  bilan, 
+les  actifs  donnés  en 
+location  sont","un régime à cotisations définies.","- de la probabilité de survie (table de mortalité),","","",""
+"","comptabilisés  comme  des  créances  pour  un  montant","","- de la probabilité de présence (turn over),","","",""
+"","égal à l’investissement net dans le contrat de location.","INDEMNITÉS DE FIN CONTRAT DE TRAVAIL","- du nombre d’années restant à l’octroi et du taux d’actualisation.","","COMPTABILISATION DES ENGAGEMENTS SOCIAUX",""
+"","(En milliers de DH)","Indemnité de départ volontaire","","(En milliers de DH)","","Le Groupe Crédit du Maroc a opté pour la comptabilisation des écarts actuariels relatifs"
+"Pour le Bailleur","","• Régie  par  un  protocole  d’accord  au  niveau  du  GPBM,  l’indemnité  de  départ  volontaire","30/06/2020","31/12/2019","","aux  engagements  sociaux  postérieurs  à  l’emploi  (prime  de  fin  de  carrière)  en  capitaux"
+"Durée résiduelle
+Valeur actualisée des paiements minimaux  
+Investissement brut total
+à recevoir au titre de la location","Correction de valeur cumulée des paiements 
+Produits financiers non acquis
+minimaux au titre de la location non recouvrables","permet aux salariés, et après accord du Directoire, de faire valoir leur droit à la retraite","42 363
+Provisions pour prime de fin carrière","36 767","propres selon la méthode du SoRIE (Statement Of Recognised Income and Expenses).",""
+"≤ 1 an
+ 354 797     
+ 288 345","66 452     
+ 283 838","anticipée selon les critères d’éligibilité suivants :","44 366
+Provisions pour indemnité de départ volontaire","12 417","","Les avantages au personnel entrant dans les catégories IAS 19 des autres avantages long"
+"> 1 an ≤ 5 ans
+ 1 628 164     
+ 1 438 672","189 492     
+ 1 302 531","- à partir de 50 ans révolus pour les femmes","10 731
+Provisions pour prime de fidélité","39 646","","terme (Prime de fidélité) et des indemnités de fin de contrat de travail (Prime de départ"
+"> 5 ans
+ 174 863     
+ 152 230","22 633     
+ 139 890","- à partir de 55 ans révolus pour les hommes","97 461
+Total","88 829","volontaire) continueront a être comptabilisés en résultat.",""
+"TOTAL
+ 2 157 824     
+ 1 879 247","278 577     
+ 1 726 259","- avoir une ancienneté minimum de 21 ans de service","","","L","’impact  des  écarts  actuariels  sur  engagements  sociaux  à  fin  JUIN  2020  se  présente"
+"","","• Le montant de l’indemnité est calculé en fonction du salaire au moment du départ et d’un","30/06/2020","31/12/2019","comme suit :",""
+"INFORMATIONS RELATIVES AUX PARTIES LIÉES","","barème basé sur l’âge du collaborateur.","2,11%
+Taux d'actualisation","2,61%","Brut 
+ID","Net"
+"","(En milliers de DH)","","","","Impact Compte de Résultat",""

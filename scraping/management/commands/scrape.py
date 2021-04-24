@@ -13,7 +13,7 @@ class Command(BaseCommand):
     # define  command
     def handle(self, *args, **options):
         # collect html
-        urls = 'https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-monetaire/Marche-monetaire-interbancaire?limit=0&block=ae14ce1a4ee29af53d5645f51bf0e97d&offset=110#address-d3239ec6d067cd9381f137545720a6c9-ae14ce1a4ee29af53d5645f51bf0e97d'
+        urls = 'https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-monetaire/Marche-monetaire-interbancaire?limit=0&block=ae14ce1a4ee29af53d5645f51bf0e97d&offset=210#address-d3239ec6d067cd9381f137545720a6c9-ae14ce1a4ee29af53d5645f51bf0e97d'
         #urls = 'https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-monetaire/Marche-monetaire-interbancaire/'
         dfs = pd.read_html(urls)
 

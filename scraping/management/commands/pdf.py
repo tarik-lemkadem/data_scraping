@@ -18,17 +18,29 @@ class Command(BaseCommand):
         #file = "files\\foo.pdf"
         file = "files\CDM_RFS.pdf"
         table_areas = None
-        tables = camelot.read_pdf(file,pages='5', flavor='stream',row_tol=10,table_areas=table_areas, split_text=False, layout_kwargs={'detect_vertical': False})
+        tables = camelot.read_pdf(file,pages='all',
+                                flavor='stream',
+                                row_tol=8,table_areas=table_areas,
+                                split_text=False,
+                                layout_kwargs={'char_margin':2.0,
+                                            'line_margin':1,#0.5,
+                                            'word_margin':0.1,
+                                            #'line_overlap':0.5,
+                                            #'boxes_flow':0.5,
+                                            'detect_vertical':False,
+                                            'all_texts':False})
         print("Total tables extracted:", tables.n)
         if tables.n >0 :
             print(tables[0].df)
             tables[0].parsing_report
         # or export all in a zip
         #tables.export("tables\\tables2.csv", f="csv", compress=True)
-        for t in tables:
-            t.df.dropna(inplace=True)
+        #for t in tables:
+        #    t.df.dropna(inplace=True)
         
-        tables.export("tables\\tab.csv", f="csv", compress=False)
+        #tables.export("tables\\tab.csv", f="csv", compress=False)
+        tables.export("tables\\txt\\tab.txt", f="csv", compress=False)
+        camelot.plot(tables[0], kind='text').show()
         #camelot.plot(tables[0], kind='grid').show()
         '''
 
